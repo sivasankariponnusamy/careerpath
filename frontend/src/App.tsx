@@ -7,21 +7,16 @@ import { LearningPath } from "./components/LearningPath";
 import api from "./services/api";
 import { jobRoles } from "./data/jobRoles";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { 
   BarChart3, 
-  Target, 
-  BookOpen, 
-  TrendingUp, 
   Users, 
-  Award,
   CheckCircle,
   ArrowRight,
   Sparkles,
   Brain,
   Rocket,
-  Upload,
   FileText,
   TrendingUp as TrendingUpIcon,
   Briefcase
@@ -50,39 +45,6 @@ function App() {
     };
     checkBackend();
   }, []);
-
-  const handleAnalyze = async () => {
-    if (!selectedJob || selectedSkills.length === 0) {
-      setError('Please select a job role and at least one skill');
-      return;
-    }
-
-    setLoading(true);
-    setError(null);
-
-    try {
-      // Call Flask API for skill gap analysis
-      const result = await api.analyzeSkillGap(selectedSkills, selectedJob);
-      
-      // Get career guidance
-      const guidance = await api.getCareerGuidance(
-        selectedSkills, 
-        selectedJob, 
-        result.missing_skills
-      );
-      
-      // Combine results
-      setSkillGapResult({
-        ...result,
-        guidance: guidance.guidance
-      });
-      setAnalysisComplete(true);
-    } catch (err: any) {
-      setError(err.message || 'Failed to analyze skills. Please ensure the backend is running.');
-    } finally {
-      setLoading(false);
-    }
-  };
 
   const handleReset = () => {
     setSelectedJob(null);
