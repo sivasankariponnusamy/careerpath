@@ -3,7 +3,6 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Upload, FileText, CheckCircle, AlertCircle, X, Loader2, Sparkles } from "lucide-react";
-import { availableSkills } from "../data/skills";
 
 interface ResumeUploaderProps {
   onSkillsExtracted: (skills: string[], roleId?: string) => void;
@@ -12,7 +11,6 @@ interface ResumeUploaderProps {
 }
 
 export function ResumeUploader({ onSkillsExtracted, selectedSkills, onResumeRemoved }: ResumeUploaderProps) {
-  const [isUploading, setIsUploading] = useState(false);
   const [uploadedFile, setUploadedFile] = useState<File | null>(null);
   const [extractedSkills, setExtractedSkills] = useState<string[]>([]);
   const [categorizedSkills, setCategorizedSkills] = useState<Record<string, string[]>>({});

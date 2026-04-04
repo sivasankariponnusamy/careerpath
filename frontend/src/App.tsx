@@ -28,7 +28,6 @@ function App() {
   const [detectedRole, setDetectedRole] = useState<string | null>(null);
   const [analysisComplete, setAnalysisComplete] = useState(false);
   const [skillGapResult, setSkillGapResult] = useState<any>(null);
-  const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [backendStatus, setBackendStatus] = useState<'checking' | 'online' | 'offline'>('checking');
 

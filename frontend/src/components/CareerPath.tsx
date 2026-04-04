@@ -12,13 +12,10 @@ import {
   Briefcase, 
   DollarSign, 
   MapPin, 
-  Calendar,
   Star,
-  Users,
   BookOpen,
   CheckCircle,
   XCircle,
-  ArrowRight,
   Download,
   Share2
 } from "lucide-react";

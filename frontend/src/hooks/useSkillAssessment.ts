@@ -65,7 +65,7 @@ export function useSkillAssessment() {
     setIsAssessmentComplete(true);
   };
 
-  const generateRecommendations = (skill: string, score: number, level: string): string[] => {
+  const generateRecommendations = (skill: string, score: number): string[] => {
     const recommendations: string[] = [];
     
     if (score < 50) {

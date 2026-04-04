@@ -19,8 +19,8 @@ ${missingSkills.map(skill => `• ${skill}`).join('\n')}
 
 Recommended Learning Resources:
 ${missingSkills.map(skill => {
-  const resources = skillResources[skill] || [];
-  return resources.map((resource, index) => `
+  const resources = (skillResources as Record<string, any[]>)[skill] || [];
+  return resources.map((resource: any, index: number) => `
 ${skill} - Resource ${index + 1}:
   Title: ${resource.title}
   Description: ${resource.description}
@@ -71,7 +71,7 @@ Powered by CareerPath AI
       <CardContent>
         <div className="space-y-6">
           {missingSkills.map((skill, skillIndex) => {
-            const resources = skillResources[skill] || [];
+            const resources = (skillResources as Record<string, any[]>)[skill] || [];
             
             return (
               <div key={skill} className="border-l-4 border-indigo-500 pl-4">
@@ -83,7 +83,7 @@ Powered by CareerPath AI
                 </div>
                 
                 <div className="grid md:grid-cols-2 gap-4">
-                  {resources.map((resource, index) => (
+                  {resources.map((resource: any, index: number) => (
                     <Card key={index} className="border-gray-200 hover:shadow-md transition-shadow">
                       <CardHeader className="pb-3">
                         <div className="flex items-start justify-between">

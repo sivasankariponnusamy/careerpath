@@ -3,7 +3,7 @@ import { jobRoles } from "../data/jobRoles";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Briefcase, DollarSign, TrendingUp, Users, ExternalLink, MapPin, Clock, Star } from "lucide-react";
+import { Briefcase, DollarSign, TrendingUp, Users, ExternalLink, MapPin, Star } from "lucide-react";
 
 interface JobSelectorProps {
   selectedJob: string | null;
