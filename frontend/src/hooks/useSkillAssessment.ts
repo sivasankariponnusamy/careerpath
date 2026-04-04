@@ -51,7 +51,7 @@ export function useSkillAssessment() {
       level = 'Beginner';
     }
 
-    const recommendations = generateRecommendations(selectedSkill, score, level);
+    const recommendations = generateRecommendations(selectedSkill, score);
     const nextSteps = generateNextSteps(selectedSkill, level);
 
     setAssessment({
