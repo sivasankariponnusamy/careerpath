@@ -40,9 +40,11 @@ CORS(app)
 from models import db, Resume, SkillGapAnalysis
 
 BASEDIR = os.path.abspath(os.path.dirname(__file__))
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(BASEDIR, 'career_path.db')
+db_path = os.environ.get('DB_PATH', os.path.join(BASEDIR, 'career_path.db'))
+upload_folder = os.environ.get('UPLOAD_FOLDER', os.path.join(BASEDIR, 'uploads'))
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + db_path
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-app.config['UPLOAD_FOLDER'] = os.path.join(BASEDIR, 'uploads')
+app.config['UPLOAD_FOLDER'] = upload_folder
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max file size
 
 # Initialize database
