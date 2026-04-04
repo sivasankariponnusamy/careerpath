@@ -1,10 +1,9 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { JobSelector } from "./components/JobSelector";
 import { SkillSelector } from "./components/SkillSelector";
 import { ResumeUploader } from "./components/ResumeUploader";
 import { CareerPath } from "./components/CareerPath";
 import { LearningPath } from "./components/LearningPath";
-import api from "./services/api";
 import { jobRoles } from "./data/jobRoles";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
