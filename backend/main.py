@@ -64,11 +64,45 @@ LLAMA_MODEL = "llama2"  # You can change this to llama3 or other models
 
 # Load datasets
 DATASET_PATH = os.path.join(os.path.dirname(__file__), '..', 'dataset')
-df_text = pd.read_csv(os.path.join(DATASET_PATH, 'job_dataset_text.csv'))
-df_encoded = pd.read_csv(os.path.join(DATASET_PATH, 'job_dataset_encoded.csv'))
+try:
+    df_text = pd.read_csv(os.path.join(DATASET_PATH, 'job_dataset_text.csv'))
+    df_encoded = pd.read_csv(os.path.join(DATASET_PATH, 'job_dataset_encoded.csv'))
+    all_skills = [col for col in df_encoded.columns if col != 'role']
+    print(f"✓ Dataset loaded with {len(all_skills)} skills")
+except Exception as e:
+    print(f"⚠ Dataset not found, using built-in skill list: {e}")
+    df_text = pd.DataFrame()
+    df_encoded = pd.DataFrame()
+    # Comprehensive built-in skill list for serverless deployment
+    all_skills = [
+        'Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'C#', 'Go', 'Rust', 'PHP', 'Ruby',
+        'Swift', 'Kotlin', 'Scala', 'R', 'MATLAB', 'Perl', 'Bash', 'Shell',
+        'React', 'Angular', 'Vue', 'HTML', 'CSS', 'Node.js', 'Express', 'Flask', 'Django',
+        'FastAPI', 'Spring', 'Spring Boot', 'Laravel', 'Rails', 'ASP.NET', 'Next.js', 'Nuxt.js',
+        'Tailwind', 'Bootstrap', 'jQuery', 'Redux', 'GraphQL', 'REST API', 'gRPC',
+        'MongoDB', 'PostgreSQL', 'MySQL', 'SQLite', 'SQL', 'NoSQL', 'Redis', 'Cassandra',
+        'Oracle', 'DynamoDB', 'Elasticsearch', 'Firebase', 'Supabase',
+        'Docker', 'Kubernetes', 'AWS', 'Azure', 'GCP', 'CI/CD', 'Jenkins', 'GitHub Actions',
+        'Git', 'Linux', 'Nginx', 'Apache', 'Terraform', 'Ansible', 'Prometheus', 'Grafana',
+        'EC2', 'S3', 'Lambda', 'CloudFormation', 'EKS', 'ECS', 'RDS',
+        'Machine Learning', 'Deep Learning', 'TensorFlow', 'PyTorch', 'Scikit-learn',
+        'NLP', 'Computer Vision', 'OpenCV', 'LangChain', 'RAG', 'LLM',
+        'Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'Jupyter', 'Data Analysis',
+        'PowerBI', 'Tableau', 'Excel', 'Data Engineering', 'Apache Spark', 'Kafka',
+        'Android', 'iOS', 'React Native', 'Flutter', 'Dart', 'Xcode',
+        'Figma', 'Adobe XD', 'Sketch', 'UI/UX', 'Wireframing', 'Prototyping',
+        'Agile', 'Scrum', 'Jira', 'Project Management', 'Leadership',
+        'Problem Solving', 'Teamwork', 'Communication', 'Critical Thinking',
+        'Cybersecurity', 'Network Security', 'Penetration Testing', 'OWASP',
+        'Blockchain', 'Solidity', 'Web3', 'Smart Contracts',
+        'OpenAI', 'HuggingFace', 'BERT', 'GPT', 'Stable Diffusion',
+        'RabbitMQ', 'Celery', 'WebSocket', 'OAuth', 'JWT', 'Microservices',
+        'Unit Testing', 'Jest', 'Pytest', 'Selenium', 'Cypress',
+    ]
 
-# Get all unique skills from the dataset
-all_skills = [col for col in df_encoded.columns if col != 'role']
+# If dataset was not loaded, all_skills is already set above; otherwise use dataset columns
+if not df_encoded.empty:
+    all_skills = [col for col in df_encoded.columns if col != 'role']
 
 class CareerRecommendationSystem:
     """
@@ -83,6 +117,8 @@ class CareerRecommendationSystem:
     
     def _create_role_profiles(self):
         """Create average skill profiles for each role"""
+        if df_encoded.empty:
+            return {}
         profiles = {}
         for role in df_encoded['role'].unique():
             role_data = df_encoded[df_encoded['role'] == role]
@@ -92,6 +128,9 @@ class CareerRecommendationSystem:
     
     def train_model(self):
         """Train Random Forest Classifier on the dataset"""
+        if df_encoded.empty:
+            print("⚠ No dataset available, skipping model training")
+            return
         print("Training Random Forest Classifier...")
         
         # Prepare features and labels
@@ -128,6 +167,10 @@ class CareerRecommendationSystem:
     
     def predict_career(self, user_skills):
         """Predict career role using Random Forest Classifier"""
+        if self.rf_model is None or not all_skills:
+            # Fallback: rule-based role detection when no ML model
+            return self._rule_based_predict(user_skills)
+
         # Create user skill vector
         user_vector = np.zeros(len(all_skills))
         for skill in user_skills:
@@ -155,6 +198,29 @@ class CareerRecommendationSystem:
             })
         
         return predictions
+
+    def _rule_based_predict(self, user_skills):
+        """Rule-based role prediction when ML model is not available"""
+        skills_lower = [s.lower() for s in user_skills]
+        role_scores = {
+            'Frontend Developer': sum(1 for s in ['react', 'angular', 'vue', 'html', 'css', 'javascript', 'typescript', 'tailwind', 'next.js'] if s in skills_lower),
+            'Backend Developer': sum(1 for s in ['python', 'java', 'node.js', 'flask', 'django', 'fastapi', 'spring', 'postgresql', 'mysql', 'rest api'] if s in skills_lower),
+            'Full Stack Developer': sum(1 for s in ['react', 'node.js', 'python', 'javascript', 'mongodb', 'postgresql', 'html', 'css'] if s in skills_lower),
+            'Data Scientist': sum(1 for s in ['python', 'machine learning', 'pandas', 'numpy', 'scikit-learn', 'tensorflow', 'pytorch', 'data analysis', 'r'] if s in skills_lower),
+            'DevOps Engineer': sum(1 for s in ['docker', 'kubernetes', 'aws', 'azure', 'ci/cd', 'linux', 'terraform', 'jenkins', 'git'] if s in skills_lower),
+            'Mobile Developer': sum(1 for s in ['android', 'ios', 'react native', 'flutter', 'swift', 'kotlin', 'dart'] if s in skills_lower),
+            'Machine Learning Engineer': sum(1 for s in ['machine learning', 'deep learning', 'tensorflow', 'pytorch', 'scikit-learn', 'nlp', 'computer vision', 'python'] if s in skills_lower),
+            'Data Engineer': sum(1 for s in ['python', 'apache spark', 'kafka', 'sql', 'aws', 'data engineering', 'pandas'] if s in skills_lower),
+            'Cloud Engineer': sum(1 for s in ['aws', 'azure', 'gcp', 'docker', 'kubernetes', 'terraform', 'ec2', 's3'] if s in skills_lower),
+            'UI/UX Designer': sum(1 for s in ['figma', 'adobe xd', 'sketch', 'ui/ux', 'wireframing', 'prototyping', 'css'] if s in skills_lower),
+        }
+        sorted_roles = sorted(role_scores.items(), key=lambda x: x[1], reverse=True)
+        predictions = []
+        for role, score in sorted_roles[:5]:
+            if score > 0:
+                confidence = min(score * 15, 95)
+                predictions.append({'role': role, 'confidence': confidence, 'match_percentage': confidence})
+        return predictions if predictions else [{'role': 'Software Developer', 'confidence': 50, 'match_percentage': 50}]
     
     def analyze_skill_gap(self, user_skills, target_role):
         """Analyze skill gap between user skills and target role"""
