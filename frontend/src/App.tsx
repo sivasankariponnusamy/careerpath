@@ -28,22 +28,6 @@ function App() {
   const [detectedRole, setDetectedRole] = useState<string | null>(null);
   const [analysisComplete, setAnalysisComplete] = useState(false);
   const [skillGapResult, setSkillGapResult] = useState<any>(null);
-  const [error, setError] = useState<string | null>(null);
-  const [backendStatus, setBackendStatus] = useState<'checking' | 'online' | 'offline'>('checking');
-
-  // Check backend health on mount
-  useEffect(() => {
-    const checkBackend = async () => {
-      try {
-        await api.healthCheck();
-        setBackendStatus('online');
-      } catch (err) {
-        setBackendStatus('offline');
-        setError('Backend server is not running. Please start the Flask backend.');
-      }
-    };
-    checkBackend();
-  }, []);
 
   const handleReset = () => {
     setSelectedJob(null);
@@ -198,27 +182,6 @@ function App() {
                 </div>
               </div>
             </div>
-
-            {/* Backend Status Alert */}
-            {backendStatus === 'offline' && (
-              <Card className="border-red-200 bg-red-50">
-                <CardContent className="p-4">
-                  <div className="flex items-center gap-2 text-red-800">
-                    <span className="font-semibold">⚠️ Backend Offline</span>
-                    <span>Please start the Flask backend server on port 5000</span>
-                  </div>
-                </CardContent>
-              </Card>
-            )}
-
-            {/* Error Display */}
-            {error && (
-              <Card className="border-red-200 bg-red-50">
-                <CardContent className="p-4">
-                  <div className="text-red-800">{error}</div>
-                </CardContent>
-              </Card>
-            )}
 
             {/* Hero Section */}
             <div className="text-center mb-8">
