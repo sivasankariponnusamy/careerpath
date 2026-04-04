@@ -60,7 +60,7 @@ export function ResumeUploader({ onSkillsExtracted, selectedSkills, onResumeRemo
     }
   };
 
-  const analyzeResume = async (file: File) => {
+  const analyzeResume = async (_file: File) => {
     setIsAnalyzing(true);
     
     // Backend not deployed yet - show informative message
