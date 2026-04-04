@@ -1,0 +1,19 @@
+[project]
+name = "skill-gap-analyzer-backend"
+version = "1.0.0"
+description = "AI-powered career guidance and skill gap analysis backend"
+requires-python = ">=3.10"
+dependencies = [
+    "flask>=3.0.0",
+    "flask-cors>=4.0.0",
+    "pandas>=2.1.0",
+    "numpy>=1.24.0",
+    "scikit-learn>=1.3.0",
+    "requests>=2.31.0",
+    "PyPDF2>=3.0.0",
+    "python-docx>=1.0.0",
+    "python-pptx>=0.6.0",
+]
+
+[dependency-groups]
+dev = []

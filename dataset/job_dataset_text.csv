@@ -1,0 +1,2001 @@
+skills,num_skills,role
+"AWS, C++, Cryptography, Network Security, Penetration Testing, R, Scala",7,Security Engineer
+"Docker, Java, Node.js, Python, RESTful APIs, SQL, TensorFlow",7,Backend Developer
+"Agile, Data Analysis, Leadership, Project Management, SQL",5,Product Manager
+"AWS, Ansible, Docker, Git, Google Cloud, Kubernetes, Linux, Ruby, TensorFlow",9,DevOps Engineer
+"Deep Learning, NumPy, Pandas, PyTorch, Python, Redis, SQL, Statistics",8,Data Scientist
+"Agile, Data Analysis, Docker, Leadership, NumPy, Project Management, Redis",7,Product Manager
+"Ansible, CSS, Cybersecurity, Data Visualization, Deep Learning, Machine Learning, Pandas, Python, Statistics",9,Data Scientist
+"CSS, Git, HTML, Node.js, Python, RESTful APIs, React, Ruby, SQL, Vue.js",10,Full Stack Developer
+"Angular, CSS, JavaScript, RESTful APIs, React",5,Frontend Developer
+"Linux, Network Security, OWASP, Penetration Testing, Power BI",5,Security Engineer
+"Data Visualization, Deep Learning, Machine Learning, NumPy, Project Management, PyTorch, Python, Statistics",8,Data Scientist
+"Deep Learning, Machine Learning, NumPy, Pandas, PyTorch, Python, TensorFlow",7,Data Scientist
+"Cassandra, Data Visualization, Docker, Git, Pandas, Problem Solving, Python, RESTful APIs",8,Software Engineer
+"Azure, Deep Learning, Docker, Machine Learning, PyTorch, TensorFlow",6,Machine Learning Engineer
+"Cryptography, Data Visualization, Docker, Flask, Machine Learning, NumPy, PyTorch, Python, Statistics, TensorFlow",10,Data Scientist
+"Cybersecurity, Docker, Python, RESTful APIs, Ruby, SQL, Vue.js",7,Backend Developer
+"NumPy, Pandas, Penetration Testing, PyTorch, Python, SQL, Statistics, Terraform",8,Data Scientist
+"CI/CD, Docker, Git, Monitoring, Problem Solving, Python, RESTful APIs",7,Software Engineer
+"Data Visualization, Docker, Google Cloud, Machine Learning, PHP, Pandas, Python, R, Statistics",9,Data Scientist
+"AWS, Azure, CI/CD, Cloud Architecture, Security",5,Cloud Architect
+"Android, Flutter, Kotlin, RESTful APIs, SQL, iOS",6,Mobile Developer
+"AWS, Azure, Cloud Architecture, Kubernetes, Microservices, Redis",6,Cloud Architect
+"CI/CD, Excel, Pandas, Python, R, SQL, Scala, Statistics",8,Data Analyst
+"Ansible, CI/CD, Docker, Git, Jenkins, Kubernetes, Linux, Python",8,DevOps Engineer
+"Git, Java, JavaScript, Problem Solving, RESTful APIs, Ruby, TypeScript, Vue.js",8,Software Engineer
+"Cryptography, Cybersecurity, Incident Response, Java, Network Security, Project Management, Vue.js",7,Security Engineer
+"CI/CD, Docker, Git, Go, Java, Jenkins, Python, RESTful APIs",8,Software Engineer
+"AWS, Azure, Docker, Git, Kubernetes, Linux, Python, Terraform",8,DevOps Engineer
+"CSS, HTML, JavaScript, TypeScript",4,Frontend Developer
+"Data Analysis, Excel, Linux, Python, Statistics, Tableau",6,Data Analyst
+"AWS, CI/CD, Deep Learning, Docker, Jenkins, Kubernetes, Linux, MongoDB, Python",9,DevOps Engineer
+"AWS, Data Visualization, Google Cloud, Machine Learning, NumPy, Pandas, Project Management, Python, SQL, Statistics, TensorFlow",11,Data Scientist
+"Ansible, CI/CD, Docker, Flask, Git, Jenkins, Linux, MySQL, PyTorch, Python",10,DevOps Engineer
+"AWS, Deep Learning, Excel, Python, Scikit-learn, Statistics, TensorFlow",7,Machine Learning Engineer
+"Azure, Cloud Architecture, Docker, Microservices, Terraform, TypeScript",6,Cloud Architect
+"CSS, Cryptography, HTML, JavaScript, MongoDB, Node.js, React, SQL",8,Full Stack Developer
+"AWS, Azure, Cloud Architecture, Docker, Microservices, Python, Security",7,Cloud Architect
+"Excel, Java, Problem Solving, Python, RESTful APIs, SQL, SQL Server, Teamwork",8,Software Engineer
+"Azure, CI/CD, Cloud Architecture, Docker, PostgreSQL, Terraform",6,Cloud Architect
+"Agile, Git, Kotlin, MySQL, Swift, iOS",6,Mobile Developer
+"Docker, Java, Power BI, Problem Solving, Python, RESTful APIs, SQL, Statistics, TypeScript",9,Software Engineer
+"AWS, Cryptography, Machine Learning, NumPy, Python, Spark, TensorFlow",7,Machine Learning Engineer
+"Docker, HTML, Java, MongoDB, Project Management, Python, RESTful APIs, SQL",8,Backend Developer
+"AWS, Cybersecurity, Deep Learning, Docker, Machine Learning, Python, Scikit-learn, iOS",8,Machine Learning Engineer
+"AWS, Ansible, Azure, CI/CD, Git, Jenkins, Kubernetes, Linux, Ruby",9,DevOps Engineer
+"Cybersecurity, Incident Response, OWASP, Penetration Testing",4,Security Engineer
+"Azure, Cloud Architecture, Docker, Google Cloud, Microservices, Oracle, Terraform",7,Cloud Architect
+"Git, Java, Kubernetes, Problem Solving, RESTful APIs, SQL",6,Software Engineer
+"Agile, Docker, Java, Leadership, Project Management, SQL",6,Product Manager
+"Business Intelligence, Data Analysis, Excel, Pandas, Penetration Testing, Python, Statistics, Tableau, Terraform",9,Data Analyst
+"Ansible, Docker, Git, Kubernetes, Linux, Problem Solving, Python, TensorFlow, Terraform",9,DevOps Engineer
+"Docker, Java, MongoDB, RESTful APIs, React, SQL",6,Backend Developer
+"Docker, Monitoring, PostgreSQL, Python, RESTful APIs, SQL",6,Backend Developer
+"Agile, Azure, Business Intelligence, Communication, Excel, Leadership, PostgreSQL",7,Product Manager
+"Java, MySQL, Node.js, PostgreSQL, Python, RESTful APIs, Redis, Teamwork",8,Backend Developer
+"Git, Java, Python, RESTful APIs, SQL",5,Software Engineer
+"C#, Deep Learning, Firebase, Kotlin, React Native, Swift, iOS",7,Mobile Developer
+"Angular, CI/CD, HTML, JavaScript, MongoDB, Node.js, Python, React",8,Full Stack Developer
+"Angular, CI/CD, Docker, Git, Oracle, Problem Solving, Python, RESTful APIs, Ruby",9,Software Engineer
+"Cybersecurity, Data Analysis, PostgreSQL, Python, RESTful APIs, Redis, SQL",7,Backend Developer
+"Data Visualization, Machine Learning, NumPy, Pandas, PyTorch, Python, R, SQL, Statistics",9,Data Scientist
+"JavaScript, MongoDB, Monitoring, MySQL, Node.js, Python, RESTful APIs, React, SQL Server",9,Full Stack Developer
+"Android, Git, RESTful APIs, Swift, iOS",5,Mobile Developer
+"AWS, Business Intelligence, Docker, Java, PostgreSQL, Python, SQL",7,Backend Developer
+"CI/CD, Compliance, Cryptography, Cybersecurity, Jenkins, Linux, Network Security, Penetration Testing",8,Security Engineer
+"Android, Go, JavaScript, Kotlin, Monitoring, RESTful APIs, Scikit-learn, iOS",8,Mobile Developer
+"AWS, C++, Firebase, Flutter, Kotlin, Node.js, RESTful APIs, Swift, iOS",9,Mobile Developer
+"Communication, Data Analysis, Leadership, Project Management",4,Product Manager
+"Cryptography, Docker, HTML, Kotlin, Linux, Network Security, Penetration Testing, TensorFlow",8,Security Engineer
+"AWS, Azure, CI/CD, Communication, Docker, Google Cloud, SQL Server, Terraform",8,Cloud Architect
+"CSS, Docker, Git, HTML, RESTful APIs, React, SQL, Tableau, Vue.js",9,Frontend Developer
+"AWS, CI/CD, Docker, Git, Java, Linux, Monitoring, Network Security, React, Terraform",10,DevOps Engineer
+"Agile, Communication, Leadership, Oracle, Project Management, SQL, Scala",7,Product Manager
+"AWS, Deep Learning, Docker, Python, Spark, TensorFlow",6,Machine Learning Engineer
+"Cybersecurity, Linux, Network Security",3,Security Engineer
+"CSS, Communication, Deep Learning, JavaScript, Kubernetes, MongoDB, Node.js, Python, React",9,Full Stack Developer
+"Docker, Excel, Java, Oracle, PostgreSQL, RESTful APIs, SQL, Swift",8,Backend Developer
+"Communication, Data Analysis, JavaScript, Leadership, Project Management, Terraform",6,Product Manager
+"Compliance, Cryptography, Cybersecurity, Penetration Testing, PyTorch, Python",6,Security Engineer
+"AWS, Azure, Cloud Architecture, Django, Docker, Kubernetes, Scala",7,Cloud Architect
+"CSS, HTML, JavaScript, Kotlin, MongoDB, Python, RESTful APIs, React, SQL, SQL Server",10,Full Stack Developer
+"Excel, Power BI, Python, SQL, Statistics",5,Data Analyst
+"A/B Testing, Data Analysis, Data Visualization, Excel, PHP, Power BI, Python, Statistics",8,Data Analyst
+"Network Security, OWASP, Penetration Testing, Python",4,Security Engineer
+"Git, JavaScript, Node.js, PostgreSQL, RESTful APIs, React, SQL",7,Full Stack Developer
+"Data Analysis, Excel, Flutter, Pandas, Project Management, R, SQL",7,Data Analyst
+"Data Visualization, HTML, Machine Learning, MongoDB, NumPy, Pandas, Python, R, TensorFlow",9,Data Scientist
+"AWS, Azure, CI/CD, Cloud Architecture, Django, Docker, Google Cloud, HTML",8,Cloud Architect
+"Android, Git, JavaScript, Kotlin, Machine Learning, iOS",6,Mobile Developer
+"Go, HTML, JavaScript, Node.js, RESTful APIs, React, SQL",7,Full Stack Developer
+"Communication, Leadership, Project Management, Python, React, SQL, Scala, Tableau",8,Product Manager
+"Angular, CI/CD, Docker, Jenkins, Kubernetes, Linux, Node.js, NumPy, Python",9,DevOps Engineer
+"AWS, Deep Learning, Linux, Machine Learning, MongoDB, NumPy, Scikit-learn, TensorFlow, iOS",9,Machine Learning Engineer
+"CSS, GraphQL, JavaScript, React, Ruby, TypeScript, Vue.js",7,Frontend Developer
+"AWS, CI/CD, Cassandra, Cloud Architecture, Flutter, Microservices, Terraform",7,Cloud Architect
+"Agile, Java, JavaScript, Problem Solving, Python, SQL, Tableau",7,Software Engineer
+"Android, Git, Kotlin, Python, SQL Server, iOS",6,Mobile Developer
+"CSS, GraphQL, JavaScript, Linux, RESTful APIs, React, Scikit-learn, Swift, TypeScript",9,Frontend Developer
+"A/B Testing, Excel, HTML, JavaScript, MongoDB, Node.js, PostgreSQL, React, Redis, SQL",10,Full Stack Developer
+"Data Visualization, Docker, Java, JavaScript, Python, Redis, SQL, TypeScript",8,Backend Developer
+"Git, Google Cloud, Leadership, MongoDB, Node.js, Project Management, Python, React, SQL",9,Full Stack Developer
+"Android, Flutter, Kotlin, React Native, iOS",5,Mobile Developer
+"AWS, Ansible, Business Intelligence, CI/CD, Git, Kubernetes, Linux, Scala, Swift",9,DevOps Engineer
+"CI/CD, Git, JavaScript, Problem Solving, Python, Scala",6,Software Engineer
+"Flutter, Kotlin, Machine Learning, PyTorch, React Native, Swift, iOS",7,Mobile Developer
+"AWS, Azure, CI/CD, Data Analysis, Microservices, Python, RESTful APIs, Terraform",8,Cloud Architect
+"Git, Java, JavaScript, Python, SQL",5,Software Engineer
+"AWS, Azure, Data Visualization, NumPy, OWASP, Pandas, Python, R, SQL, Statistics, Swift",11,Data Scientist
+"Android, Git, Kotlin, RESTful APIs, SQL, Swift",6,Mobile Developer
+"MongoDB, PostgreSQL, Python, RESTful APIs, React Native, Ruby, SQL",7,Backend Developer
+"CI/CD, Docker, Flutter, Git, Java, Problem Solving, RESTful APIs",7,Software Engineer
+"Agile, Docker, Git, JavaScript, Linux, Python, R, RESTful APIs, React, SQL",10,Full Stack Developer
+"Docker, Git, Kubernetes, Linux, Python, Terraform",6,DevOps Engineer
+"Android, Deep Learning, Flutter, Git, Kotlin, iOS",6,Mobile Developer
+"Agile, Communication, Excel, Leadership, SQL, Statistics, Tableau",7,Product Manager
+"Android, CI/CD, Flask, Flutter, GraphQL, Kotlin, RESTful APIs, Scikit-learn, Swift",9,Mobile Developer
+"CSS, HTML, JavaScript, MongoDB, Node.js, React, Redis, SQL",8,Full Stack Developer
+"Business Intelligence, Excel, Pandas, SQL, Statistics, Tableau",6,Data Analyst
+"AWS, CSS, Deep Learning, Machine Learning, PyTorch, Python, Scala",7,Machine Learning Engineer
+"Data Visualization, Machine Learning, NumPy, Pandas, Project Management, R, Statistics, TensorFlow",8,Data Scientist
+"Docker, Kubernetes, Machine Learning, Python, Scikit-learn, TensorFlow",6,Machine Learning Engineer
+"Azure, Data Analysis, Kubernetes, Power BI, SQL, Statistics, Tableau",7,Data Analyst
+"C#, CSS, HTML, JavaScript, Jenkins, Linux, TypeScript",7,Frontend Developer
+"HTML, JavaScript, MongoDB, Network Security, NumPy, Python, RESTful APIs, React, SQL",9,Full Stack Developer
+"C#, Communication, Leadership, Project Management, SQL",5,Product Manager
+"Docker, Java, PostgreSQL, RESTful APIs, Redis, SQL",6,Backend Developer
+"Ansible, Docker, Git, Jenkins, Kubernetes, Linux, Python, Teamwork, TensorFlow, iOS",10,DevOps Engineer
+"Angular, Business Intelligence, Communication, Leadership, Project Management, Tableau, TypeScript",7,Product Manager
+"Ansible, Business Intelligence, CI/CD, Git, Jenkins, Kubernetes, Linux, Terraform",8,DevOps Engineer
+"Cryptography, Cybersecurity, Docker, Penetration Testing, Python",5,Security Engineer
+"Angular, CSS, JavaScript, React",4,Frontend Developer
+"Azure, Cloud Architecture, Kubernetes, Linux, Microservices, Oracle, Terraform",7,Cloud Architect
+"Cybersecurity, Linux, Penetration Testing, Python",4,Security Engineer
+"CSS, Git, HTML, Node.js, Python, React, SQL",7,Full Stack Developer
+"Excel, Kotlin, Power BI, Python, R, SQL, Statistics",7,Data Analyst
+"Android, Flutter, Kotlin, React Native, Scala, iOS",6,Mobile Developer
+"CI/CD, CSS, Docker, Git, Java, Problem Solving, Project Management, SQL, Swift, TypeScript",10,Software Engineer
+"Android, Cassandra, Kotlin, RESTful APIs, React Native, Swift",6,Mobile Developer
+"Business Intelligence, Communication, Leadership, Problem Solving, Project Management, Scala",6,Product Manager
+"Android, Kotlin, Pandas, RESTful APIs, React Native, Swift, Tableau",7,Mobile Developer
+"Azure, Business Intelligence, Cloud Architecture, Docker, Microservices, PHP, Redis, Terraform",8,Cloud Architect
+"Agile, Communication, Flask, Git, Leadership, SQL, Tableau",7,Product Manager
+"Ansible, Docker, Git, Kubernetes, Linux, Terraform",6,DevOps Engineer
+"C++, HTML, JavaScript, MongoDB, Node.js, PostgreSQL, Problem Solving, RESTful APIs, React, React Native, SQL",11,Full Stack Developer
+"Agile, CI/CD, Git, JavaScript, PostgreSQL, Problem Solving, Python, SQL",8,Software Engineer
+"Git, Java, JavaScript, Kotlin, Problem Solving, RESTful APIs, SQL",7,Software Engineer
+"Git, Kotlin, RESTful APIs, Swift, iOS",5,Mobile Developer
+"AWS, Deep Learning, Docker, Machine Learning, Scikit-learn, TensorFlow",6,Machine Learning Engineer
+"CSS, Docker, HTML, React, TensorFlow, Vue.js",6,Frontend Developer
+"Azure, CI/CD, Cloud Architecture, Google Cloud, Microservices, Terraform, Vue.js, iOS",8,Cloud Architect
+"CI/CD, CSS, Docker, MLOps, Machine Learning, NumPy, Python, SQL, TensorFlow",9,Machine Learning Engineer
+"AWS, CI/CD, Cloud Architecture, Kubernetes, Monitoring, Terraform",6,Cloud Architect
+"Android, Flutter, Git, Linux, MySQL, Swift, Teamwork, iOS",8,Mobile Developer
+"Angular, CSS, HTML, MySQL, RESTful APIs, React",6,Frontend Developer
+"Android, Flutter, Kotlin, Node.js, RESTful APIs, Terraform, iOS",7,Mobile Developer
+"Azure, CI/CD, Cloud Architecture, Docker, Terraform",5,Cloud Architect
+"AWS, CI/CD, Docker, Git, Google Cloud, Jenkins, Linux, Python",8,DevOps Engineer
+"Deep Learning, Java, Machine Learning, NumPy, Python, SQL, Statistics",7,Data Scientist
+"Flutter, Kotlin, RESTful APIs, Swift, iOS",5,Mobile Developer
+"Cassandra, Docker, Git, Java, Leadership, Pandas, Python, RESTful APIs, SQL",9,Software Engineer
+"AWS, Data Visualization, Flask, Machine Learning, NumPy, Python, R, Redis, SQL, Statistics",10,Data Scientist
+"Agile, Business Intelligence, CI/CD, Docker, Git, Jenkins, Linux, Monitoring, Python, SQL Server",10,DevOps Engineer
+"Data Analysis, Git, Problem Solving, Python, RESTful APIs, SQL",6,Software Engineer
+"CSS, GraphQL, HTML, JavaScript, MongoDB, Node.js, Problem Solving, Python, SQL, iOS",10,Full Stack Developer
+"Cryptography, Linux, Network Security, OWASP, Penetration Testing, Project Management, React Native",7,Security Engineer
+"Agile, Data Analysis, Excel, Power BI, Python, SQL",6,Data Analyst
+"CSS, JavaScript, Machine Learning, Node.js, Power BI, Problem Solving, RESTful APIs, React, TypeScript",9,Frontend Developer
+"A/B Testing, Data Analysis, Excel, Pandas, Statistics, Tableau",6,Data Analyst
+"A/B Testing, Docker, Machine Learning, NumPy, Pandas, PyTorch, Python, SQL, Spark",9,Data Scientist
+"Deep Learning, MLOps, Machine Learning, NumPy, Scikit-learn, TensorFlow",6,Machine Learning Engineer
+"Deep Learning, Machine Learning, Node.js, NumPy, Pandas, PyTorch, SQL, Statistics",8,Data Scientist
+"Data Visualization, NumPy, Pandas, Python, Statistics, TensorFlow",6,Data Scientist
+"AWS, CI/CD, Docker, Java, Node.js, Python, RESTful APIs, SQL Server",8,Backend Developer
+"CSS, GraphQL, HTML, React, Vue.js",5,Frontend Developer
+"Ansible, CI/CD, Git, Jenkins, Kubernetes, Linux, MySQL, NumPy, Statistics",9,DevOps Engineer
+"Agile, Business Intelligence, Cassandra, Communication, Data Analysis, Project Management, Scikit-learn",7,Product Manager
+"Cryptography, Network Security, PHP, Penetration Testing, SQL, TensorFlow",6,Security Engineer
+"AWS, Azure, Docker, Microservices, Node.js, Terraform",6,Cloud Architect
+"Agile, Android, Data Analysis, Excel, Leadership, PostgreSQL, Problem Solving, Project Management",8,Product Manager
+"CSS, Git, JavaScript, Node.js, Python, RESTful APIs, React",7,Full Stack Developer
+"AWS, Azure, CI/CD, Data Visualization, Docker, Linux, Terraform",7,Cloud Architect
+"Azure, CI/CD, Cloud Architecture, Flask, Flutter, GraphQL, Monitoring, Terraform",8,Cloud Architect
+"Communication, Data Analysis, HTML, Leadership, PHP, Project Management, Python, Statistics",8,Product Manager
+"Agile, Business Intelligence, Communication, Excel, JavaScript, Leadership, Python, Teamwork",8,Product Manager
+"Android, Angular, Firebase, Git, Kotlin, React Native, iOS",7,Mobile Developer
+"Azure, CI/CD, Cybersecurity, Docker, Java, JavaScript, Problem Solving, Python, SQL",9,Software Engineer
+"Git, JavaScript, MongoDB, Node.js, Python, React",6,Full Stack Developer
+"A/B Testing, Agile, Communication, Data Analysis, Excel, Leadership",6,Product Manager
+"HTML, JavaScript, Node.js, PostgreSQL, RESTful APIs, React, SQL",7,Full Stack Developer
+"CSS, Docker, HTML, Node.js, Python, React, SQL",7,Full Stack Developer
+"AWS, Jenkins, Kubernetes, Machine Learning, NumPy, OWASP, PyTorch, Python, TensorFlow",9,Machine Learning Engineer
+"Android, Git, JavaScript, Kotlin, Linux, RESTful APIs, Swift",7,Mobile Developer
+"Agile, Ansible, Communication, Data Analysis, Leadership, iOS",6,Product Manager
+"Git, JavaScript, MongoDB, Python, React, SQL",6,Full Stack Developer
+"AWS, Ansible, Docker, Git, Jenkins, Kubernetes, Linux, Monitoring",8,DevOps Engineer
+"CSS, Cassandra, HTML, PHP, Penetration Testing, React, Vue.js",7,Frontend Developer
+"Ansible, CI/CD, Cybersecurity, Docker, Jenkins, Kubernetes, Linux, Terraform, iOS",9,DevOps Engineer
+"Ansible, CI/CD, Communication, Git, Kubernetes, Linux, MySQL, Oracle, Terraform",9,DevOps Engineer
+"Azure, CI/CD, Cloud Architecture, Docker, Project Management, Terraform",6,Cloud Architect
+"CSS, Communication, Deep Learning, HTML, JavaScript, Node.js, RESTful APIs, SQL Server, Vue.js",9,Frontend Developer
+"C#, CI/CD, Git, Java, Node.js, PostgreSQL, Project Management, RESTful APIs, SQL",9,Backend Developer
+"AWS, Android, Angular, Cloud Architecture, Kubernetes, Microservices, Power BI, Terraform",8,Cloud Architect
+"Data Visualization, Machine Learning, NumPy, Pandas, PyTorch, R, Statistics",7,Data Scientist
+"Data Analysis, Network Security, NumPy, Pandas, Problem Solving, SQL, Statistics, Tableau",8,Data Analyst
+"AWS, CI/CD, Docker, Git, Google Cloud, Kubernetes, Python, Terraform",8,DevOps Engineer
+"C++, Flutter, Kotlin, Kubernetes, RESTful APIs, Scikit-learn, Swift, iOS",8,Mobile Developer
+"A/B Testing, Data Analysis, Python, SQL, Statistics, Swift",6,Data Analyst
+"Ansible, Azure, CI/CD, Cryptography, Docker, Jenkins, Kubernetes, Linux, Machine Learning",9,DevOps Engineer
+"Cybersecurity, Linux, Network Security, OWASP",4,Security Engineer
+"Angular, CSS, Cryptography, HTML, React, Vue.js",6,Frontend Developer
+"Cryptography, Cybersecurity, Go, Penetration Testing, Python, Tableau",6,Security Engineer
+"Ansible, CI/CD, Docker, Git, Kubernetes, Machine Learning, Problem Solving, Python, Scala, Terraform",10,DevOps Engineer
+"AWS, Agile, Azure, Microservices, Network Security, OWASP, Terraform",7,Cloud Architect
+"AWS, Cassandra, Docker, Git, Java, Problem Solving, SQL",7,Software Engineer
+"CSS, Deep Learning, Machine Learning, Pandas, PyTorch, Python, R, Spark, Statistics",9,Data Scientist
+"AWS, Docker, Java, PostgreSQL, Python, SQL",6,Backend Developer
+"Agile, Angular, HTML, JavaScript, Kubernetes, React, Vue.js",7,Frontend Developer
+"Business Intelligence, Cybersecurity, Data Analysis, Excel, Power BI, Python, Statistics, Swift",8,Data Analyst
+"Data Analysis, Pandas, Power BI, SQL, Statistics",5,Data Analyst
+"Android, Git, Kotlin, Network Security, Swift",5,Mobile Developer
+"Ansible, CI/CD, Cassandra, Django, Docker, Git, Kubernetes, PyTorch, Terraform",9,DevOps Engineer
+"Angular, CSS, Docker, HTML, JavaScript, Node.js, Power BI, SQL Server",8,Frontend Developer
+"Communication, Cybersecurity, OWASP, Penetration Testing",4,Security Engineer
+"Cybersecurity, Linux, Network Security, Python",4,Security Engineer
+"Java, Machine Learning, MongoDB, Node.js, Python, RESTful APIs",6,Backend Developer
+"Angular, CI/CD, Git, Problem Solving, Python, RESTful APIs, TypeScript",7,Software Engineer
+"AWS, Docker, Git, Java, JavaScript, Python, Redis",7,Software Engineer
+"A/B Testing, AWS, Agile, Kotlin, Leadership, Node.js, Project Management, SQL",8,Product Manager
+"Data Analysis, Power BI, Project Management, Python, SQL, Statistics, Swift, TensorFlow",8,Data Analyst
+"Data Analysis, SQL, Statistics, Tableau",4,Data Analyst
+"Deep Learning, Docker, Machine Learning, NumPy, Problem Solving, TensorFlow, TypeScript",7,Machine Learning Engineer
+"Java, Node.js, PostgreSQL, RESTful APIs, Redis, SQL",6,Backend Developer
+"Java, Node.js, PostgreSQL, Python, RESTful APIs, Redis",6,Backend Developer
+"Deep Learning, Flask, Machine Learning, Pandas, PyTorch, Python, R, SQL, Statistics",9,Data Scientist
+"CI/CD, Docker, Git, Jenkins, Kubernetes, Linux, Python",7,DevOps Engineer
+"CSS, JavaScript, React, TypeScript",4,Frontend Developer
+"CI/CD, Java, Node.js, Python, SQL, iOS",6,Backend Developer
+"Java, MongoDB, Node.js, Problem Solving, Python, SQL",6,Backend Developer
+"Data Visualization, Machine Learning, Oracle, Pandas, Python, SQL, Statistics",7,Data Scientist
+"Azure, CI/CD, Cloud Architecture, Kubernetes, Python, Security, Terraform",7,Cloud Architect
+"AWS, Deep Learning, Power BI, PyTorch, Python, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"A/B Testing, Business Intelligence, Data Analysis, Excel, Statistics, Tableau, TypeScript",7,Data Analyst
+"Azure, Cloud Architecture, Kubernetes, Statistics, Terraform",5,Cloud Architect
+"CSS, Deep Learning, Node.js, Python, RESTful APIs, React, SQL",7,Full Stack Developer
+"AWS, Azure, CI/CD, Kubernetes, MongoDB, Penetration Testing, SQL Server, Security, Terraform",9,Cloud Architect
+"Flutter, Git, JavaScript, Problem Solving, Python, RESTful APIs",6,Software Engineer
+"Django, HTML, Kubernetes, Machine Learning, NumPy, Python, Scikit-learn, TensorFlow, Vue.js",9,Machine Learning Engineer
+"Deep Learning, Machine Learning, NumPy, Pandas, Python, R, TensorFlow",7,Data Scientist
+"Excel, MongoDB, Node.js, PyTorch, Python, RESTful APIs, Ruby, SQL",8,Backend Developer
+"Communication, Data Analysis, Excel, Leadership, Project Management, R",6,Product Manager
+"Azure, CI/CD, Cloud Architecture, Flask, Kubernetes, PyTorch, Tableau, Terraform",8,Cloud Architect
+"Cryptography, Cybersecurity, Incident Response, Network Security, OWASP, Penetration Testing, Redis",7,Security Engineer
+"AWS, Deep Learning, Machine Learning, PyTorch, Python, Scala, TensorFlow",7,Machine Learning Engineer
+"CI/CD, Docker, Google Cloud, Java, Kubernetes, Problem Solving, Python, RESTful APIs",8,Software Engineer
+"AWS, CI/CD, Cassandra, Cloud Architecture, Machine Learning, Microservices, Security, Teamwork, Terraform",9,Cloud Architect
+"Data Analysis, Flask, Pandas, SQL, Statistics",5,Data Analyst
+"AWS, CI/CD, Docker, Git, Linux, Monitoring, React, Tableau, Terraform",9,DevOps Engineer
+"AWS, Ansible, CI/CD, Git, Google Cloud, Jenkins, Kubernetes, Linux, Machine Learning, NumPy",10,DevOps Engineer
+"AWS, Deep Learning, Docker, NumPy, Python, Scikit-learn, TensorFlow, Vue.js",8,Machine Learning Engineer
+"Business Intelligence, Excel, Java, Power BI, SQL, Statistics, Tableau",7,Data Analyst
+"Ansible, CSS, Django, Git, HTML, JavaScript, Jenkins, Node.js, PostgreSQL, Python, SQL",11,Full Stack Developer
+"CI/CD, Excel, Node.js, Python, SQL, Statistics",6,Data Analyst
+"Git, JavaScript, Problem Solving, Python, SQL, TypeScript",6,Software Engineer
+"AWS, Deep Learning, Machine Learning, Monitoring, PyTorch, TensorFlow",6,Machine Learning Engineer
+"Agile, C#, CSS, Communication, Data Analysis, Leadership, iOS",7,Product Manager
+"AWS, Cryptography, Deep Learning, Monitoring, NumPy, Pandas, PyTorch, Python, Statistics",9,Data Scientist
+"C#, Data Analysis, Excel, Kubernetes, Pandas, SQL, Tableau",7,Data Analyst
+"Agile, Data Analysis, Kubernetes, Python, SQL, Statistics",6,Data Analyst
+"AWS, Azure, CI/CD, Cloud Architecture, Google Cloud, Leadership, Microservices, OWASP, R",9,Cloud Architect
+"AWS, Azure, Docker, Security, Terraform",5,Cloud Architect
+"AWS, Ansible, Deep Learning, NumPy, Python, React Native, Redis, Scikit-learn, TensorFlow",9,Machine Learning Engineer
+"Android, Flutter, Kotlin, iOS",4,Mobile Developer
+"CI/CD, Docker, Git, Go, Java, JavaScript, MySQL, PyTorch, Python",9,Software Engineer
+"AWS, Deep Learning, Docker, Machine Learning, PyTorch, Python, Scala",7,Machine Learning Engineer
+"AWS, CI/CD, Data Analysis, Git, Kubernetes, Linux, PostgreSQL, Python, Terraform, iOS",10,DevOps Engineer
+"AWS, Azure, CI/CD, Communication, Go, Microservices, Terraform",7,Cloud Architect
+"CSS, GraphQL, JavaScript, React, Vue.js",5,Frontend Developer
+"AWS, CI/CD, Cryptography, Cybersecurity, Deep Learning, Git, Kubernetes, Linux, Python",9,DevOps Engineer
+"AWS, Azure, Cloud Architecture, Docker, Kubernetes",5,Cloud Architect
+"Angular, CSS, HTML, JavaScript, RESTful APIs",5,Frontend Developer
+"CI/CD, Cybersecurity, Kubernetes, OWASP, Penetration Testing, Python",6,Security Engineer
+"Deep Learning, Machine Learning, NumPy, Oracle, Python, Redis, Scikit-learn",7,Machine Learning Engineer
+"CSS, Cryptography, Cybersecurity, Linux, Network Security, TensorFlow",6,Security Engineer
+"Android, Flutter, Git, Google Cloud, Kotlin, Tableau, Terraform, iOS",8,Mobile Developer
+"Deep Learning, Docker, NumPy, Python, Scala, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"Excel, Flutter, Git, HTML, JavaScript, Python, RESTful APIs, React, SQL",9,Full Stack Developer
+"AWS, CI/CD, Docker, Kubernetes, Linux, Python, Teamwork",7,DevOps Engineer
+"CI/CD, Git, Java, Problem Solving, RESTful APIs, SQL Server, TypeScript",7,Software Engineer
+"Communication, Data Analysis, Leadership, Project Management",4,Product Manager
+"Azure, C#, Java, Machine Learning, NumPy, PyTorch, Python, SQL, Spark, Statistics, TensorFlow",11,Data Scientist
+"Agile, Angular, Communication, Data Analysis, Django, Project Management, Tableau",7,Product Manager
+"AWS, CSS, Deep Learning, Docker, Kotlin, Leadership, NumPy, Python, Scala, TensorFlow",10,Machine Learning Engineer
+"CI/CD, Docker, Kubernetes, Linux, Monitoring, Python, Terraform",7,DevOps Engineer
+"AWS, CI/CD, Docker, Google Cloud, Jenkins, Kubernetes, Linux, Python",8,DevOps Engineer
+"Cassandra, Data Visualization, Machine Learning, NumPy, Pandas, Project Management, PyTorch, Python, SQL, Scikit-learn, Vue.js",11,Data Scientist
+"AWS, Azure, Docker, Kubernetes, Terraform",5,Cloud Architect
+"Android, Excel, Network Security, NumPy, Pandas, SQL, Statistics, Tableau",8,Data Analyst
+"Java, Node.js, Python, RESTful APIs",4,Backend Developer
+"CSS, Flask, Go, GraphQL, HTML, Node.js, Python, React, SQL, TypeScript",10,Full Stack Developer
+"Cassandra, Deep Learning, Machine Learning, Network Security, NumPy, Pandas, Power BI, PyTorch, R, Statistics, TensorFlow",11,Data Scientist
+"Business Intelligence, Deep Learning, Docker, Linux, Machine Learning, Pandas, PyTorch, Python",8,Machine Learning Engineer
+"AWS, Ansible, CI/CD, Data Visualization, Docker, Git, JavaScript, Kubernetes, Python",9,DevOps Engineer
+"Cryptography, Cybersecurity, Go, JavaScript, Penetration Testing, Python, RESTful APIs",7,Security Engineer
+"C#, Compliance, Cryptography, Cybersecurity, Network Security, OWASP, Penetration Testing",7,Security Engineer
+"Android, CI/CD, Communication, Docker, Flask, Java, Python, RESTful APIs",8,Backend Developer
+"Business Intelligence, Communication, Leadership, Project Management",4,Product Manager
+"AWS, CI/CD, Cloud Architecture, Docker, Terraform",5,Cloud Architect
+"Docker, Java, MongoDB, RESTful APIs, SQL",5,Backend Developer
+"AWS, Linux, Network Security, OWASP, Penetration Testing, Python",6,Security Engineer
+"GraphQL, HTML, JavaScript, React, Swift, TypeScript, Vue.js",7,Frontend Developer
+"CI/CD, Docker, Git, JavaScript, Problem Solving, Python, TypeScript",7,Software Engineer
+"Flutter, Git, JavaScript, Kotlin, Swift, iOS",6,Mobile Developer
+"A/B Testing, Cassandra, Deep Learning, Docker, Machine Learning, NumPy, TensorFlow",7,Machine Learning Engineer
+"CSS, GraphQL, HTML, React, Swift, TypeScript, Vue.js",7,Frontend Developer
+"Agile, Communication, Excel, Java, Kubernetes, Leadership, SQL",7,Product Manager
+"Android, Flutter, Google Cloud, HTML, RESTful APIs, Swift, iOS",7,Mobile Developer
+"Docker, Machine Learning, Monitoring, NumPy, PyTorch, Python, Ruby, SQL, Statistics, TensorFlow",10,Data Scientist
+"AWS, Deep Learning, Docker, Git, Python, Spark, TensorFlow",7,Machine Learning Engineer
+"AWS, Azure, Cloud Architecture, Communication, Docker",5,Cloud Architect
+"CI/CD, Git, Go, GraphQL, Java, JavaScript, Problem Solving, SQL Server",8,Software Engineer
+"Ansible, Azure, Cloud Architecture, Google Cloud, Microservices, Terraform",6,Cloud Architect
+"Android, Flutter, Git, Kotlin, Swift, Teamwork",6,Mobile Developer
+"Excel, Python, SQL, Statistics, Tableau",5,Data Analyst
+"Data Visualization, Machine Learning, NumPy, Python, Scikit-learn, TensorFlow, iOS",7,Machine Learning Engineer
+"Agile, Android, Angular, Flutter, Git, Scikit-learn, Swift, iOS",8,Mobile Developer
+"Agile, Data Analysis, Leadership, Project Management, R, Scala",6,Product Manager
+"Git, JavaScript, Kubernetes, Oracle, Power BI, Problem Solving, Python, RESTful APIs",8,Software Engineer
+"Data Visualization, NumPy, Pandas, Python, R, Statistics, TensorFlow",7,Data Scientist
+"Git, HTML, JavaScript, Machine Learning, Node.js, Python, SQL",7,Full Stack Developer
+"Agile, Business Intelligence, Django, Leadership, Project Management, Python",6,Product Manager
+"Deep Learning, Machine Learning, NumPy, Pandas, Python, R, Statistics",7,Data Scientist
+"CSS, GraphQL, JavaScript, React, TypeScript",5,Frontend Developer
+"CSS, JavaScript, MongoDB, Python, RESTful APIs, React, SQL",7,Full Stack Developer
+"CI/CD, Java, MongoDB, PostgreSQL, Python, RESTful APIs, SQL",7,Backend Developer
+"Ansible, CI/CD, Communication, Git, Jenkins, Kubernetes, Linux, Redis",8,DevOps Engineer
+"Android, CI/CD, Flutter, Kotlin, RESTful APIs, Swift",6,Mobile Developer
+"Communication, Data Visualization, Deep Learning, Docker, NumPy, Pandas, Python, R, RESTful APIs, SQL, Statistics",11,Data Scientist
+"Android, Flutter, Git, Kotlin, Machine Learning, Swift",6,Mobile Developer
+"Azure, C#, CI/CD, Cloud Architecture, Kubernetes, Python, Statistics, Terraform",8,Cloud Architect
+"Leadership, Network Security, OWASP, Penetration Testing, Python, Vue.js",6,Security Engineer
+"AWS, Cryptography, Data Visualization, Kotlin, Network Security, Penetration Testing, Python",7,Security Engineer
+"Git, Kotlin, PHP, React Native, Swift, iOS",6,Mobile Developer
+"Android, Kotlin, Penetration Testing, React Native, Vue.js, iOS",6,Mobile Developer
+"Cybersecurity, GraphQL, OWASP, Penetration Testing, Python",5,Security Engineer
+"Angular, CSS, GraphQL, JavaScript, React",5,Frontend Developer
+"Agile, Excel, Leadership, Project Management, SQL, TensorFlow",6,Product Manager
+"AWS, Angular, Azure, CI/CD, Cloud Architecture, Kubernetes",6,Cloud Architect
+"Data Visualization, NumPy, Pandas, Python, R, Statistics",6,Data Scientist
+"CI/CD, Communication, Docker, Git, Java, Python, RESTful APIs, TypeScript",8,Software Engineer
+"Deep Learning, Docker, Java, Machine Learning, NumPy, PyTorch, Python, Terraform",8,Machine Learning Engineer
+"Agile, Leadership, Project Management, RESTful APIs, React Native, SQL, Tableau, Vue.js",8,Product Manager
+"AWS, Deep Learning, Git, MLOps, Machine Learning, Network Security, NumPy, PyTorch, TensorFlow",9,Machine Learning Engineer
+"Git, Kotlin, RESTful APIs, Swift, iOS",5,Mobile Developer
+"Communication, Jenkins, Leadership, Project Management, Python, SQL",6,Product Manager
+"Cybersecurity, Flutter, OWASP, Penetration Testing, Python",5,Security Engineer
+"C#, CI/CD, Docker, Git, Java, Kubernetes, Problem Solving, SQL, Scikit-learn",9,Software Engineer
+"AWS, Ansible, Azure, Cloud Architecture, Google Cloud, Kubernetes, Microservices, Swift",8,Cloud Architect
+"CI/CD, Compliance, Cybersecurity, Data Visualization, OWASP, Penetration Testing, Python",7,Security Engineer
+"AWS, Azure, CI/CD, Leadership, Node.js, Python, Terraform",7,Cloud Architect
+"CSS, Communication, Git, HTML, MongoDB, Node.js, PostgreSQL, Python, R, React, SQL",11,Full Stack Developer
+"Docker, HTML, Jenkins, MongoDB, Node.js, NumPy, Python, RESTful APIs, React, SQL, Scala",11,Full Stack Developer
+"AWS, Data Analysis, Excel, Statistics, Tableau",5,Data Analyst
+"Agile, Data Analysis, Leadership, Project Management, Python",5,Product Manager
+"CI/CD, Git, OWASP, PostgreSQL, Problem Solving, Python, RESTful APIs, SQL",8,Software Engineer
+"Data Analysis, Excel, Python, SQL, Tableau",5,Data Analyst
+"Android, Flutter, Kotlin, Linux, RESTful APIs, Swift",6,Mobile Developer
+"Android, Azure, Cloud Architecture, Deep Learning, Flutter, Microservices, Terraform",7,Cloud Architect
+"AWS, Data Analysis, Excel, Pandas, Statistics, Tableau",6,Data Analyst
+"CI/CD, Git, Java, JavaScript, Problem Solving, RESTful APIs",6,Software Engineer
+"Angular, CSS, GraphQL, HTML, React, Vue.js",6,Frontend Developer
+"Agile, Communication, Data Analysis, Google Cloud, Leadership, iOS",6,Product Manager
+"Docker, Git, Google Cloud, Kubernetes, Linux, Python, Redis, Terraform",8,DevOps Engineer
+"Ansible, CI/CD, Git, Jenkins, Kubernetes, Linux, Terraform, iOS",8,DevOps Engineer
+"AWS, Ansible, Deep Learning, Docker, PostgreSQL, Python, TensorFlow",7,Machine Learning Engineer
+"CSS, Docker, HTML, JavaScript, Pandas, Python, React, SQL",8,Full Stack Developer
+"Deep Learning, Machine Learning, PyTorch, Python, Scala, Scikit-learn",6,Machine Learning Engineer
+"Django, Linux, Network Security, Penetration Testing",4,Security Engineer
+"Android, Data Analysis, Flask, Flutter, Git, Kotlin, Swift",7,Mobile Developer
+"Agile, Business Intelligence, Communication, Excel, Leadership, Scala",6,Product Manager
+"Excel, MySQL, Penetration Testing, Python, R, SQL, Statistics",7,Data Analyst
+"JavaScript, Kotlin, Monitoring, RESTful APIs, Scikit-learn, Swift, iOS",7,Mobile Developer
+"Android, Flutter, Kotlin, Problem Solving, RESTful APIs, Swift",6,Mobile Developer
+"Azure, CI/CD, Cloud Architecture, Kubernetes, Terraform",5,Cloud Architect
+"Go, Network Security, OWASP, Penetration Testing, Python",5,Security Engineer
+"Android, Java, Kotlin, RESTful APIs, iOS",5,Mobile Developer
+"Data Analysis, Excel, Go, Pandas, Power BI, Statistics",6,Data Analyst
+"Ansible, Git, HTML, JavaScript, Node.js, RESTful APIs, React, SQL",8,Full Stack Developer
+"Cassandra, Excel, Machine Learning, Power BI, Python, SQL, SQL Server, Statistics",8,Data Analyst
+"Cybersecurity, Linux, Penetration Testing",3,Security Engineer
+"Cybersecurity, Kotlin, Linux, Node.js, OWASP, Penetration Testing",6,Security Engineer
+"CI/CD, Docker, Java, PostgreSQL, Python, SQL",6,Backend Developer
+"Android, Cryptography, Cybersecurity, Data Visualization, Docker, Penetration Testing, Redis",7,Security Engineer
+"Business Intelligence, Data Analysis, Excel, OWASP, Pandas, PyTorch, SQL, Tableau",8,Data Analyst
+"Azure, Cloud Architecture, Data Analysis, Docker, Terraform",5,Cloud Architect
+"Git, JavaScript, MongoDB, Node.js, Python, RESTful APIs, SQL",7,Full Stack Developer
+"AWS, Azure, CI/CD, Kubernetes, Security, Tableau, Terraform, iOS",8,Cloud Architect
+"Cryptography, Cybersecurity, Penetration Testing",3,Security Engineer
+"Docker, Java, Jenkins, MongoDB, PHP, Python, SQL",7,Backend Developer
+"Git, MongoDB, Node.js, PHP, PostgreSQL, Python, RESTful APIs, SQL",8,Backend Developer
+"Agile, Android, JavaScript, Kotlin, RESTful APIs, React Native, Swift",7,Mobile Developer
+"Ansible, Cybersecurity, Excel, Linux, Penetration Testing, Python",6,Security Engineer
+"Agile, Docker, Excel, Git, Java, Monitoring, Problem Solving, RESTful APIs",8,Software Engineer
+"Business Intelligence, Communication, Excel, Kotlin, Leadership, Project Management, Python, R",8,Product Manager
+"CSS, JavaScript, MongoDB, Node.js, Problem Solving, Python, React, TensorFlow",8,Full Stack Developer
+"CI/CD, Git, Kubernetes, Problem Solving, Python, RESTful APIs, React",7,Software Engineer
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, Google Cloud, Linux, R",8,Cloud Architect
+"AWS, Agile, Git, Java, Oracle, Problem Solving, RESTful APIs, Ruby, SQL",9,Software Engineer
+"AWS, Business Intelligence, Machine Learning, NumPy, Pandas, Python, R, SQL",8,Data Scientist
+"Data Analysis, Git, GraphQL, HTML, JavaScript, Leadership, Node.js, Python, React",9,Full Stack Developer
+"Angular, CSS, Git, HTML, PHP, React, Vue.js",7,Frontend Developer
+"CSS, JavaScript, Python, RESTful APIs, React, SQL",6,Full Stack Developer
+"CSS, JavaScript, MongoDB, Node.js, React, SQL",6,Full Stack Developer
+"C#, Git, Java, JavaScript, Network Security, Python, RESTful APIs, React Native, SQL",9,Software Engineer
+"Java, MongoDB, PostgreSQL, Python, RESTful APIs",5,Backend Developer
+"Flask, Git, HTML, MongoDB, Node.js, Python, React, SQL",8,Full Stack Developer
+"C++, Data Visualization, Machine Learning, NumPy, Pandas, PostgreSQL, Python, R, Ruby, SQL, TensorFlow",11,Data Scientist
+"Android, Git, Kotlin, OWASP, Statistics, Swift",6,Mobile Developer
+"Docker, Git, JavaScript, Power BI, Python, RESTful APIs, React, SQL, Teamwork",9,Full Stack Developer
+"Android, Java, Node.js, PostgreSQL, RESTful APIs, Redis, SQL",7,Backend Developer
+"Agile, Business Intelligence, Communication, Project Management, Python, Redis",6,Product Manager
+"Angular, CSS, HTML, Node.js, React",5,Frontend Developer
+"Angular, CSS, JavaScript, React, Vue.js",5,Frontend Developer
+"A/B Testing, Agile, Communication, Data Analysis, HTML, Leadership, SQL",7,Product Manager
+"Git, HTML, JavaScript, RESTful APIs, React, TypeScript",6,Frontend Developer
+"CSS, HTML, RESTful APIs, React, TypeScript",5,Frontend Developer
+"AWS, Azure, Cloud Architecture, Kubernetes, Leadership, Microservices, SQL, Terraform",8,Cloud Architect
+"Android, Cybersecurity, Kotlin, PostgreSQL, RESTful APIs, React Native, Terraform, iOS",8,Mobile Developer
+"CSS, JavaScript, Kubernetes, RESTful APIs, React, TypeScript",6,Frontend Developer
+"Deep Learning, Django, Docker, GraphQL, Machine Learning, Python, Scikit-learn",7,Machine Learning Engineer
+"Android, C#, Deep Learning, Docker, Git, Java, Problem Solving, RESTful APIs",8,Software Engineer
+"AWS, Azure, Cloud Architecture, Data Analysis, Kubernetes, PostgreSQL",6,Cloud Architect
+"Cybersecurity, Linux, Network Security, Penetration Testing, Python, Teamwork",6,Security Engineer
+"AWS, Azure, C#, CI/CD, Kubernetes, Scikit-learn, Terraform",7,Cloud Architect
+"Angular, CSS, JavaScript, Pandas, PyTorch, React, Redis, Vue.js",8,Frontend Developer
+"Azure, Cloud Architecture, Docker, Excel, Kubernetes, Redis, Ruby, Terraform",8,Cloud Architect
+"Data Analysis, Excel, Power BI, Statistics, Tableau",5,Data Analyst
+"Business Intelligence, Data Analysis, Data Visualization, Deep Learning, Excel, OWASP, Power BI, Statistics",8,Data Analyst
+"A/B Testing, Business Intelligence, Cassandra, Communication, Git, Leadership, Project Management, SQL",8,Product Manager
+"AWS, CI/CD, Docker, Jenkins, Kubernetes, Linux, Python, Terraform, Vue.js",9,DevOps Engineer
+"Business Intelligence, Cryptography, Cybersecurity, HTML, Incident Response, Network Security, Python, SQL",8,Security Engineer
+"Agile, Angular, CSS, HTML, JavaScript, React, TypeScript",7,Frontend Developer
+"Agile, Docker, Java, MongoDB, Node.js, PyTorch, Python, SQL",8,Backend Developer
+"Angular, CSS, Git, HTML, React, Vue.js",6,Frontend Developer
+"C++, Communication, Data Analysis, Excel, Network Security, Power BI, R, SQL",8,Data Analyst
+"CI/CD, Flutter, Kotlin, React Native, Scikit-learn, Swift, iOS",7,Mobile Developer
+"Agile, C#, Data Analysis, Excel, Leadership, Project Management, Python",7,Product Manager
+"Agile, Git, Java, JavaScript, PostgreSQL, Python, RESTful APIs",7,Software Engineer
+"AWS, CI/CD, Docker, Git, Linux, MongoDB, Python, SQL Server",8,DevOps Engineer
+"Angular, CSS, GraphQL, JavaScript, React",5,Frontend Developer
+"HTML, JavaScript, Oracle, RESTful APIs, React, Swift, iOS",7,Frontend Developer
+"Cybersecurity, Docker, Java, Penetration Testing, Python, RESTful APIs",6,Backend Developer
+"AWS, Communication, Docker, Java, Node.js, R, RESTful APIs, SQL, TypeScript",9,Backend Developer
+"Excel, Power BI, SQL, Statistics",4,Data Analyst
+"Deep Learning, Docker, MLOps, Machine Learning, NumPy, OWASP, Python, Scikit-learn",8,Machine Learning Engineer
+"AWS, Cryptography, Deep Learning, Flutter, Kubernetes, Machine Learning, NumPy, Scikit-learn, TensorFlow, Vue.js",10,Machine Learning Engineer
+"Android, Git, Go, Kotlin, OWASP, React Native, Redis, Swift",8,Mobile Developer
+"Android, Data Visualization, Docker, Git, Java, JavaScript, Python, RESTful APIs, Statistics",9,Software Engineer
+"AWS, HTML, Kubernetes, MongoDB, Node.js, PHP, Python, RESTful APIs, React, SQL",10,Full Stack Developer
+"Android, Git, Jenkins, Kotlin, Kubernetes, MySQL, iOS",7,Mobile Developer
+"Docker, Machine Learning, Python, Redis, Scikit-learn, Spark, TensorFlow",7,Machine Learning Engineer
+"Cryptography, Cybersecurity, Docker, Linux, Penetration Testing",5,Security Engineer
+"Angular, CSS, Docker, Google Cloud, HTML, Kotlin, RESTful APIs, React",8,Frontend Developer
+"Agile, Angular, CSS, HTML, JavaScript, Vue.js",6,Frontend Developer
+"AWS, Communication, Data Visualization, Deep Learning, Machine Learning, NumPy, PyTorch, Python, Statistics, TensorFlow",10,Data Scientist
+"Cybersecurity, JavaScript, Linux, Penetration Testing, Python, Teamwork",6,Security Engineer
+"Data Analysis, Docker, Excel, Go, Power BI, Statistics, Tableau",7,Data Analyst
+"AWS, Communication, Cybersecurity, Linux, Penetration Testing, Python",6,Security Engineer
+"CI/CD, Git, Java, JavaScript, Python",5,Software Engineer
+"Azure, CI/CD, Cloud Architecture, Docker, Security, Terraform",6,Cloud Architect
+"Ansible, C#, CI/CD, Git, Google Cloud, Jenkins, Kubernetes, Linux, Terraform",9,DevOps Engineer
+"CI/CD, CSS, Cybersecurity, Git, Java, Kubernetes, Problem Solving, RESTful APIs",8,Software Engineer
+"Android, Excel, Git, Kotlin, Kubernetes, RESTful APIs, iOS",7,Mobile Developer
+"CI/CD, Docker, JavaScript, Kubernetes, Linux, Monitoring, PHP, Python, Terraform",9,DevOps Engineer
+"Data Visualization, Deep Learning, Machine Learning, NumPy, Python, R, Statistics",7,Data Scientist
+"AWS, Azure, CI/CD, Cloud Architecture, Kubernetes, Vue.js",6,Cloud Architect
+"Communication, GraphQL, Leadership, Project Management, SQL, Tableau, TypeScript",7,Product Manager
+"AWS, Ansible, CSS, JavaScript, Node.js, NumPy, Python, RESTful APIs, React",9,Full Stack Developer
+"AWS, Cybersecurity, Network Security, OWASP",4,Security Engineer
+"Agile, Communication, Docker, Git, Java, JavaScript, Python, RESTful APIs, SQL, Teamwork",10,Software Engineer
+"Android, Data Analysis, Pandas, Redis, SQL, Statistics",6,Data Analyst
+"AWS, Ansible, Kubernetes, Machine Learning, NumPy, Python, SQL Server, Scikit-learn, TensorFlow",9,Machine Learning Engineer
+"Docker, Git, Java, Python, RESTful APIs, SQL",6,Software Engineer
+"Agile, Business Intelligence, Communication, Excel, Leadership",5,Product Manager
+"Data Visualization, Kubernetes, Machine Learning, Pandas, Python, R, Statistics",7,Data Scientist
+"C++, CI/CD, Java, Problem Solving, Python, SQL",6,Software Engineer
+"CSS, HTML, JavaScript, PHP, RESTful APIs, TypeScript",6,Frontend Developer
+"Docker, Flutter, Java, Kubernetes, PostgreSQL, Python, RESTful APIs",7,Backend Developer
+"CI/CD, Docker, Java, Problem Solving, Python, RESTful APIs",6,Software Engineer
+"CSS, JavaScript, RESTful APIs, React, TypeScript",5,Frontend Developer
+"Agile, Communication, Cryptography, Data Analysis, Leadership, Monitoring",6,Product Manager
+"CI/CD, Java, Machine Learning, PyTorch, Python, Scala, Scikit-learn, Statistics, TensorFlow",9,Machine Learning Engineer
+"Agile, CI/CD, Docker, Git, Java, Python, RESTful APIs",7,Software Engineer
+"Data Visualization, Java, MongoDB, PostgreSQL, RESTful APIs, Redis, SQL",7,Backend Developer
+"Deep Learning, Docker, Kubernetes, NumPy, PyTorch, Python, TensorFlow",7,Machine Learning Engineer
+"Java, Kubernetes, MongoDB, Node.js, Power BI, Python, SQL",7,Backend Developer
+"Docker, Git, Java, Node.js, PostgreSQL, Python, RESTful APIs, Scikit-learn",8,Backend Developer
+"CSS, HTML, RESTful APIs, React, Vue.js",5,Frontend Developer
+"CSS, Git, JavaScript, Kubernetes, Node.js, Python, RESTful APIs, React",8,Full Stack Developer
+"CI/CD, Java, JavaScript, Kubernetes, Problem Solving, Python, SQL",7,Software Engineer
+"AWS, Docker, Git, Google Cloud, Kubernetes, Linux, Python",7,DevOps Engineer
+"AWS, Deep Learning, Docker, Flask, Kotlin, PyTorch, Python, TensorFlow",8,Machine Learning Engineer
+"AWS, Docker, Git, HTML, JavaScript, Network Security, Node.js, NumPy, Python, SQL",10,Full Stack Developer
+"Communication, Leadership, Pandas, Project Management, SQL, Teamwork",6,Product Manager
+"Cybersecurity, Excel, Linux, Network Security, OWASP, SQL",6,Security Engineer
+"CI/CD, Docker, Git, Google Cloud, Jenkins, Linux, NumPy, Terraform",8,DevOps Engineer
+"Ansible, CI/CD, Docker, Jenkins, Kubernetes, Linux",6,DevOps Engineer
+"Data Analysis, Excel, MySQL, Pandas, Python, R, Scala, Statistics, TensorFlow",9,Data Analyst
+"Cybersecurity, Git, Problem Solving, Python, RESTful APIs, SQL",6,Software Engineer
+"CI/CD, Communication, Docker, Git, Jenkins, Linux, SQL Server, Terraform",8,DevOps Engineer
+"Azure, CSS, Cloud Architecture, Go, Kubernetes, Microservices, Python, Terraform",8,Cloud Architect
+"CI/CD, Git, Kubernetes, Linux, Python, Terraform",6,DevOps Engineer
+"Data Visualization, Docker, Machine Learning, Network Security, NumPy, Pandas, PyTorch, RESTful APIs, Statistics, TensorFlow",10,Data Scientist
+"Android, Flutter, Kotlin, MongoDB, Penetration Testing, RESTful APIs, iOS",7,Mobile Developer
+"Git, HTML, Node.js, Python, React, SQL",6,Full Stack Developer
+"C++, CSS, HTML, Node.js, Python, React, SQL, TypeScript",8,Full Stack Developer
+"CI/CD, Docker, Git, Problem Solving, Python, RESTful APIs",6,Software Engineer
+"Cybersecurity, Linux, Network Security, OWASP, PostgreSQL, Tableau",6,Security Engineer
+"Firebase, Flask, Git, HTML, Kotlin, React Native, Scala, Swift, iOS",9,Mobile Developer
+"Docker, Java, NumPy, Python, RESTful APIs, Redis, SQL, Scikit-learn",8,Backend Developer
+"AWS, Deep Learning, Kubernetes, Machine Learning, MySQL, NumPy, Python, Scikit-learn",8,Machine Learning Engineer
+"CSS, Communication, Git, JavaScript, Python, React, SQL, Scala",8,Full Stack Developer
+"Azure, CI/CD, Cloud Architecture, Go, Google Cloud, Microservices, RESTful APIs, Terraform",8,Cloud Architect
+"Angular, Go, HTML, JavaScript, React, Redis",6,Frontend Developer
+"Android, CSS, JavaScript, MongoDB, Node.js, Python, RESTful APIs, Redis, SQL",9,Full Stack Developer
+"A/B Testing, Cybersecurity, Linux, Network Security, OWASP, React Native",6,Security Engineer
+"Docker, Kubernetes, Machine Learning, Network Security, Node.js, NumPy, Python, TensorFlow, TypeScript",9,Machine Learning Engineer
+"Agile, CSS, HTML, Oracle, RESTful APIs, React, Vue.js",7,Frontend Developer
+"Data Visualization, Deep Learning, Machine Learning, NumPy, PyTorch, Python, Statistics",7,Data Scientist
+"Deep Learning, NumPy, PyTorch, Python, Scikit-learn, TensorFlow",6,Machine Learning Engineer
+"A/B Testing, Data Analysis, Pandas, Python, SQL, Statistics",6,Data Analyst
+"Angular, CSS, Communication, JavaScript, RESTful APIs, React",6,Frontend Developer
+"Agile, Business Intelligence, Communication, GraphQL, Leadership, Project Management",6,Product Manager
+"Data Analysis, Data Visualization, Kubernetes, Machine Learning, Pandas, PyTorch, Python, SQL, Statistics",9,Data Scientist
+"AWS, Go, Java, Node.js, Python, RESTful APIs, React",7,Backend Developer
+"Ansible, CI/CD, Git, Jenkins, Kubernetes, Linux, OWASP, Ruby, TensorFlow, Terraform",10,DevOps Engineer
+"AWS, Cryptography, Cybersecurity, Git, Network Security, Python",6,Security Engineer
+"AWS, Deep Learning, Django, Docker, Excel, Google Cloud, Python, TensorFlow",8,Machine Learning Engineer
+"Agile, Business Intelligence, Communication, Excel, HTML, Leadership, Tableau",7,Product Manager
+"Java, Problem Solving, Python, RESTful APIs, SQL",5,Software Engineer
+"Java, JavaScript, Problem Solving, Python, RESTful APIs",5,Software Engineer
+"AWS, CI/CD, Docker, Java, Problem Solving, Python",6,Software Engineer
+"Machine Learning, NumPy, Python, Scikit-learn, TensorFlow",5,Machine Learning Engineer
+"CSS, JavaScript, Leadership, Network Security, Node.js, RESTful APIs, React, Scikit-learn, Vue.js",9,Frontend Developer
+"Deep Learning, Machine Learning, NumPy, Pandas, R, Statistics, TensorFlow",7,Data Scientist
+"Angular, CSS, JavaScript, Kotlin, Monitoring, React, Vue.js",7,Frontend Developer
+"AWS, CI/CD, Docker, Git, JavaScript, Jenkins, Kubernetes",7,DevOps Engineer
+"Flutter, JavaScript, Kotlin, Linux, RESTful APIs, Redis, Swift, iOS",8,Mobile Developer
+"AWS, Azure, CI/CD, Docker, GraphQL, Oracle, Terraform",7,Cloud Architect
+"Ansible, CI/CD, Data Visualization, Docker, Excel, Kubernetes, Linux, Python, Terraform",9,DevOps Engineer
+"AWS, Cloud Architecture, Kubernetes, Microservices, Monitoring, React Native, Terraform",7,Cloud Architect
+"Business Intelligence, CI/CD, Communication, Docker, Git, Java, JavaScript, Problem Solving",8,Software Engineer
+"Ansible, Cryptography, Cybersecurity, Docker, Linux, Penetration Testing, Teamwork",7,Security Engineer
+"AWS, Cloud Architecture, Data Analysis, Docker, Kubernetes, Tableau, Terraform",7,Cloud Architect
+"Ansible, CI/CD, Docker, Jenkins, Kubernetes, Linux, Terraform",7,DevOps Engineer
+"CSS, HTML, PostgreSQL, RESTful APIs, React, Vue.js",6,Frontend Developer
+"Angular, CSS, JavaScript, React, TypeScript",5,Frontend Developer
+"Deep Learning, Machine Learning, Pandas, Python, SQL, Statistics, TensorFlow, Terraform",8,Data Scientist
+"Agile, Docker, Git, Java, Python, RESTful APIs, SQL",7,Software Engineer
+"Deep Learning, Docker, Node.js, NumPy, Python, Scikit-learn, TensorFlow, iOS",8,Machine Learning Engineer
+"Android, Flutter, Git, Kotlin, Swift",5,Mobile Developer
+"Agile, Communication, Django, Leadership, Project Management, SQL",6,Product Manager
+"Java, MongoDB, Oracle, PostgreSQL, Python, RESTful APIs",6,Backend Developer
+"Docker, Java, Node.js, RESTful APIs, SQL",5,Backend Developer
+"Business Intelligence, Cybersecurity, Data Analysis, Excel, Pandas, Python, R, SQL Server, Statistics",9,Data Analyst
+"Deep Learning, Machine Learning, Pandas, PyTorch, Python, Statistics",6,Data Scientist
+"Android, Docker, Git, Java, JavaScript, Problem Solving, RESTful APIs",7,Software Engineer
+"AWS, CSS, HTML, JavaScript, MongoDB, Python, React, SQL",8,Full Stack Developer
+"Deep Learning, Excel, Flask, Power BI, Python, SQL, Statistics",7,Data Analyst
+"Cassandra, Communication, Machine Learning, NumPy, Pandas, PyTorch, R, Statistics",8,Data Scientist
+"AWS, Docker, Machine Learning, Python, R, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"Git, HTML, JavaScript, Node.js, Python, React, iOS",7,Full Stack Developer
+"Agile, Business Intelligence, Communication, Leadership",4,Product Manager
+"Data Visualization, Go, HTML, Linux, Machine Learning, NumPy, Pandas, Python, R",9,Data Scientist
+"Azure, CI/CD, Cloud Architecture, Docker, HTML, Kubernetes, Terraform, Vue.js",8,Cloud Architect
+"Ansible, CI/CD, Cybersecurity, Git, Google Cloud, Jenkins, Kubernetes, Linux, Machine Learning, Python",10,DevOps Engineer
+"AWS, CI/CD, Git, Kubernetes, Linux, Terraform",6,DevOps Engineer
+"A/B Testing, Django, Excel, OWASP, Pandas, Python, SQL, Statistics",8,Data Analyst
+"Agile, Communication, Network Security, Project Management, SQL",5,Product Manager
+"CSS, JavaScript, MongoDB, Node.js, Python, SQL",6,Full Stack Developer
+"Java, Node.js, Python, RESTful APIs",4,Backend Developer
+"AWS, CI/CD, Docker, Jenkins, Kubernetes, Linux",6,DevOps Engineer
+"Compliance, Cryptography, Go, Network Security, OWASP, PHP, Penetration Testing",7,Security Engineer
+"Android, Flutter, JavaScript, Kotlin, Swift",5,Mobile Developer
+"AWS, Docker, Java, Kotlin, Python, RESTful APIs",6,Backend Developer
+"Cryptography, Cybersecurity, Flutter, Kubernetes, Network Security, Python, React",7,Security Engineer
+"AWS, CI/CD, Cloud Architecture, Microservices, Network Security, Terraform",6,Cloud Architect
+"Android, Flutter, Kotlin, PostgreSQL, RESTful APIs, iOS",6,Mobile Developer
+"Cybersecurity, MongoDB, Monitoring, Node.js, Python, RESTful APIs, SQL, Vue.js",8,Backend Developer
+"Deep Learning, Kotlin, Machine Learning, Network Security, OWASP, Penetration Testing",6,Security Engineer
+"Data Visualization, Deep Learning, Docker, Machine Learning, NumPy, Pandas, SQL, Statistics",8,Data Scientist
+"CSS, JavaScript, RESTful APIs, React, TypeScript",5,Frontend Developer
+"Agile, CSS, GraphQL, HTML, Oracle, RESTful APIs, React, Scala, Vue.js",9,Frontend Developer
+"Angular, CSS, GraphQL, JavaScript, RESTful APIs, React, Vue.js",7,Frontend Developer
+"CSS, Git, JavaScript, Node.js, PostgreSQL, Python, React, Statistics",8,Full Stack Developer
+"Git, JavaScript, MongoDB, Node.js, Python, React, TypeScript",7,Full Stack Developer
+"Data Analysis, Pandas, Power BI, SQL, Statistics",5,Data Analyst
+"Data Visualization, Git, JavaScript, Network Security, Node.js, Python, RESTful APIs, React",8,Full Stack Developer
+"Ansible, CI/CD, Git, GraphQL, Kotlin, Kubernetes, Linux, OWASP, Python, Terraform",10,DevOps Engineer
+"AWS, Azure, Cloud Architecture, Cryptography, Docker, Monitoring, React",7,Cloud Architect
+"CSS, Docker, HTML, JavaScript, Node.js, Python, RESTful APIs, React",8,Full Stack Developer
+"Docker, Git, Google Cloud, Jenkins, Kubernetes, Linux, Project Management, Python, RESTful APIs",9,DevOps Engineer
+"AWS, Azure, CI/CD, Cloud Architecture, Google Cloud, Kubernetes",6,Cloud Architect
+"Android, Firebase, Git, Kotlin, Swift",5,Mobile Developer
+"CSS, Communication, Flutter, JavaScript, RESTful APIs, React, Redis, Vue.js",8,Frontend Developer
+"CSS, Excel, Git, HTML, React, TypeScript, Vue.js",7,Frontend Developer
+"Deep Learning, Docker, Kubernetes, Machine Learning, PyTorch, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"A/B Testing, AWS, CI/CD, Data Analysis, Docker, Git, Google Cloud, Jenkins, Kubernetes, Terraform",10,DevOps Engineer
+"Cryptography, Docker, Network Security, OWASP, Penetration Testing, Power BI, Scikit-learn, Tableau",8,Security Engineer
+"Agile, Business Intelligence, Communication, Cryptography, Project Management",5,Product Manager
+"Android, Flutter, Kotlin, MongoDB, React Native, Statistics, iOS",7,Mobile Developer
+"Agile, Leadership, Project Management, Python, SQL",5,Product Manager
+"Data Analysis, Excel, Kotlin, Pandas, SQL, Tableau",6,Data Analyst
+"Android, Flutter, Git, Kotlin, Monitoring, Scala, Swift, TypeScript",8,Mobile Developer
+"Communication, Data Visualization, Excel, Machine Learning, NumPy, Pandas, PostgreSQL, Python, R",9,Data Scientist
+"Data Analysis, Django, Excel, Leadership, Power BI, Statistics, Tableau, Teamwork",8,Data Analyst
+"AWS, CI/CD, Java, JavaScript, Oracle, PHP, Problem Solving, Python, SQL",9,Software Engineer
+"HTML, Kotlin, RESTful APIs, Swift, iOS",5,Mobile Developer
+"AWS, Azure, CI/CD, Cloud Architecture, Ruby, SQL",6,Cloud Architect
+"AWS, Deep Learning, Leadership, Machine Learning, NumPy, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"Data Visualization, Kotlin, Linux, Network Security, Penetration Testing, Swift",6,Security Engineer
+"AWS, Ansible, C#, CI/CD, Docker, Git, Jenkins, Linux, Monitoring",9,DevOps Engineer
+"AWS, Cloud Architecture, Docker, Excel, Security, Terraform",6,Cloud Architect
+"Git, Go, Java, JavaScript, Python, SQL, SQL Server, Teamwork",8,Software Engineer
+"AWS, Deep Learning, Docker, Machine Learning, Python, Ruby, TensorFlow, iOS",8,Machine Learning Engineer
+"CSS, Git, HTML, JavaScript, Terraform, Vue.js",6,Frontend Developer
+"Agile, CI/CD, Cryptography, Docker, Git, Java, Python, Tableau, TypeScript",9,Software Engineer
+"A/B Testing, Data Visualization, Leadership, Machine Learning, NumPy, Pandas, PyTorch, Python, Scala",9,Data Scientist
+"Docker, Java, MongoDB, Python, RESTful APIs",5,Backend Developer
+"Data Analysis, Jenkins, Pandas, React Native, SQL, Statistics",6,Data Analyst
+"Flask, Network Security, Node.js, OWASP, Penetration Testing, Project Management",6,Security Engineer
+"AWS, Flutter, Git, Node.js, Python, RESTful APIs, React, SQL",8,Full Stack Developer
+"Data Analysis, Power BI, Python, SQL, Statistics",5,Data Analyst
+"Incident Response, Linux, Network Security, OWASP, Penetration Testing",5,Security Engineer
+"AWS, CI/CD, Docker, Kubernetes, Linux, Penetration Testing, Python, Terraform",8,DevOps Engineer
+"Data Visualization, Deep Learning, Machine Learning, Pandas, Python, Redis, SQL, Spark, Statistics",9,Data Scientist
+"Business Intelligence, Data Analysis, Excel, Pandas, Python, SQL, Scikit-learn",7,Data Analyst
+"Communication, Cryptography, Cybersecurity, Penetration Testing",4,Security Engineer
+"Business Intelligence, Communication, Leadership, Monitoring, Oracle, Project Management, Python, Ruby, SQL",9,Product Manager
+"A/B Testing, Android, Deep Learning, Docker, Machine Learning, Project Management, PyTorch, TensorFlow",8,Machine Learning Engineer
+"Data Visualization, NumPy, Pandas, PyTorch, Python, React Native, SQL, Statistics, TensorFlow, TypeScript",10,Data Scientist
+"Angular, Compliance, Cybersecurity, Linux, Network Security, OWASP",6,Security Engineer
+"Angular, Data Analysis, Excel, HTML, Python, R, SQL, Tableau, TypeScript",9,Data Analyst
+"Data Visualization, Machine Learning, NumPy, Pandas, Python, SQL",6,Data Scientist
+"Android, CI/CD, Kotlin, RESTful APIs, React Native, Swift",6,Mobile Developer
+"Data Analysis, Python, R, SQL, Statistics, Tableau",6,Data Analyst
+"Data Visualization, Deep Learning, Machine Learning, MongoDB, NumPy, Python, R, RESTful APIs, SQL, Statistics",10,Data Scientist
+"Data Visualization, Machine Learning, NumPy, Oracle, Pandas, PyTorch, Statistics, Swift",8,Data Scientist
+"AWS, Docker, Git, Kubernetes, Linux, Python, Scikit-learn",7,DevOps Engineer
+"Compliance, Cybersecurity, Docker, Network Security, PostgreSQL, Python",6,Security Engineer
+"Ansible, CI/CD, Docker, Git, Kubernetes, Monitoring, Pandas, Python, Terraform",9,DevOps Engineer
+"C#, Data Visualization, Deep Learning, Jenkins, Machine Learning, NumPy, PyTorch, Python",8,Machine Learning Engineer
+"Data Visualization, Deep Learning, Machine Learning, Pandas, PyTorch, Python, Statistics",7,Data Scientist
+"CSS, Git, JavaScript, Linux, React, Scikit-learn, TypeScript, Vue.js",8,Frontend Developer
+"Android, Flutter, Jenkins, MySQL, Swift, Tableau, iOS",7,Mobile Developer
+"Cybersecurity, Linux, OWASP, Penetration Testing",4,Security Engineer
+"AWS, Communication, Cybersecurity, Network Security, OWASP",5,Security Engineer
+"AWS, Azure, Deep Learning, Docker, Machine Learning, R, Scala, Scikit-learn, TensorFlow",9,Machine Learning Engineer
+"AWS, CSS, Docker, Java, Python, RESTful APIs, React",7,Backend Developer
+"Ansible, CI/CD, Git, JavaScript, Kotlin, Power BI, Problem Solving, Python",8,Software Engineer
+"Data Analysis, Pandas, Power BI, SQL, Statistics",5,Data Analyst
+"Flutter, HTML, JavaScript, Node.js, Python, RESTful APIs, React",7,Full Stack Developer
+"AWS, Java, PostgreSQL, RESTful APIs, SQL",5,Backend Developer
+"AWS, Agile, CSS, JavaScript, Kubernetes, MongoDB, Network Security, Python, React, SQL",10,Full Stack Developer
+"A/B Testing, C++, Communication, Flutter, Leadership, Project Management, SQL, Tableau",8,Product Manager
+"Agile, Angular, Ansible, HTML, JavaScript, Oracle, React, Vue.js",8,Frontend Developer
+"Ansible, CI/CD, Docker, Git, Jenkins, Linux, Monitoring, Ruby, TensorFlow, Terraform",10,DevOps Engineer
+"Data Analysis, Excel, Python, R, Scikit-learn, Statistics, TensorFlow",7,Data Analyst
+"C++, CI/CD, Java, Leadership, Problem Solving, Python, SQL",7,Software Engineer
+"Angular, HTML, JavaScript, React, Vue.js",5,Frontend Developer
+"Data Visualization, Docker, Java, MLOps, Machine Learning, MySQL, Python, Scikit-learn, TensorFlow",9,Machine Learning Engineer
+"CSS, JavaScript, RESTful APIs, React, Vue.js",5,Frontend Developer
+"Agile, Communication, Data Analysis, Kubernetes, Leadership",5,Product Manager
+"Data Analysis, Excel, Pandas, Python, SQL, Statistics, TypeScript",7,Data Analyst
+"Communication, Excel, Pandas, Power BI, SQL, Statistics, Tableau",7,Data Analyst
+"Machine Learning, Pandas, PyTorch, Python, SQL, Statistics, TensorFlow",7,Data Scientist
+"Agile, Ansible, Communication, Data Analysis, Leadership",5,Product Manager
+"CSS, Java, JavaScript, RESTful APIs, React, Scala, Scikit-learn, TypeScript",8,Frontend Developer
+"Incident Response, Network Security, OWASP, Penetration Testing",4,Security Engineer
+"Cryptography, Cybersecurity, Linux, Penetration Testing",4,Security Engineer
+"Machine Learning, NumPy, Pandas, Python, SQL, TensorFlow",6,Data Scientist
+"AWS, Ansible, Docker, Git, Jenkins, Kubernetes, Linux, SQL Server, TensorFlow",9,DevOps Engineer
+"AWS, Azure, Java, Kubernetes, Terraform",5,Cloud Architect
+"AWS, Deep Learning, Kubernetes, Machine Learning, Power BI, PyTorch, Python",7,Machine Learning Engineer
+"AWS, HTML, JavaScript, Node.js, NumPy, RESTful APIs, React, React Native, SQL",9,Full Stack Developer
+"AWS, C++, Cryptography, Cybersecurity, Network Security, Python",6,Security Engineer
+"AWS, Azure, Docker, Jenkins, Microservices, Terraform",6,Cloud Architect
+"A/B Testing, Excel, HTML, Power BI, SQL, Statistics, Tableau, Terraform",8,Data Analyst
+"CI/CD, Docker, Jenkins, Kubernetes, Linux, Python, Terraform",7,DevOps Engineer
+"Cybersecurity, Java, Linux, Network Security, PHP, Penetration Testing, Python",7,Security Engineer
+"Agile, Docker, Git, Kubernetes, Problem Solving, Python, RESTful APIs, SQL",8,Software Engineer
+"Docker, Java, MySQL, Problem Solving, Python, RESTful APIs, SQL, TypeScript",8,Software Engineer
+"CSS, Data Analysis, Excel, JavaScript, Pandas, Penetration Testing, Statistics",7,Data Analyst
+"AWS, Cybersecurity, Deep Learning, Docker, Machine Learning, Python, Redis",7,Machine Learning Engineer
+"Deep Learning, Docker, Java, Machine Learning, Python, Scikit-learn",6,Machine Learning Engineer
+"Deep Learning, Machine Learning, NumPy, Pandas, PyTorch, R, SQL, Statistics",8,Data Scientist
+"AWS, Deep Learning, Kubernetes, Linux, Machine Learning, Python, Ruby, Scala, Scikit-learn",9,Machine Learning Engineer
+"AWS, CSS, Deep Learning, Machine Learning, MongoDB, NumPy, PyTorch, Python, Terraform",9,Machine Learning Engineer
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, Excel, Google Cloud",7,Cloud Architect
+"Angular, CSS, HTML, Node.js, RESTful APIs, React, Scala, Swift",8,Frontend Developer
+"CSS, HTML, RESTful APIs, React, TypeScript",5,Frontend Developer
+"Agile, Communication, Data Analysis, Flask, Leadership",5,Product Manager
+"Data Analysis, Java, Monitoring, Node.js, Python, RESTful APIs, Redis",7,Backend Developer
+"Cybersecurity, OWASP, Oracle, Penetration Testing, Ruby",5,Security Engineer
+"AWS, Deep Learning, NumPy, Pandas, Python, Statistics, TensorFlow",7,Data Scientist
+"AWS, Docker, Git, Java, Kubernetes, PostgreSQL, Python, SQL",8,Backend Developer
+"C++, Cybersecurity, Flask, Linux, Node.js, OWASP, Penetration Testing",7,Security Engineer
+"Git, Kotlin, Python, RESTful APIs, Swift, iOS",6,Mobile Developer
+"A/B Testing, Cybersecurity, Data Visualization, Jenkins, Linux, Network Security, OWASP",7,Security Engineer
+"A/B Testing, Communication, Data Analysis, Leadership, Problem Solving, Project Management, SQL",7,Product Manager
+"AWS, Azure, Business Intelligence, CI/CD, Microservices, Monitoring, Terraform",7,Cloud Architect
+"CI/CD, Git, Java, Python, SQL",5,Software Engineer
+"Agile, Angular, CSS, HTML, Node.js, React",6,Frontend Developer
+"Ansible, Cybersecurity, Data Visualization, Linux, Network Security, NumPy, OWASP",7,Security Engineer
+"CSS, HTML, Java, JavaScript, Kubernetes, Node.js, Python, RESTful APIs, React",9,Full Stack Developer
+"AWS, CSS, Node.js, Python, RESTful APIs, React, SQL",7,Full Stack Developer
+"AWS, CSS, Deep Learning, Docker, Machine Learning, Python, SQL, Scikit-learn",8,Machine Learning Engineer
+"AWS, Azure, CI/CD, CSS, Cloud Architecture, Docker, Go, iOS",8,Cloud Architect
+"A/B Testing, Communication, Data Analysis, Leadership, Project Management, SQL",6,Product Manager
+"Flutter, Kotlin, PyTorch, RESTful APIs, Swift, Terraform, iOS",7,Mobile Developer
+"Agile, Business Intelligence, Leadership, Project Management, RESTful APIs, Tableau",6,Product Manager
+"AWS, Azure, Docker, Terraform",4,Cloud Architect
+"A/B Testing, AWS, Cybersecurity, Deep Learning, Linux, Network Security, Python",7,Security Engineer
+"Data Visualization, Leadership, Machine Learning, NumPy, Pandas, PyTorch, R, SQL, Statistics, TensorFlow, iOS",11,Data Scientist
+"AWS, Cryptography, Cybersecurity, Penetration Testing, Python",5,Security Engineer
+"CI/CD, Docker, Git, Problem Solving, Python",5,Software Engineer
+"Azure, Cloud Architecture, Docker, Terraform",4,Cloud Architect
+"Agile, Business Intelligence, Communication, Project Management, Python",5,Product Manager
+"Data Visualization, Docker, Python, RESTful APIs, SQL",5,Backend Developer
+"Compliance, Kubernetes, Network Security, OWASP, Penetration Testing, Python",6,Security Engineer
+"Cybersecurity, Leadership, Linux, Network Security, Python, Redis, iOS",7,Security Engineer
+"AWS, Azure, CI/CD, Cassandra, Cloud Architecture, Kubernetes",6,Cloud Architect
+"Docker, Git, Java, RESTful APIs, SQL, Terraform",6,Backend Developer
+"Docker, Linux, Network Security, PHP, Penetration Testing",5,Security Engineer
+"Azure, Cryptography, Cybersecurity, Incident Response, Penetration Testing, Python, R, TypeScript",8,Security Engineer
+"JavaScript, MongoDB, Node.js, Python, RESTful APIs, React, Redis",7,Full Stack Developer
+"AWS, Deep Learning, Machine Learning, Oracle, Pandas, Python, R, Redis, Statistics",9,Data Scientist
+"AWS, Azure, CI/CD, Cryptography, Django, Kubernetes, MongoDB, Terraform",8,Cloud Architect
+"A/B Testing, Deep Learning, Git, Machine Learning, NumPy, Pandas, Python, R, Spark, Statistics, TensorFlow",11,Data Scientist
+"Angular, Data Analysis, Excel, Python, React, SQL",6,Data Analyst
+"CSS, Docker, Git, JavaScript, Leadership, Network Security, Problem Solving, Python",8,Software Engineer
+"Docker, Excel, Power BI, Python, SQL, Statistics, Teamwork",7,Data Analyst
+"Communication, Cryptography, Network Security, OWASP, Penetration Testing",5,Security Engineer
+"AWS, CI/CD, Docker, Git, Jenkins, Kubernetes",6,DevOps Engineer
+"Docker, Git, HTML, JavaScript, Linux, MongoDB, Node.js, PHP, Problem Solving, React, SQL",11,Full Stack Developer
+"Machine Learning, NumPy, PyTorch, Python, R, Statistics",6,Data Scientist
+"AWS, Docker, Git, Java, Network Security, Python, SQL",7,Software Engineer
+"AWS, HTML, Machine Learning, PyTorch, Python, Spark, TensorFlow",7,Machine Learning Engineer
+"AWS, Android, CI/CD, Docker, Git, Jenkins, Linux, R, RESTful APIs",9,DevOps Engineer
+"Communication, Docker, Linux, Network Security, Penetration Testing, Python",6,Security Engineer
+"Agile, Business Intelligence, Data Analysis, Leadership, Project Management",5,Product Manager
+"Business Intelligence, Cryptography, Network Security, OWASP, Penetration Testing, TypeScript",6,Security Engineer
+"AWS, Machine Learning, Penetration Testing, PyTorch, Python, Spark, TensorFlow",7,Machine Learning Engineer
+"Agile, Business Intelligence, Leadership, Project Management",4,Product Manager
+"Agile, CSS, Google Cloud, JavaScript, React, TypeScript, Vue.js",7,Frontend Developer
+"Azure, CI/CD, Docker, Excel, Git, Jenkins, Linux, Python",8,DevOps Engineer
+"A/B Testing, CI/CD, Docker, Jenkins, Kubernetes, Linux, React, Terraform",8,DevOps Engineer
+"CSS, Git, HTML, Kotlin, React, Teamwork, TypeScript",7,Frontend Developer
+"AWS, Azure, Cloud Architecture, Kubernetes",4,Cloud Architect
+"Data Visualization, Deep Learning, Docker, Machine Learning, NumPy, Pandas, PyTorch, SQL, Statistics, TensorFlow",10,Data Scientist
+"Agile, Angular, CSS, HTML, Leadership, Node.js, Power BI, RESTful APIs, React",9,Frontend Developer
+"AWS, Data Visualization, Machine Learning, Pandas, Penetration Testing, PyTorch, Python, SQL, Statistics, TensorFlow",10,Data Scientist
+"Java, Kotlin, React Native, Swift, iOS",5,Mobile Developer
+"Android, Git, Kotlin, iOS",4,Mobile Developer
+"Android, Git, React Native, Swift, iOS",5,Mobile Developer
+"Compliance, Cybersecurity, Linux, Penetration Testing",4,Security Engineer
+"Agile, Business Intelligence, Leadership, Project Management",4,Product Manager
+"Cybersecurity, Linux, Network Security, OWASP",4,Security Engineer
+"Android, Cassandra, Firebase, Git, Kotlin, RESTful APIs, iOS",7,Mobile Developer
+"Git, HTML, JavaScript, Node.js, Penetration Testing, Python, RESTful APIs, React",8,Full Stack Developer
+"Angular, HTML, JavaScript, Pandas, PyTorch, React, Vue.js",7,Frontend Developer
+"Docker, JavaScript, Kubernetes, Machine Learning, Python, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"AWS, CI/CD, Cloud Architecture, Kubernetes, Terraform",5,Cloud Architect
+"Android, Business Intelligence, HTML, JavaScript, Node.js, RESTful APIs, React, SQL, Scikit-learn",9,Full Stack Developer
+"AWS, Agile, Docker, Git, Kubernetes, Linux, Python, Vue.js",8,DevOps Engineer
+"AWS, Docker, Machine Learning, Python, Spark, TensorFlow",6,Machine Learning Engineer
+"Data Analysis, Django, Flutter, Power BI, SQL, Statistics, Tableau",7,Data Analyst
+"CI/CD, Flutter, Java, MySQL, Problem Solving, Python, RESTful APIs",7,Software Engineer
+"CI/CD, Docker, Git, Java, Kubernetes, Problem Solving, SQL",7,Software Engineer
+"Data Analysis, Power BI, PyTorch, Python, SQL, Statistics",6,Data Analyst
+"AWS, Communication, Deep Learning, MLOps, Machine Learning, Power BI, Project Management, PyTorch, Scikit-learn, TensorFlow",10,Machine Learning Engineer
+"Android, CI/CD, Git, Kotlin, RESTful APIs, Scala, Swift",7,Mobile Developer
+"GraphQL, Java, Jenkins, Node.js, PostgreSQL, Python, RESTful APIs",7,Backend Developer
+"CSS, HTML, JavaScript, MongoDB, Node.js, PostgreSQL, React, SQL",8,Full Stack Developer
+"Agile, C++, Data Analysis, Leadership, Project Management",5,Product Manager
+"CSS, Cybersecurity, JavaScript, RESTful APIs, React",5,Frontend Developer
+"Agile, Communication, Leadership, SQL, Tableau",5,Product Manager
+"Android, CSS, GraphQL, JavaScript, Leadership, React, TypeScript, Vue.js",8,Frontend Developer
+"Agile, Communication, Data Analysis, Jenkins, Project Management, Python",6,Product Manager
+"CSS, Data Visualization, HTML, JavaScript, Power BI, RESTful APIs, Vue.js",7,Frontend Developer
+"CSS, JavaScript, Python, RESTful APIs, React, SQL",6,Full Stack Developer
+"Docker, HTML, JavaScript, MongoDB, Node.js, Python, React",7,Full Stack Developer
+"Ansible, Docker, Git, Kubernetes, Linux, Monitoring, Python, Terraform",8,DevOps Engineer
+"Ansible, Azure, CI/CD, Docker, Git, Linux, Python, RESTful APIs",8,DevOps Engineer
+"Cryptography, Cybersecurity, Django, Docker, OWASP, Penetration Testing, Power BI",7,Security Engineer
+"AWS, Azure, CI/CD, Docker, Git, Kubernetes, Python",7,DevOps Engineer
+"Angular, Deep Learning, Git, Machine Learning, Pandas, PyTorch, Python, R, Statistics",9,Data Scientist
+"Agile, Docker, Git, Java, Monitoring, Problem Solving, RESTful APIs, SQL, Tableau",9,Software Engineer
+"Azure, Cloud Architecture, Data Analysis, Docker, Kubernetes, Microservices, OWASP, Terraform",8,Cloud Architect
+"Cryptography, Cybersecurity, Linux, Penetration Testing",4,Security Engineer
+"Flask, Git, HTML, JavaScript, Node.js, Penetration Testing, Project Management, React, SQL",9,Full Stack Developer
+"AWS, Git, HTML, Java, JavaScript, Penetration Testing, Python, SQL",8,Software Engineer
+"A/B Testing, Docker, HTML, JavaScript, Node.js, OWASP, Python, RESTful APIs, React",9,Full Stack Developer
+"Java, PostgreSQL, Python, SQL",4,Backend Developer
+"Android, CSS, HTML, JavaScript, Kotlin, NumPy, Python, RESTful APIs, React, SQL",10,Full Stack Developer
+"Java, JavaScript, MongoDB, NumPy, PostgreSQL, RESTful APIs, SQL, Scala",8,Backend Developer
+"Agile, Communication, Leadership, SQL, Tableau",5,Product Manager
+"Cryptography, Cybersecurity, Linux, Penetration Testing",4,Security Engineer
+"AWS, C++, Deep Learning, Docker, Machine Learning, Pandas, PyTorch, Python, R, Statistics",10,Data Scientist
+"Excel, Git, JavaScript, MongoDB, Node.js, Python, SQL, Teamwork",8,Full Stack Developer
+"Angular, CI/CD, Git, Kubernetes, Linux, MySQL, Python, React, Terraform",9,DevOps Engineer
+"AWS, CI/CD, Git, Java, Power BI, Python, SQL, Statistics",8,Software Engineer
+"Azure, CI/CD, Java, Linux, Node.js, PostgreSQL, Python, RESTful APIs, SQL",9,Backend Developer
+"Flutter, Kotlin, React Native, Swift, iOS",5,Mobile Developer
+"CSS, GraphQL, HTML, JavaScript, RESTful APIs, TypeScript",6,Frontend Developer
+"AWS, CI/CD, Cloud Architecture, Microservices, React, Terraform",6,Cloud Architect
+"A/B Testing, Business Intelligence, Communication, Leadership, Project Management, Scala, Scikit-learn",7,Product Manager
+"Business Intelligence, CI/CD, Git, Problem Solving, Python, SQL",6,Software Engineer
+"Cryptography, Cybersecurity, Flutter, Network Security",4,Security Engineer
+"HTML, JavaScript, MongoDB, Node.js, React, SQL",6,Full Stack Developer
+"Ansible, Git, JavaScript, Problem Solving, Python, R, RESTful APIs, Scala",8,Software Engineer
+"Excel, Java, Pandas, Power BI, R, SQL, Statistics, TensorFlow",8,Data Analyst
+"AWS, Cybersecurity, Leadership, Linux, Penetration Testing",5,Security Engineer
+"Agile, Business Intelligence, Leadership, Pandas, Project Management, Vue.js",6,Product Manager
+"Business Intelligence, Leadership, Machine Learning, Pandas, PyTorch, Python, SQL, Scikit-learn, Statistics, Teamwork",10,Data Scientist
+"AWS, Deep Learning, Google Cloud, PyTorch, Python, Scala, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"Agile, Android, Business Intelligence, Communication, Docker, Leadership, PyTorch",7,Product Manager
+"Ansible, C++, CI/CD, Docker, Git, Google Cloud, Jenkins, Linux, Power BI, Terraform",10,DevOps Engineer
+"Agile, Git, Java, Python, RESTful APIs, SQL",6,Software Engineer
+"Deep Learning, Machine Learning, NumPy, Project Management, PyTorch, Python, Statistics, TensorFlow",8,Data Scientist
+"AWS, Docker, MongoDB, NumPy, Python, RESTful APIs, SQL",7,Backend Developer
+"Docker, Machine Learning, Pandas, PyTorch, Python, SQL, Statistics",7,Data Scientist
+"Docker, Git, HTML, JavaScript, Node.js, Python, R, SQL, Scala",9,Full Stack Developer
+"C#, Cryptography, Data Analysis, Excel, Power BI, Statistics",6,Data Analyst
+"Deep Learning, Machine Learning, NumPy, PyTorch, Python, Scikit-learn",6,Machine Learning Engineer
+"CSS, HTML, Python, React, Teamwork, TypeScript",6,Frontend Developer
+"Agile, Kubernetes, Leadership, Project Management, SQL, Swift",6,Product Manager
+"Agile, Communication, Django, Excel, Leadership, OWASP, Problem Solving, SQL",8,Product Manager
+"Docker, Java, Kotlin, Node.js, RESTful APIs, React, SQL",7,Backend Developer
+"Android, Flutter, Kotlin, React Native, iOS",5,Mobile Developer
+"CSS, Compliance, Cybersecurity, Linux, Network Security, OWASP, Power BI",7,Security Engineer
+"Android, Git, JavaScript, Kotlin, RESTful APIs, Swift",6,Mobile Developer
+"CSS, Docker, HTML, JavaScript, Linux, MongoDB, Network Security, Python, React, Redis, SQL",11,Full Stack Developer
+"CI/CD, Docker, Git, Java, Jenkins, Python, Vue.js",7,Software Engineer
+"Data Visualization, Deep Learning, Machine Learning, NumPy, Pandas, Python, SQL",7,Data Scientist
+"AWS, Cybersecurity, Git, NumPy, OWASP, Penetration Testing",6,Security Engineer
+"Deep Learning, Docker, Machine Learning, NumPy, Python, Redis, TensorFlow",7,Machine Learning Engineer
+"CI/CD, CSS, Cybersecurity, Docker, Git, Java, Problem Solving, RESTful APIs",8,Software Engineer
+"Deep Learning, Java, Leadership, NumPy, Pandas, PostgreSQL, PyTorch, Python, R, Statistics, TensorFlow",11,Data Scientist
+"Business Intelligence, Cryptography, Data Analysis, Excel, Python, SQL, Tableau",7,Data Analyst
+"Agile, Communication, Leadership, Oracle, PostgreSQL, SQL",6,Product Manager
+"Android, CI/CD, Jenkins, Kotlin, RESTful APIs, React Native, Swift",7,Mobile Developer
+"A/B Testing, Agile, CI/CD, Deep Learning, Excel, Pandas, SQL, Statistics, Tableau",9,Data Analyst
+"Ansible, Cryptography, Linux, Network Security, Node.js, Penetration Testing",6,Security Engineer
+"Data Analysis, Excel, Pandas, Power BI, Problem Solving, SQL",6,Data Analyst
+"Cassandra, HTML, Node.js, Python, RESTful APIs, React, SQL",7,Full Stack Developer
+"AWS, Azure, CI/CD, Kubernetes, Leadership, Redis, Terraform",7,Cloud Architect
+"AWS, Cybersecurity, Linux, NumPy, OWASP, Penetration Testing, R",7,Security Engineer
+"CSS, Data Analysis, Excel, Pandas, Python, R, SQL Server, Statistics, Tableau",9,Data Analyst
+"Git, MongoDB, Node.js, PostgreSQL, Python, React, SQL",7,Full Stack Developer
+"C++, CSS, Cybersecurity, HTML, RESTful APIs, React, Tableau, Vue.js",8,Frontend Developer
+"Ansible, C++, CI/CD, CSS, Git, Java, JavaScript, Python",8,Software Engineer
+"Data Analysis, Python, SQL, Statistics",4,Data Analyst
+"AWS, CSS, JavaScript, MongoDB, Node.js, RESTful APIs, React, SQL, iOS",9,Full Stack Developer
+"Cryptography, Cybersecurity, Network Security, Node.js, OWASP",5,Security Engineer
+"Android, Kotlin, RESTful APIs, Swift",4,Mobile Developer
+"CSS, Git, HTML, Node.js, Python, React, SQL",7,Full Stack Developer
+"Angular, Ansible, CSS, GraphQL, HTML, JavaScript, Redis, Vue.js",8,Frontend Developer
+"Docker, JavaScript, Machine Learning, NumPy, PyTorch, Python, SQL, SQL Server, TensorFlow",9,Machine Learning Engineer
+"Incident Response, Java, Linux, Network Security, Penetration Testing, RESTful APIs",6,Security Engineer
+"CI/CD, Git, HTML, Kubernetes, Linux, Penetration Testing, Python, Terraform",8,DevOps Engineer
+"CSS, Git, JavaScript, Python, React, React Native, SQL, TypeScript",8,Full Stack Developer
+"Azure, Cloud Architecture, Kubernetes, Terraform",4,Cloud Architect
+"Cryptography, Docker, Network Security, Penetration Testing",4,Security Engineer
+"Angular, HTML, JavaScript, React",4,Frontend Developer
+"Excel, Pandas, SQL, Scikit-learn, Statistics",5,Data Analyst
+"CSS, JavaScript, MongoDB, Node.js, Python, SQL",6,Full Stack Developer
+"Cryptography, Cybersecurity, Incident Response, Penetration Testing",4,Security Engineer
+"Ansible, CI/CD, Docker, Git, Jenkins, Linux, Ruby",7,DevOps Engineer
+"AWS, Agile, Data Analysis, Go, Power BI, SQL, Statistics",7,Data Analyst
+"Agile, CI/CD, Git, Jenkins, Kubernetes, Linux, Terraform",7,DevOps Engineer
+"AWS, C++, Cloud Architecture, Kubernetes, Microservices, R, Terraform",7,Cloud Architect
+"AWS, CI/CD, Docker, Jenkins, Kubernetes, Linux",6,DevOps Engineer
+"AWS, Azure, Kubernetes, Microservices, MongoDB, Terraform",6,Cloud Architect
+"Agile, Communication, JavaScript, Project Management, SQL",5,Product Manager
+"Data Visualization, Django, Machine Learning, Pandas, Python, SQL, Spark, Statistics, TensorFlow",9,Data Scientist
+"Data Analysis, Excel, Pandas, Python, SQL",5,Data Analyst
+"Docker, Node.js, Python, RESTful APIs, Redis, SQL",6,Backend Developer
+"Data Visualization, Leadership, Machine Learning, NumPy, Pandas, Python, SQL, TensorFlow",8,Data Scientist
+"A/B Testing, Agile, Communication, Leadership, Project Management, Redis, SQL",7,Product Manager
+"CI/CD, Flutter, Kotlin, MySQL, Swift, iOS",6,Mobile Developer
+"Agile, Communication, Data Analysis, Excel, Project Management",5,Product Manager
+"C++, Communication, Docker, Machine Learning, Pandas, Python, R, Statistics, TensorFlow",9,Data Scientist
+"Deep Learning, Flutter, Machine Learning, PyTorch, Python, R, Scikit-learn",7,Machine Learning Engineer
+"CSS, Docker, Git, JavaScript, MongoDB, Node.js, Python, React",8,Full Stack Developer
+"Git, Java, JavaScript, Kotlin, React Native, Swift, iOS",7,Mobile Developer
+"Git, HTML, JavaScript, Python, React, SQL, TypeScript",7,Full Stack Developer
+"Docker, Git, Java, Python, SQL",5,Software Engineer
+"AWS, CI/CD, Deep Learning, Docker, Git, Jenkins, Kubernetes, Monitoring, PostgreSQL, Terraform",10,DevOps Engineer
+"HTML, JavaScript, MongoDB, Node.js, Python, SQL",6,Full Stack Developer
+"CI/CD, CSS, HTML, JavaScript, React, Vue.js",6,Frontend Developer
+"Communication, Cybersecurity, Linux, Network Security, OWASP, PHP, Vue.js",7,Security Engineer
+"Docker, Java, Kotlin, RESTful APIs, SQL, iOS",6,Backend Developer
+"AWS, C++, Deep Learning, Docker, Machine Learning, TensorFlow",6,Machine Learning Engineer
+"AWS, Docker, Git, Java, JavaScript, Problem Solving, SQL",7,Software Engineer
+"Android, MongoDB, Node.js, NumPy, PostgreSQL, Python, RESTful APIs, SQL",8,Backend Developer
+"AWS, Azure, Kubernetes, Microservices, Terraform",5,Cloud Architect
+"Agile, Business Intelligence, Communication, Data Analysis, Data Visualization, Project Management",6,Product Manager
+"A/B Testing, Android, Data Analysis, Excel, MongoDB, Pandas, SQL, Tableau",8,Data Analyst
+"CI/CD, Docker, Git, Linux, Python, Terraform",6,DevOps Engineer
+"Deep Learning, PyTorch, Python, Scikit-learn, TensorFlow, TypeScript",6,Machine Learning Engineer
+"CSS, HTML, Node.js, React, SQL, Vue.js",6,Frontend Developer
+"Docker, Git, Java, JavaScript, Kubernetes, Problem Solving",6,Software Engineer
+"CSS, HTML, Node.js, RESTful APIs, React, SQL Server, TypeScript",7,Frontend Developer
+"Data Analysis, Excel, Monitoring, Python, Statistics, Tableau",6,Data Analyst
+"Android, Excel, GraphQL, Kotlin, NumPy, React Native, iOS",7,Mobile Developer
+"CSS, JavaScript, MongoDB, Python, React, SQL",6,Full Stack Developer
+"Android, Data Analysis, Django, Flutter, Kotlin, Problem Solving, React Native, Swift",8,Mobile Developer
+"Data Analysis, MongoDB, Pandas, SQL, Statistics, Tableau",6,Data Analyst
+"Agile, CI/CD, Leadership, Power BI, Project Management, SQL",6,Product Manager
+"Cybersecurity, Linux, OWASP, Penetration Testing, R, TensorFlow",6,Security Engineer
+"A/B Testing, CSS, Cryptography, Cybersecurity, Deep Learning, Linux, Penetration Testing",7,Security Engineer
+"Business Intelligence, Communication, Data Analysis, Leadership, Project Management",5,Product Manager
+"Data Analysis, Excel, Network Security, Power BI, R, SQL, Teamwork",7,Data Analyst
+"Angular, Compliance, Cryptography, Cybersecurity, Data Visualization, MongoDB, Network Security, Python",8,Security Engineer
+"Django, Docker, Git, Java, Problem Solving, React Native, SQL",7,Software Engineer
+"Agile, Business Intelligence, Communication, Docker, Leadership, Penetration Testing",6,Product Manager
+"CI/CD, Java, Kubernetes, MongoDB, Python, RESTful APIs, Tableau",7,Backend Developer
+"Django, Machine Learning, Pandas, PyTorch, Python, SQL, Statistics",7,Data Scientist
+"AWS, Azure, Cloud Architecture, Docker, Kubernetes, Ruby, Swift",7,Cloud Architect
+"Cryptography, Cybersecurity, Linux, Network Security, Terraform",5,Security Engineer
+"CSS, HTML, JavaScript, TypeScript, Vue.js",5,Frontend Developer
+"Android, Git, Kotlin, R, Swift",5,Mobile Developer
+"HTML, JavaScript, MongoDB, Node.js, PostgreSQL, Python, RESTful APIs, React",8,Full Stack Developer
+"AWS, Cassandra, Data Visualization, Deep Learning, Machine Learning, NumPy, Pandas, Penetration Testing, Python",9,Data Scientist
+"C++, Docker, Java, Leadership, Monitoring, PostgreSQL, RESTful APIs, Redis, SQL",9,Backend Developer
+"Ansible, CI/CD, Docker, Git, Linux, Terraform",6,DevOps Engineer
+"AWS, Cryptography, Cybersecurity, HTML, Penetration Testing, TypeScript",6,Security Engineer
+"AWS, Deep Learning, Python, RESTful APIs, SQL, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"Android, Ansible, CI/CD, Docker, Git, Jenkins, Kubernetes, Python",8,DevOps Engineer
+"Excel, Pandas, Python, SQL, Statistics",5,Data Analyst
+"GraphQL, HTML, JavaScript, RESTful APIs, React, TypeScript",6,Frontend Developer
+"CSS, Linux, Node.js, Python, RESTful APIs, React, SQL",7,Full Stack Developer
+"Android, Deep Learning, Flutter, JavaScript, Kotlin, Power BI, React Native, Swift",8,Mobile Developer
+"HTML, JavaScript, Node.js, PHP, PyTorch, React, Swift, TypeScript",8,Frontend Developer
+"Cryptography, Cybersecurity, Flutter, Git, MySQL, Network Security, Python",7,Security Engineer
+"CSS, JavaScript, Python, RESTful APIs, React, SQL",6,Full Stack Developer
+"Azure, CSS, HTML, RESTful APIs, React, TypeScript",6,Frontend Developer
+"Git, Java, JavaScript, Python, SQL",5,Software Engineer
+"CSS, Cybersecurity, Git, HTML, Linux, React, TypeScript",7,Frontend Developer
+"Azure, CI/CD, Django, Docker, Git, Jenkins, Kubernetes, Linux, Problem Solving, Python, Terraform",11,DevOps Engineer
+"Android, Git, Linux, NumPy, PyTorch, RESTful APIs, Swift, iOS",8,Mobile Developer
+"AWS, CI/CD, Docker, Google Cloud, Jenkins, Kubernetes, Linux, Teamwork",8,DevOps Engineer
+"AWS, Data Visualization, Deep Learning, Leadership, Machine Learning, Network Security, Pandas, Python, R, Scikit-learn, Statistics",11,Data Scientist
+"Excel, SQL, Scala, Statistics, Tableau",5,Data Analyst
+"AWS, C++, Deep Learning, Machine Learning, NumPy, PyTorch, Python",7,Machine Learning Engineer
+"Ansible, CI/CD, Git, Kubernetes, Linux, Monitoring, Python, Teamwork",8,DevOps Engineer
+"HTML, JavaScript, MySQL, Node.js, React, Swift, Vue.js",7,Frontend Developer
+"AWS, C++, Git, Java, Python, RESTful APIs, SQL",7,Software Engineer
+"AWS, PostgreSQL, Python, RESTful APIs, SQL",5,Backend Developer
+"Cassandra, Deep Learning, Docker, MLOps, Machine Learning, Python, Scikit-learn",7,Machine Learning Engineer
+"AWS, Git, JavaScript, Node.js, Python, RESTful APIs, SQL",7,Full Stack Developer
+"Azure, Cloud Architecture, Communication, Kubernetes, Microservices, Scala, Terraform",7,Cloud Architect
+"Docker, Git, Java, Linux, PostgreSQL, Python, RESTful APIs",7,Backend Developer
+"Cassandra, Cybersecurity, Linux, Network Security, OWASP, Oracle, React",7,Security Engineer
+"CSS, GraphQL, HTML, JavaScript, MongoDB, Network Security, Terraform, TypeScript, Vue.js",9,Frontend Developer
+"Agile, Communication, Data Analysis, Git, Kubernetes, Leadership, Python",7,Product Manager
+"AWS, Azure, Docker, Google Cloud, Kubernetes, Terraform",6,Cloud Architect
+"CSS, HTML, Node.js, Python, React, SQL, SQL Server",7,Full Stack Developer
+"CSS, Cryptography, Django, HTML, JavaScript, Node.js, Python, RESTful APIs, React",9,Full Stack Developer
+"Ansible, Flask, Flutter, Kotlin, React Native, Swift, iOS",7,Mobile Developer
+"AWS, Azure, CI/CD, Docker, Git, Linux, Python",7,DevOps Engineer
+"Ansible, Cassandra, Docker, Git, Kubernetes, Linux, Python, Terraform",8,DevOps Engineer
+"AWS, Deep Learning, MongoDB, NumPy, Python, SQL, Tableau, TensorFlow",8,Machine Learning Engineer
+"Angular, HTML, JavaScript, Node.js, React, TypeScript, iOS",7,Frontend Developer
+"CSS, HTML, RESTful APIs, React",4,Frontend Developer
+"HTML, JavaScript, MongoDB, PostgreSQL, Python, RESTful APIs, React, SQL",8,Full Stack Developer
+"A/B Testing, CSS, Go, HTML, JavaScript, Jenkins, RESTful APIs, Vue.js",8,Frontend Developer
+"Azure, Cloud Architecture, Flutter, Kubernetes, Microservices, Monitoring, Terraform",7,Cloud Architect
+"Data Visualization, NumPy, Pandas, Python, SQL, Statistics, TensorFlow",7,Data Scientist
+"C#, Cassandra, Flutter, Git, JavaScript, Kotlin, Swift, TypeScript, iOS",9,Mobile Developer
+"Ansible, Azure, CI/CD, Docker, Git, Jenkins, Kubernetes",7,DevOps Engineer
+"Agile, Business Intelligence, Communication, Network Security, Problem Solving, Project Management",6,Product Manager
+"Docker, Java, PostgreSQL, Python, SQL",5,Backend Developer
+"Android, CI/CD, Django, Kotlin, Kubernetes, RESTful APIs, Swift",7,Mobile Developer
+"Business Intelligence, Data Analysis, Kubernetes, Power BI, SQL, Statistics",6,Data Analyst
+"Ansible, CSS, Cryptography, Network Security, OWASP, Penetration Testing",6,Security Engineer
+"Data Analysis, Power BI, SQL, Statistics, Tableau",5,Data Analyst
+"Cybersecurity, Excel, Linux, Network Security, Tableau",5,Security Engineer
+"Deep Learning, Django, Docker, Flask, Machine Learning, Monitoring, NumPy, Pandas, SQL, Statistics, TensorFlow",11,Data Scientist
+"Android, Docker, Java, Jenkins, Kubernetes, MySQL, Problem Solving, Python, RESTful APIs",9,Software Engineer
+"GraphQL, Incident Response, Network Security, OWASP, Penetration Testing, Python, Tableau",7,Security Engineer
+"Angular, CSS, GraphQL, HTML, JavaScript, R, Statistics, Tableau, Vue.js",9,Frontend Developer
+"AWS, Azure, CI/CD, Cloud Architecture, JavaScript, Kotlin, Microservices, Scala",8,Cloud Architect
+"Agile, Data Analysis, Leadership, Machine Learning, Project Management",5,Product Manager
+"Business Intelligence, Docker, Excel, Power BI, Python, SQL, Statistics",7,Data Analyst
+"MongoDB, Node.js, Python, RESTful APIs, SQL",5,Backend Developer
+"AWS, Android, Communication, Data Visualization, Deep Learning, Machine Learning, NumPy, Pandas, Python, Ruby, TensorFlow",11,Data Scientist
+"Deep Learning, Docker, Machine Learning, Node.js, NumPy, Python, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"AWS, Azure, CI/CD, Docker, Jenkins, Kubernetes, Linux, React Native, Terraform",9,DevOps Engineer
+"Google Cloud, HTML, MongoDB, Node.js, Python, R, React, SQL",8,Full Stack Developer
+"Ansible, CI/CD, Docker, Git, HTML, Jenkins, Linux, Monitoring",8,DevOps Engineer
+"AWS, Azure, Docker, Terraform",4,Cloud Architect
+"CSS, Git, JavaScript, Node.js, OWASP, Pandas, Project Management, Python, RESTful APIs, React",10,Full Stack Developer
+"Angular, CSS, JavaScript, RESTful APIs, React, Statistics, TypeScript",7,Frontend Developer
+"AWS, CI/CD, Docker, Git, Google Cloud, Jenkins, Linux, Terraform",8,DevOps Engineer
+"CI/CD, CSS, JavaScript, MongoDB, Node.js, Python, React",7,Full Stack Developer
+"Docker, MongoDB, Python, RESTful APIs, SQL, TypeScript",6,Backend Developer
+"CSS, JavaScript, RESTful APIs, React",4,Frontend Developer
+"Ansible, CI/CD, Docker, Git, Kubernetes, Leadership, Terraform",7,DevOps Engineer
+"CSS, Git, HTML, JavaScript, Leadership, MySQL, Node.js, NumPy, Python, React",10,Full Stack Developer
+"A/B Testing, CI/CD, Git, Kubernetes, Linux, Node.js, Python, Terraform",8,DevOps Engineer
+"CSS, Data Visualization, HTML, Node.js, Project Management, React, Swift, TypeScript, Vue.js",9,Frontend Developer
+"Data Visualization, Docker, Java, Machine Learning, MongoDB, Python, RESTful APIs",7,Backend Developer
+"Ansible, CI/CD, Docker, Google Cloud, Kubernetes, Linux, MongoDB, Python, Statistics",9,DevOps Engineer
+"Data Analysis, Excel, Jenkins, Kubernetes, Power BI, SQL",6,Data Analyst
+"Deep Learning, Docker, Machine Learning, Python, Scikit-learn, Statistics",6,Machine Learning Engineer
+"Communication, Docker, Network Security, Penetration Testing, Python",5,Security Engineer
+"Cryptography, Data Analysis, Kubernetes, Pandas, PostgreSQL, R, SQL, Statistics",8,Data Analyst
+"A/B Testing, AWS, CI/CD, Cloud Architecture, Microservices, Terraform, Vue.js",7,Cloud Architect
+"Angular, CSS, HTML, JavaScript, React, Vue.js",6,Frontend Developer
+"A/B Testing, Business Intelligence, Data Analysis, Excel, Flutter, Python, Statistics, Tableau",8,Data Analyst
+"Agile, Communication, Google Cloud, JavaScript, Leadership, SQL",6,Product Manager
+"Angular, CSS, Excel, HTML, JavaScript, React, TypeScript",7,Frontend Developer
+"Data Visualization, Docker, Machine Learning, NumPy, Pandas, R, Statistics, TensorFlow",8,Data Scientist
+"AWS, Azure, CI/CD, Deep Learning, Docker, PHP, Security, Terraform",8,Cloud Architect
+"C++, Data Visualization, JavaScript, Linux, Network Security, Penetration Testing, Python",7,Security Engineer
+"CI/CD, Git, Google Cloud, Jenkins, Kubernetes, Linux, TensorFlow, Terraform",8,DevOps Engineer
+"AWS, Agile, CSS, Docker, HTML, JavaScript, RESTful APIs, TypeScript",8,Frontend Developer
+"Docker, Flask, Java, Linux, PostgreSQL, Python, RESTful APIs, SQL",8,Backend Developer
+"Angular, Excel, Flask, Pandas, Python, SQL, Statistics, TensorFlow",8,Data Analyst
+"Android, Monitoring, PyTorch, RESTful APIs, Swift, iOS",6,Mobile Developer
+"Docker, Java, Kotlin, Monitoring, Node.js, RESTful APIs, SQL, Vue.js",8,Backend Developer
+"AWS, Android, Ansible, CI/CD, Docker, Kubernetes, Linux, SQL",8,DevOps Engineer
+"CSS, HTML, JavaScript, Ruby, SQL, Statistics, Vue.js",7,Frontend Developer
+"Agile, Communication, Leadership, SQL, TensorFlow",5,Product Manager
+"Android, Ansible, C++, CI/CD, Docker, Git, Jenkins, Kubernetes",8,DevOps Engineer
+"Data Visualization, Machine Learning, NumPy, Pandas, PyTorch, Python, R",7,Data Scientist
+"Ansible, CI/CD, Docker, Git, Jenkins, Linux, Python",7,DevOps Engineer
+"AWS, CSS, Git, HTML, Kubernetes, Node.js, Python, React, SQL",9,Full Stack Developer
+"Android, Flutter, Google Cloud, Kotlin, RESTful APIs, iOS",6,Mobile Developer
+"Angular, CSS, Deep Learning, HTML, R, React, TypeScript",7,Frontend Developer
+"Agile, Data Analysis, Leadership, Project Management",4,Product Manager
+"AWS, CI/CD, Cybersecurity, Java, MongoDB, Node.js, PostgreSQL, Python, SQL",9,Backend Developer
+"A/B Testing, Flutter, Kotlin, RESTful APIs, React, SQL Server, Swift, iOS",8,Mobile Developer
+"Android, Flutter, Kotlin, Node.js, React Native, Terraform, Vue.js, iOS",8,Mobile Developer
+"Angular, CSS, Deep Learning, HTML, React, TypeScript",6,Frontend Developer
+"Cybersecurity, Linux, Penetration Testing, Python",4,Security Engineer
+"Android, CSS, Git, Kotlin, React Native, iOS",6,Mobile Developer
+"A/B Testing, Android, Cassandra, Cybersecurity, Kotlin, RESTful APIs, Swift",7,Mobile Developer
+"Angular, CSS, JavaScript, React",4,Frontend Developer
+"Docker, Git, Machine Learning, NumPy, Pandas, PyTorch, Python, R, SQL",9,Data Scientist
+"CI/CD, Git, Java, PostgreSQL, Python, RESTful APIs",6,Software Engineer
+"AWS, Ansible, CI/CD, Docker, Git, Linux, Python",7,DevOps Engineer
+"Android, Cybersecurity, Flutter, Git, Swift, Vue.js, iOS",7,Mobile Developer
+"AWS, Deep Learning, Excel, Machine Learning, PyTorch, Python, Ruby, Tableau",8,Machine Learning Engineer
+"Compliance, Cryptography, Linux, Network Security, Penetration Testing",5,Security Engineer
+"C#, Deep Learning, Docker, Machine Learning, NumPy, Pandas, SQL, Statistics, Teamwork",9,Data Scientist
+"AWS, Cloud Architecture, Docker, Linux, React Native, SQL, Terraform",7,Cloud Architect
+"Cybersecurity, Docker, Linux, Network Security, Python",5,Security Engineer
+"Android, Cybersecurity, Linux, Network Security, OWASP, SQL Server",6,Security Engineer
+"Docker, Git, Jenkins, Kubernetes, Linux, Power BI, React Native, Terraform",8,DevOps Engineer
+"CSS, HTML, JavaScript, RESTful APIs, Vue.js",5,Frontend Developer
+"Android, Monitoring, Network Security, OWASP, Penetration Testing, Python, SQL Server",7,Security Engineer
+"Azure, CI/CD, Docker, Jenkins, Kubernetes, Linux, Python",7,DevOps Engineer
+"Cassandra, Java, MongoDB, Node.js, PostgreSQL, Python, RESTful APIs, React",8,Backend Developer
+"AWS, Azure, CI/CD, Docker, Git, Jenkins, Linux, Terraform",8,DevOps Engineer
+"CI/CD, Java, Monitoring, Node.js, NumPy, Pandas, Python, SQL",8,Backend Developer
+"Flutter, Git, Kotlin, MySQL, Statistics, Swift, iOS",7,Mobile Developer
+"Android, Angular, CI/CD, Flutter, Kotlin, Project Management, React Native, Redis, Swift",9,Mobile Developer
+"AWS, Cloud Architecture, Docker, Kubernetes, Monitoring, Terraform",6,Cloud Architect
+"Angular, CSS, JavaScript, MySQL, PHP, RESTful APIs, React",7,Frontend Developer
+"AWS, Agile, Azure, CI/CD, Cassandra, Cloud Architecture, Docker, Oracle",8,Cloud Architect
+"AWS, CI/CD, Docker, Git, Jenkins, Kubernetes, Monitoring, Python",8,DevOps Engineer
+"Android, Cassandra, Flutter, Kotlin, Node.js, Scala, iOS",7,Mobile Developer
+"Excel, Git, Java, JavaScript, Problem Solving, RESTful APIs, SQL, Scikit-learn",8,Software Engineer
+"HTML, JavaScript, Node.js, Python, RESTful APIs, SQL",6,Full Stack Developer
+"Android, RESTful APIs, React Native, Swift, iOS",5,Mobile Developer
+"Jenkins, Machine Learning, NumPy, PyTorch, Python, R, SQL, Statistics",8,Data Scientist
+"Docker, Git, Java, Problem Solving, RESTful APIs, TypeScript",6,Software Engineer
+"AWS, Azure, CSS, Cloud Architecture, Docker, Google Cloud, React Native, TensorFlow",8,Cloud Architect
+"Excel, Google Cloud, Python, SQL, Statistics, Tableau",6,Data Analyst
+"A/B Testing, Excel, Pandas, SQL, Statistics",5,Data Analyst
+"Flutter, Kotlin, MongoDB, Power BI, RESTful APIs, Scikit-learn, Swift, iOS",8,Mobile Developer
+"AWS, Deep Learning, Machine Learning, Python, Scala, Scikit-learn",6,Machine Learning Engineer
+"Android, Flutter, Git, Kotlin, Swift",5,Mobile Developer
+"Android, CI/CD, Git, Kotlin, Problem Solving, React Native, iOS",7,Mobile Developer
+"AWS, CI/CD, Docker, Git, Google Cloud, Jenkins, Kubernetes, Terraform",8,DevOps Engineer
+"Deep Learning, Machine Learning, NumPy, Pandas, PyTorch, Python, R, SQL, Spark",9,Data Scientist
+"Agile, Angular, CSS, HTML, PostgreSQL, RESTful APIs, React",7,Frontend Developer
+"Deep Learning, Docker, Machine Learning, Scikit-learn, TensorFlow",5,Machine Learning Engineer
+"Cryptography, Cybersecurity, Network Security",3,Security Engineer
+"Git, JavaScript, MySQL, Problem Solving, Project Management, Python, RESTful APIs, TypeScript",8,Software Engineer
+"CSS, Docker, Flask, GraphQL, HTML, JavaScript, Leadership, Python, RESTful APIs, React, SQL",11,Full Stack Developer
+"Business Intelligence, Docker, Machine Learning, Node.js, Python, RESTful APIs, SQL",7,Backend Developer
+"Business Intelligence, Data Analysis, Power BI, Python, React Native, SQL, Statistics, TensorFlow",8,Data Analyst
+"Data Analysis, Excel, Oracle, Power BI, SQL",5,Data Analyst
+"Cryptography, Cybersecurity, Docker, Network Security, Redis",5,Security Engineer
+"Data Visualization, Deep Learning, NumPy, Pandas, PyTorch, Python, Statistics",7,Data Scientist
+"Cybersecurity, Linux, Network Security, Python, SQL",5,Security Engineer
+"A/B Testing, AWS, Azure, CI/CD, Cloud Architecture, Docker, Flutter, Kubernetes, Security",9,Cloud Architect
+"Data Analysis, Excel, Flutter, Google Cloud, Power BI, RESTful APIs, Statistics",7,Data Analyst
+"Agile, Android, Business Intelligence, Excel, Leadership, Project Management",6,Product Manager
+"Docker, Java, Monitoring, PostgreSQL, RESTful APIs, SQL, iOS",7,Backend Developer
+"Android, Angular, CSS, Google Cloud, GraphQL, HTML, JavaScript, Linux, Vue.js",9,Frontend Developer
+"Flutter, Machine Learning, NumPy, Python, Scikit-learn, TensorFlow",6,Machine Learning Engineer
+"Kotlin, Linux, RESTful APIs, Swift, iOS",5,Mobile Developer
+"AWS, Azure, Cloud Architecture, Django, Docker, Kubernetes, OWASP, Terraform",8,Cloud Architect
+"AWS, Ansible, Azure, CI/CD, Docker, Git, Linux, Python",8,DevOps Engineer
+"AWS, Communication, Docker, Git, Jenkins, Kubernetes, Linux, Machine Learning, React Native, Terraform",10,DevOps Engineer
+"Git, HTML, JavaScript, Kubernetes, MongoDB, MySQL, Node.js, Python, SQL",9,Full Stack Developer
+"C++, Cryptography, Cybersecurity, Machine Learning, Network Security, Python, React Native",7,Security Engineer
+"CSS, Excel, Power BI, R, SQL, Statistics, Tableau",7,Data Analyst
+"AWS, Cloud Architecture, Docker, Microservices, Terraform",5,Cloud Architect
+"AWS, Android, CI/CD, Docker, Go, Jenkins, Kubernetes, Linux, Machine Learning, Monitoring, Python",11,DevOps Engineer
+"Cryptography, Network Security, Oracle, Penetration Testing, Project Management, Python, Scala",7,Security Engineer
+"NumPy, Pandas, PyTorch, Python, SQL, Statistics",6,Data Scientist
+"Agile, Android, Communication, Flask, Leadership, SQL",6,Product Manager
+"Agile, Communication, Leadership, Network Security, Node.js, SQL",6,Product Manager
+"AWS, Data Visualization, Machine Learning, NumPy, PyTorch, Python, R, Statistics",8,Data Scientist
+"Agile, Communication, Project Management, SQL",4,Product Manager
+"AWS, Machine Learning, Pandas, Python, R, SQL, Statistics, TensorFlow",8,Data Scientist
+"Deep Learning, Docker, Machine Learning, NumPy, Python, Scikit-learn",6,Machine Learning Engineer
+"Data Analysis, Power BI, Python, R, SQL, Statistics",6,Data Analyst
+"Agile, Communication, Data Analysis, Git, Penetration Testing, Project Management",6,Product Manager
+"CI/CD, Cryptography, Linux, Network Security, Penetration Testing, RESTful APIs",6,Security Engineer
+"Docker, Java, Problem Solving, Python, SQL, TypeScript",6,Software Engineer
+"Agile, Business Intelligence, Communication, Leadership, Monitoring, MySQL",6,Product Manager
+"AWS, CI/CD, Cryptography, Excel, Git, Jenkins, Kubernetes, Linux, Terraform",9,DevOps Engineer
+"Data Analysis, Excel, Power BI, Statistics, Tableau",5,Data Analyst
+"CSS, Git, JavaScript, NumPy, React, TypeScript, Vue.js",7,Frontend Developer
+"Cassandra, Deep Learning, Java, PostgreSQL, Project Management, Python, RESTful APIs",7,Backend Developer
+"CSS, Git, Node.js, Python, RESTful APIs, React, SQL",7,Full Stack Developer
+"AWS, CI/CD, Docker, Git, GraphQL, Java, Problem Solving, React Native",8,Software Engineer
+"Cryptography, Django, Linux, Network Security, Penetration Testing, React Native",6,Security Engineer
+"AWS, Azure, Docker, Flutter, Kubernetes, Python, Redis, Swift, Terraform",9,Cloud Architect
+"A/B Testing, Agile, Business Intelligence, Communication, Project Management",5,Product Manager
+"AWS, Azure, Cybersecurity, Docker, Microservices, MongoDB, Ruby, Terraform",8,Cloud Architect
+"Excel, Python, SQL, Statistics, Tableau",5,Data Analyst
+"Ansible, CI/CD, Docker, Git, Google Cloud, Jenkins, Linux, Node.js, Terraform",9,DevOps Engineer
+"HTML, JavaScript, Node.js, Oracle, Python, RESTful APIs, SQL",7,Full Stack Developer
+"Data Visualization, Machine Learning, Pandas, PyTorch, Python, SQL, Scikit-learn, Statistics",8,Data Scientist
+"Cryptography, HTML, JavaScript, Linux, Node.js, Python, RESTful APIs, React",8,Full Stack Developer
+"Angular, CSS, JavaScript, React, Vue.js",5,Frontend Developer
+"Cybersecurity, Linux, OWASP, Penetration Testing",4,Security Engineer
+"CI/CD, Communication, Git, Problem Solving, Python, RESTful APIs, SQL, Scala, TypeScript",9,Software Engineer
+"Deep Learning, Machine Learning, NumPy, PyTorch, Scikit-learn, TensorFlow",6,Machine Learning Engineer
+"AWS, Ansible, CSS, Flutter, HTML, JavaScript, Node.js, React, SQL",9,Full Stack Developer
+"Cybersecurity, Linux, Network Security, Python, SQL",5,Security Engineer
+"Docker, Java, Machine Learning, MongoDB, Python, RESTful APIs",6,Backend Developer
+"Flutter, Kotlin, React Native, Redis, Swift, iOS",6,Mobile Developer
+"Git, JavaScript, MongoDB, Python, React, SQL",6,Full Stack Developer
+"Deep Learning, Machine Learning, NumPy, Pandas, PyTorch, Python, R",7,Data Scientist
+"Deep Learning, Network Security, OWASP, Penetration Testing",4,Security Engineer
+"AWS, Ansible, CI/CD, Git, Kubernetes, Linux, PHP, Terraform",8,DevOps Engineer
+"AWS, C#, Cloud Architecture, Kubernetes, Microservices, RESTful APIs, React, Terraform",8,Cloud Architect
+"AWS, Ansible, CI/CD, Git, Kubernetes, Linux",6,DevOps Engineer
+"Docker, Git, Java, Python, SQL",5,Software Engineer
+"CI/CD, Docker, Git, Java, NumPy, Problem Solving",6,Software Engineer
+"CI/CD, Docker, Git, Problem Solving, Python",5,Software Engineer
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, Statistics, TensorFlow",7,Cloud Architect
+"A/B Testing, Agile, Leadership, Project Management, SQL",5,Product Manager
+"MongoDB, Node.js, NumPy, Power BI, Python, RESTful APIs, React, SQL, TypeScript",9,Full Stack Developer
+"Azure, CI/CD, Cloud Architecture, Monitoring, Terraform",5,Cloud Architect
+"Azure, CI/CD, Cloud Architecture, Microservices, Terraform",5,Cloud Architect
+"AWS, Agile, C#, CI/CD, Docker, Kubernetes, Linux, Node.js, Python, Terraform",10,DevOps Engineer
+"Android, Flutter, Git, Kotlin, Kubernetes, Problem Solving, Swift",7,Mobile Developer
+"Cybersecurity, Docker, Network Security, OWASP, Python",5,Security Engineer
+"Android, Git, Project Management, React Native, Swift, iOS",6,Mobile Developer
+"Cybersecurity, Linux, PHP, Penetration Testing",4,Security Engineer
+"Cassandra, Git, Java, JavaScript, Python, SQL, Statistics",7,Software Engineer
+"Ansible, Cryptography, Deep Learning, Docker, PyTorch, Python, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"Google Cloud, Kotlin, Penetration Testing, RESTful APIs, React Native, Scala, Swift, iOS",8,Mobile Developer
+"Android, Business Intelligence, Firebase, Git, Kotlin, Pandas, React Native, iOS",8,Mobile Developer
+"A/B Testing, AWS, Cloud Architecture, Kubernetes, Microservices, Terraform",6,Cloud Architect
+"CSS, Git, Go, JavaScript, MongoDB, Node.js, Python, React",8,Full Stack Developer
+"CSS, Git, HTML, JavaScript, Node.js, React, SQL",7,Full Stack Developer
+"AWS, Business Intelligence, Deep Learning, Docker, Machine Learning, Python, Spark",7,Machine Learning Engineer
+"Agile, Ansible, Business Intelligence, Leadership, Penetration Testing, Project Management, Python, React Native",8,Product Manager
+"Data Visualization, Machine Learning, NumPy, Python, SQL, Statistics",6,Data Scientist
+"AWS, CSS, Git, HTML, JavaScript, Python, React, SQL",8,Full Stack Developer
+"Data Analysis, Excel, Power BI, Statistics, Tableau",5,Data Analyst
+"C++, Java, Node.js, Problem Solving, Python, SQL",6,Backend Developer
+"CSS, Git, JavaScript, MongoDB, Node.js, Python, SQL",7,Full Stack Developer
+"CSS, JavaScript, React, TypeScript, Vue.js",5,Frontend Developer
+"Azure, Cloud Architecture, Docker, Linux, Microservices, SQL, SQL Server, Terraform",8,Cloud Architect
+"Data Visualization, Docker, Machine Learning, Pandas, PyTorch, Python, SQL, SQL Server, Statistics",9,Data Scientist
+"Data Analysis, Power BI, Python, SQL, Statistics",5,Data Analyst
+"Azure, CI/CD, Git, HTML, Jenkins, Kubernetes, Linux, Monitoring, OWASP, Python",10,DevOps Engineer
+"AWS, CI/CD, Docker, Git, Jenkins, Linux, Monitoring, Python, SQL Server",9,DevOps Engineer
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, Flask, Redis, TensorFlow",8,Cloud Architect
+"AWS, Data Visualization, Docker, Java, RESTful APIs, SQL",6,Backend Developer
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, HTML, Kubernetes, Monitoring",8,Cloud Architect
+"AWS, Azure, Cloud Architecture, Docker, Leadership, MongoDB, Monitoring, Tableau",8,Cloud Architect
+"Docker, Java, PostgreSQL, RESTful APIs, SQL",5,Backend Developer
+"Angular, Azure, C#, CSS, JavaScript, Node.js, React, Ruby, TypeScript",9,Frontend Developer
+"CSS, Data Visualization, Machine Learning, NumPy, Pandas, PyTorch, Scikit-learn, Statistics",8,Data Scientist
+"Data Visualization, Django, Machine Learning, OWASP, Pandas, Python, Statistics, TensorFlow",8,Data Scientist
+"AWS, CI/CD, Git, Oracle, Problem Solving, Python, RESTful APIs",7,Software Engineer
+"C++, Deep Learning, Machine Learning, PostgreSQL, Project Management, PyTorch, Python, Scikit-learn, Spark",9,Machine Learning Engineer
+"CI/CD, Docker, Git, Java, RESTful APIs, SQL",6,Backend Developer
+"Angular, HTML, JavaScript, Kubernetes, React, Redis",6,Frontend Developer
+"Jenkins, Linux, Node.js, PostgreSQL, Python, RESTful APIs, SQL",7,Backend Developer
+"Cryptography, Deep Learning, GraphQL, Machine Learning, NumPy, Pandas, PyTorch, Python",8,Data Scientist
+"HTML, JavaScript, React, TypeScript, Vue.js",5,Frontend Developer
+"Agile, Git, JavaScript, PostgreSQL, Python, RESTful APIs, React, SQL, Scikit-learn",9,Full Stack Developer
+"Git, JavaScript, Kubernetes, Problem Solving, Python, R, RESTful APIs",7,Software Engineer
+"AWS, Machine Learning, PostgreSQL, Python, RESTful APIs, SQL",6,Backend Developer
+"Android, Deep Learning, Git, Go, HTML, JavaScript, Kotlin, RESTful APIs, Swift",9,Mobile Developer
+"Excel, Node.js, Power BI, SQL, Statistics, Tableau",6,Data Analyst
+"Agile, Communication, Jenkins, Problem Solving, Project Management, SQL, Teamwork",7,Product Manager
+"Agile, Business Intelligence, Communication, GraphQL, Leadership, Network Security, Penetration Testing, Tableau",8,Product Manager
+"Agile, Android, Angular, HTML, JavaScript, R, React, TypeScript",8,Frontend Developer
+"A/B Testing, Excel, Pandas, Redis, SQL, Statistics, Tableau",7,Data Analyst
+"Deep Learning, Flask, Go, MLOps, Machine Learning, NumPy, Python, Scikit-learn, Tableau",9,Machine Learning Engineer
+"CI/CD, Docker, Java, Python, SQL",5,Backend Developer
+"AWS, Azure, Java, Microservices, Terraform",5,Cloud Architect
+"Android, Business Intelligence, CI/CD, Git, JavaScript, Problem Solving, Python, React Native",8,Software Engineer
+"AWS, CI/CD, Cloud Architecture, Docker, Terraform",5,Cloud Architect
+"Angular, CSS, HTML, React, TypeScript, Vue.js",6,Frontend Developer
+"AWS, CSS, Cloud Architecture, Kubernetes, Project Management, Security, Tableau, Terraform",8,Cloud Architect
+"A/B Testing, AWS, Azure, Cloud Architecture, Kubernetes, NumPy, Ruby",7,Cloud Architect
+"Angular, CSS, Flutter, GraphQL, JavaScript, RESTful APIs, React, React Native",8,Frontend Developer
+"Android, Cassandra, Communication, React Native, Swift, iOS",6,Mobile Developer
+"AWS, Cryptography, Git, HTML, JavaScript, Python, RESTful APIs, React, SQL",9,Full Stack Developer
+"Angular, CSS, HTML, Network Security, React, Vue.js",6,Frontend Developer
+"Cybersecurity, Network Security, OWASP, Python",4,Security Engineer
+"AWS, Ansible, Azure, Docker, Git, Jenkins, Kubernetes, Linux, PostgreSQL, Python",10,DevOps Engineer
+"AWS, Azure, CI/CD, Cloud Architecture, Kubernetes",5,Cloud Architect
+"CSS, Cassandra, JavaScript, React, TypeScript, Vue.js",6,Frontend Developer
+"AWS, Ansible, CI/CD, Docker, Git, Jenkins, Linux",7,DevOps Engineer
+"AWS, Agile, Azure, CI/CD, Kubernetes, PHP, Terraform",7,Cloud Architect
+"AWS, Azure, Cloud Architecture, Kubernetes, PostgreSQL",5,Cloud Architect
+"Data Visualization, Deep Learning, Excel, Machine Learning, NumPy, Pandas, R, Statistics, Terraform, iOS",10,Data Scientist
+"Cryptography, Cybersecurity, Network Security",3,Security Engineer
+"AWS, Azure, Kubernetes, SQL Server, Statistics, Terraform",6,Cloud Architect
+"Agile, Android, Communication, Data Analysis, Excel, Project Management, SQL",7,Product Manager
+"Agile, Android, C++, CI/CD, Docker, Git, Java, JavaScript, Python, Scikit-learn",10,Software Engineer
+"Angular, HTML, JavaScript, Kubernetes, React, TypeScript",6,Frontend Developer
+"Android, Git, Jenkins, Oracle, React Native, Swift, iOS",7,Mobile Developer
+"AWS, Agile, Data Analysis, Data Visualization, Machine Learning, NumPy, Python, R, Statistics",9,Data Scientist
+"Agile, Communication, JavaScript, Leadership, Linux, SQL",6,Product Manager
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, Python, SQL, Statistics",8,Cloud Architect
+"Cryptography, Kotlin, Network Security, Penetration Testing, Python, Statistics",6,Security Engineer
+"AWS, Agile, Machine Learning, PyTorch, Python, TensorFlow",6,Machine Learning Engineer
+"Cybersecurity, Docker, Linux, Penetration Testing, Python",5,Security Engineer
+"Cybersecurity, Machine Learning, MongoDB, Network Security, OWASP, Python",6,Security Engineer
+"Cryptography, Cybersecurity, Network Security, PostgreSQL, Teamwork",5,Security Engineer
+"Agile, Data Analysis, Leadership, Machine Learning, Project Management, Vue.js",6,Product Manager
+"Data Analysis, Power BI, Python, SQL, Statistics",5,Data Analyst
+"AWS, Ansible, CI/CD, Docker, GraphQL, Kubernetes, Linux, PyTorch, Python",9,DevOps Engineer
+"Business Intelligence, Data Analysis, Deep Learning, Excel, Pandas, Python, SQL",7,Data Analyst
+"CI/CD, Linux, MongoDB, NumPy, PostgreSQL, Python, RESTful APIs, React Native, SQL",9,Backend Developer
+"AWS, Deep Learning, Machine Learning, Network Security, NumPy, Python, R, React, Statistics",9,Data Scientist
+"Angular, CI/CD, CSS, JavaScript, React, SQL Server, TypeScript",7,Frontend Developer
+"Android, CI/CD, CSS, Git, Linux, Swift, iOS",7,Mobile Developer
+"JavaScript, MongoDB, Python, RESTful APIs, React, SQL",6,Full Stack Developer
+"Docker, Google Cloud, HTML, JavaScript, Node.js, Python, RESTful APIs, SQL",8,Full Stack Developer
+"AWS, Angular, Azure, Kubernetes, Monitoring, Python, Terraform",7,Cloud Architect
+"Machine Learning, Pandas, PyTorch, Python, Statistics, TensorFlow",6,Data Scientist
+"Git, Java, JavaScript, Python, SQL, Vue.js",6,Software Engineer
+"CI/CD, Docker, Excel, Git, Google Cloud, Linux, Python, Terraform",8,DevOps Engineer
+"Data Visualization, HTML, Machine Learning, Pandas, PyTorch, Python, Scikit-learn, Statistics, Tableau",9,Data Scientist
+"AWS, Azure, Cloud Architecture, Docker, Kubernetes, Microservices, Python, Vue.js",8,Cloud Architect
+"AWS, Cloud Architecture, Kubernetes, Microservices, Terraform",5,Cloud Architect
+"Node.js, PostgreSQL, Python, RESTful APIs, SQL",5,Backend Developer
+"A/B Testing, AWS, Azure, Cloud Architecture, Docker, Kubernetes",6,Cloud Architect
+"AWS, Angular, CSS, Git, HTML, JavaScript, RESTful APIs",7,Frontend Developer
+"Deep Learning, Docker, Go, Machine Learning, Penetration Testing, PyTorch, RESTful APIs, Scikit-learn, TensorFlow",9,Machine Learning Engineer
+"Android, Git, Kotlin, Swift",4,Mobile Developer
+"Data Analysis, Excel, Jenkins, Network Security, Pandas, SQL, Tableau",7,Data Analyst
+"AWS, Git, HTML, JavaScript, MongoDB, Python, React, SQL",8,Full Stack Developer
+"JavaScript, MongoDB, Node.js, RESTful APIs, React, SQL",6,Full Stack Developer
+"CI/CD, Docker, Java, Node.js, OWASP, Python, RESTful APIs, SQL",8,Backend Developer
+"AWS, Java, MongoDB, RESTful APIs, SQL",5,Backend Developer
+"AWS, Agile, Deep Learning, Machine Learning, NumPy, Python",6,Machine Learning Engineer
+"CI/CD, Docker, Git, Linux, Python, Terraform",6,DevOps Engineer
+"C#, Java, MongoDB, PostgreSQL, Python, RESTful APIs, Vue.js",7,Backend Developer
+"CSS, Git, JavaScript, Node.js, Python, RESTful APIs, React",7,Full Stack Developer
+"CI/CD, Java, JavaScript, Problem Solving, Python, RESTful APIs, Tableau, TypeScript",8,Software Engineer
+"CI/CD, Git, Jenkins, Kubernetes, Linux, Monitoring, Python",7,DevOps Engineer
+"Communication, Data Analysis, Leadership, Project Management",4,Product Manager
+"A/B Testing, Communication, Data Analysis, Leadership, Project Management",5,Product Manager
+"Docker, Git, Java, JavaScript, Network Security, Problem Solving, RESTful APIs",7,Software Engineer
+"Data Analysis, Deep Learning, Kubernetes, MLOps, NumPy, PyTorch, Python, Scikit-learn, TensorFlow, Vue.js",10,Machine Learning Engineer
+"A/B Testing, Agile, Ansible, Communication, Data Analysis, Docker, Leadership, Machine Learning",8,Product Manager
+"Docker, Git, JavaScript, Node.js, Python, RESTful APIs, SQL",7,Full Stack Developer
+"A/B Testing, Agile, Leadership, Project Management, SQL",5,Product Manager
+"Android, Kotlin, RESTful APIs, React Native, iOS",5,Mobile Developer
+"CSS, Cybersecurity, Docker, JavaScript, MongoDB, Node.js, Python, SQL",8,Full Stack Developer
+"CI/CD, Git, Java, JavaScript, Python",5,Software Engineer
+"Cryptography, Data Visualization, Machine Learning, NumPy, Pandas, Python, R",7,Data Scientist
+"Agile, CI/CD, Deep Learning, Git, JavaScript, Problem Solving, Python, RESTful APIs, Terraform",9,Software Engineer
+"CI/CD, Git, Go, Java, OWASP, Problem Solving, SQL",7,Software Engineer
+"AWS, Azure, CI/CD, Docker, Git, Kubernetes, Python, React, Swift",9,DevOps Engineer
+"Ansible, CI/CD, Data Visualization, Git, Kubernetes, Linux, Teamwork, Terraform",8,DevOps Engineer
+"AWS, Ansible, Business Intelligence, Docker, Git, Jenkins, Kubernetes, Linux, Monitoring, Scikit-learn, Statistics",11,DevOps Engineer
+"Azure, Cloud Architecture, Kubernetes, Microservices, Ruby, Security, Terraform",7,Cloud Architect
+"Cryptography, Data Visualization, Machine Learning, NumPy, Python, R, Scikit-learn, Statistics, TensorFlow",9,Data Scientist
+"Data Analysis, Excel, Power BI, RESTful APIs, SQL, Tableau",6,Data Analyst
+"Docker, Linux, Network Security, Penetration Testing, PostgreSQL, Python",6,Security Engineer
+"Angular, CSS, Cybersecurity, JavaScript, RESTful APIs, React, TypeScript",7,Frontend Developer
+"Deep Learning, Kubernetes, Machine Learning, Pandas, Python, R, SQL, Statistics, TensorFlow",9,Data Scientist
+"Ansible, CI/CD, Cassandra, Docker, Kubernetes, Linux, Project Management, Python, Terraform",9,DevOps Engineer
+"AWS, CI/CD, Cloud Architecture, Cybersecurity, Docker, Terraform",6,Cloud Architect
+"AWS, Azure, Cloud Architecture, Kubernetes, Scikit-learn, Security",6,Cloud Architect
+"AWS, Angular, Ansible, CI/CD, Git, Jenkins, Kubernetes, Linux",8,DevOps Engineer
+"AWS, CI/CD, Communication, Git, Java, JavaScript, Problem Solving, SQL",8,Software Engineer
+"MongoDB, Node.js, Python, RESTful APIs, SQL",5,Backend Developer
+"Azure, CI/CD, Cloud Architecture, Google Cloud, Terraform",5,Cloud Architect
+"CSS, Docker, JavaScript, Node.js, RESTful APIs, React, TypeScript",7,Frontend Developer
+"AWS, CI/CD, Git, Google Cloud, Jenkins, Kubernetes, Linux, Power BI, Python",9,DevOps Engineer
+"AWS, Cassandra, Docker, Git, Google Cloud, Kubernetes, Linux, Python, Vue.js",9,DevOps Engineer
+"AWS, Docker, Java, Node.js, Python, RESTful APIs",6,Backend Developer
+"AWS, Azure, Cloud Architecture, Docker, Microservices",5,Cloud Architect
+"CI/CD, Git, HTML, Leadership, Node.js, Python, RESTful APIs, React, SQL",9,Full Stack Developer
+"Deep Learning, Docker, Python, Scikit-learn, TensorFlow",5,Machine Learning Engineer
+"Docker, MongoDB, Python, RESTful APIs, SQL",5,Backend Developer
+"A/B Testing, Deep Learning, Docker, Go, Machine Learning, PyTorch, Python, Scala, Scikit-learn",9,Machine Learning Engineer
+"Agile, Android, Flutter, JavaScript, RESTful APIs, Swift, iOS",7,Mobile Developer
+"Git, HTML, JavaScript, MongoDB, Node.js, OWASP, Python, React",8,Full Stack Developer
+"AWS, Cryptography, Cybersecurity, OWASP, Penetration Testing",5,Security Engineer
+"AWS, Git, JavaScript, MySQL, Problem Solving, Python, SQL, Scikit-learn",8,Software Engineer
+"Data Visualization, NumPy, Pandas, Penetration Testing, Python, R, SQL, Spark, Statistics, Vue.js",10,Data Scientist
+"Flutter, Kotlin, React Native, Swift, iOS",5,Mobile Developer
+"A/B Testing, AWS, CSS, Git, HTML, JavaScript, Node.js, React, SQL, TensorFlow",10,Full Stack Developer
+"Deep Learning, Docker, Machine Learning, NumPy, Python, Scikit-learn, Spark",7,Machine Learning Engineer
+"Communication, Compliance, Cryptography, Cybersecurity, Penetration Testing",5,Security Engineer
+"Angular, Excel, HTML, JavaScript, RESTful APIs, React",6,Frontend Developer
+"Ansible, CI/CD, Git, Jenkins, Kubernetes, Linux, Power BI, React Native, Terraform",9,DevOps Engineer
+"Agile, Cybersecurity, Docker, OWASP, Penetration Testing, Python",6,Security Engineer
+"C#, Docker, Git, Google Cloud, Kubernetes, Linux, Python, R, Terraform",9,DevOps Engineer
+"Angular, CSS, Django, HTML, JavaScript, PHP, RESTful APIs, Ruby",8,Frontend Developer
+"AWS, Deep Learning, Kubernetes, PyTorch, Python, SQL Server, Scala, Scikit-learn, TensorFlow",9,Machine Learning Engineer
+"CSS, Docker, Go, Kubernetes, Network Security, Penetration Testing, Python",7,Security Engineer
+"Business Intelligence, CSS, Communication, Docker, Leadership, Linux, Project Management, Python, SQL",9,Product Manager
+"C#, Cybersecurity, Incident Response, Network Security, OWASP, RESTful APIs, Ruby",7,Security Engineer
+"Android, CSS, Git, JavaScript, Node.js, React, SQL",7,Full Stack Developer
+"AWS, CI/CD, Git, Kubernetes, Linux, Machine Learning, Python",7,DevOps Engineer
+"Cryptography, Cybersecurity, MySQL, OWASP, Penetration Testing, Statistics",6,Security Engineer
+"CSS, HTML, JavaScript, Oracle, RESTful APIs, Terraform",6,Frontend Developer
+"Azure, CI/CD, Cloud Architecture, Terraform",4,Cloud Architect
+"Git, JavaScript, Problem Solving, Python, SQL",5,Software Engineer
+"CSS, Django, GraphQL, JavaScript, RESTful APIs, React, TypeScript",7,Frontend Developer
+"Incident Response, Kubernetes, Linux, Network Security, Penetration Testing",5,Security Engineer
+"Business Intelligence, Java, MongoDB, PostgreSQL, Python, SQL",6,Backend Developer
+"Agile, Business Intelligence, Communication, Cryptography, Jenkins, Project Management, Statistics",7,Product Manager
+"Git, HTML, JavaScript, PyTorch, React, TypeScript, Vue.js, iOS",8,Frontend Developer
+"Docker, Git, Java, Kubernetes, Python, SQL",6,Software Engineer
+"Android, Azure, Excel, JavaScript, Kotlin, RESTful APIs, iOS",7,Mobile Developer
+"AWS, Cloud Architecture, Docker, Google Cloud, Kubernetes, Leadership, Redis, Security, Terraform",9,Cloud Architect
+"Agile, Linux, Network Security, OWASP, Penetration Testing, Tableau",6,Security Engineer
+"Android, Data Analysis, Flutter, Kotlin, Linux, Penetration Testing, iOS",7,Mobile Developer
+"Cryptography, Java, Linux, Node.js, Python, RESTful APIs, Teamwork",7,Backend Developer
+"Flutter, Kotlin, OWASP, React Native, Swift, iOS",6,Mobile Developer
+"Agile, Data Analysis, Leadership, Project Management, Tableau",5,Product Manager
+"Communication, Leadership, Power BI, Project Management, R, SQL",6,Product Manager
+"Azure, Data Visualization, Deep Learning, Machine Learning, Monitoring, Pandas, Penetration Testing, Python, R, Statistics",10,Data Scientist
+"Agile, Angular, CSS, Data Visualization, Flask, Google Cloud, JavaScript, React, Vue.js",9,Frontend Developer
+"Ansible, Docker, Git, GraphQL, Jenkins, Kubernetes, Linux, Monitoring",8,DevOps Engineer
+"AWS, Azure, Cloud Architecture, Kubernetes, Microservices",5,Cloud Architect
+"Android, Cassandra, Cryptography, Git, JavaScript, Kotlin, RESTful APIs, iOS",8,Mobile Developer
+"Cybersecurity, Linux, Network Security",3,Security Engineer
+"Git, JavaScript, Problem Solving, Python, RESTful APIs",5,Software Engineer
+"Docker, Git, Java, JavaScript, Node.js, Pandas, Problem Solving",7,Software Engineer
+"Cybersecurity, Docker, Go, MongoDB, Python, RESTful APIs, Redis, SQL, iOS",9,Backend Developer
+"Machine Learning, NumPy, Python, R, Spark, Statistics, TensorFlow",7,Data Scientist
+"Agile, Data Analysis, Django, Leadership, Project Management, Statistics",6,Product Manager
+"Android, Cassandra, Communication, Firebase, Git, Go, Kotlin, RESTful APIs, iOS",9,Mobile Developer
+"Deep Learning, Docker, Flutter, Machine Learning, NumPy, Problem Solving, TensorFlow",7,Machine Learning Engineer
+"Agile, Communication, Deep Learning, Leadership, Network Security, SQL, Tableau",7,Product Manager
+"HTML, JavaScript, RESTful APIs, React, TypeScript",5,Frontend Developer
+"NumPy, Pandas, PyTorch, Python, R, Statistics, TensorFlow",7,Data Scientist
+"AWS, CI/CD, Docker, Git, Kubernetes, React, Terraform",7,DevOps Engineer
+"CSS, Cassandra, Git, Node.js, Python, React, SQL, Tableau, TensorFlow",9,Full Stack Developer
+"Agile, Data Analysis, Deep Learning, Leadership, Project Management, SQL",6,Product Manager
+"Agile, Data Analysis, Leadership, Project Management, Python",5,Product Manager
+"Cybersecurity, Incident Response, OWASP, Pandas, Penetration Testing, Python",6,Security Engineer
+"Agile, Android, Deep Learning, Leadership, Project Management, SQL, TensorFlow",7,Product Manager
+"Data Analysis, Excel, Power BI, R, Statistics, Tableau",6,Data Analyst
+"AWS, Ansible, CI/CD, Docker, Git, Jenkins, Kubernetes, Machine Learning, Monitoring, OWASP, Ruby",11,DevOps Engineer
+"CSS, Cryptography, Cybersecurity, Network Security, OWASP",5,Security Engineer
+"Azure, Cloud Architecture, Kubernetes, Microservices, PHP, Redis, Terraform",7,Cloud Architect
+"Java, MongoDB, Python, Redis, SQL, SQL Server, Terraform",7,Backend Developer
+"AWS, Deep Learning, Machine Learning, Scikit-learn, TensorFlow",5,Machine Learning Engineer
+"Azure, CI/CD, Cloud Architecture, Kubernetes, Monitoring, Terraform",6,Cloud Architect
+"CSS, GraphQL, JavaScript, React, Vue.js",5,Frontend Developer
+"Jenkins, Kubernetes, Node.js, Python, RESTful APIs, SQL",6,Backend Developer
+"AWS, Deep Learning, Git, PyTorch, Python, Spark, Statistics, Swift, TensorFlow",9,Machine Learning Engineer
+"AWS, C++, Cybersecurity, OWASP, Penetration Testing, Python",6,Security Engineer
+"Azure, HTML, JavaScript, MongoDB, Python, RESTful APIs, React, SQL, Scikit-learn",9,Full Stack Developer
+"Agile, Data Analysis, Leadership, Project Management, Tableau",5,Product Manager
+"AWS, Java, OWASP, Problem Solving, Python, RESTful APIs, SQL",7,Software Engineer
+"CI/CD, Flask, Java, Problem Solving, Python, RESTful APIs",6,Software Engineer
+"Cryptography, Network Security, OWASP, Penetration Testing",4,Security Engineer
+"Agile, CI/CD, Docker, Git, JavaScript, NumPy, Problem Solving, Python, SQL, Statistics",10,Software Engineer
+"Angular, Machine Learning, NumPy, Pandas, PyTorch, Statistics, Teamwork, TensorFlow",8,Data Scientist
+"Android, CSS, Git, Java, JavaScript, React, TypeScript",7,Frontend Developer
+"AWS, Agile, CSS, HTML, JavaScript, PHP, Python, Vue.js",8,Frontend Developer
+"Communication, Data Analysis, HTML, Kubernetes, Leadership, Node.js, Project Management",7,Product Manager
+"Docker, Java, PostgreSQL, RESTful APIs, SQL",5,Backend Developer
+"CSS, Git, HTML, JavaScript, Node.js, PHP, Pandas, PostgreSQL, Python, React",10,Full Stack Developer
+"AWS, Cloud Architecture, Docker, Kubernetes, MySQL, Terraform",6,Cloud Architect
+"Android, CI/CD, Flutter, Kotlin, iOS",5,Mobile Developer
+"Business Intelligence, CI/CD, Git, Node.js, Power BI, Python, RESTful APIs, SQL",8,Backend Developer
+"CSS, Docker, Git, MongoDB, Node.js, Python, React, SQL",8,Full Stack Developer
+"Business Intelligence, Data Analysis, Google Cloud, Pandas, Python, SQL, Statistics, Vue.js",8,Data Analyst
+"Deep Learning, Machine Learning, Node.js, NumPy, PyTorch, Python, R, RESTful APIs, Scala",9,Machine Learning Engineer
+"Agile, Data Analysis, Go, Leadership, Project Management, Python",6,Product Manager
+"Business Intelligence, Data Analysis, Linux, Power BI, SQL, Scikit-learn, Statistics, Tableau",8,Data Analyst
+"Agile, CSS, HTML, JavaScript, OWASP, Power BI, RESTful APIs, Terraform, Vue.js",9,Frontend Developer
+"A/B Testing, Data Visualization, Machine Learning, NumPy, Pandas, PyTorch, Python, SQL, Spark, Tableau, TensorFlow",11,Data Scientist
+"Deep Learning, Docker, Machine Learning, Python, Scikit-learn",5,Machine Learning Engineer
+"HTML, JavaScript, MongoDB, Penetration Testing, Python, RESTful APIs, React, SQL, Terraform",9,Full Stack Developer
+"Data Visualization, Deep Learning, Machine Learning, NumPy, Python, Statistics, TensorFlow",7,Data Scientist
+"Ansible, Azure, CI/CD, Docker, Git, Jenkins, Linux, Ruby, Terraform",9,DevOps Engineer
+"CI/CD, Docker, Machine Learning, MongoDB, Python, RESTful APIs, SQL, Statistics, Vue.js",9,Backend Developer
+"Business Intelligence, Data Analysis, Excel, NumPy, Python, SQL, Tableau",7,Data Analyst
+"Agile, Ansible, Data Analysis, Leadership, Machine Learning, Project Management, SQL",7,Product Manager
+"Cybersecurity, Docker, Network Security, Python",4,Security Engineer
+"AWS, Git, Java, JavaScript, Linux, Python, SQL",7,Software Engineer
+"Compliance, Network Security, OWASP, Penetration Testing, Python",5,Security Engineer
+"Communication, Git, Java, Leadership, Problem Solving, RESTful APIs, SQL",7,Software Engineer
+"Agile, Communication, Data Analysis, Leadership",4,Product Manager
+"CSS, MongoDB, Node.js, Python, React, SQL",6,Full Stack Developer
+"AWS, Communication, HTML, JavaScript, MongoDB, Node.js, Python, RESTful APIs, React, Ruby, Tableau",11,Full Stack Developer
+"CI/CD, Communication, Git, HTML, JavaScript, Node.js, Python, Ruby, SQL",9,Full Stack Developer
+"Angular, CSS, GraphQL, HTML, Oracle, RESTful APIs, React",7,Frontend Developer
+"Docker, Linux, Network Security, Penetration Testing, Python",5,Security Engineer
+"Angular, Azure, CI/CD, Cloud Architecture, Git, Terraform",6,Cloud Architect
+"CSS, JavaScript, PostgreSQL, RESTful APIs, React, Vue.js",6,Frontend Developer
+"Android, Flutter, Kotlin, RESTful APIs, Teamwork, iOS",6,Mobile Developer
+"Django, Excel, Pandas, Python, SQL, Statistics",6,Data Analyst
+"AWS, Azure, Docker, Microservices, Pandas, Terraform",6,Cloud Architect
+"Excel, Python, SQL, Statistics, Tableau",5,Data Analyst
+"AWS, Deep Learning, Docker, Machine Learning, NumPy, Python",6,Machine Learning Engineer
+"AWS, Cloud Architecture, Cybersecurity, Docker, Kubernetes, Microservices, Ruby, Terraform",8,Cloud Architect
+"Agile, Business Intelligence, Leadership, Project Management, Python",5,Product Manager
+"AWS, Deep Learning, Kubernetes, MLOps, Machine Learning, Pandas, Python, Scikit-learn",8,Machine Learning Engineer
+"Cryptography, Flutter, Incident Response, Linux, Network Security, OWASP, Penetration Testing",7,Security Engineer
+"AWS, Azure, CI/CD, Cloud Architecture, Microservices",5,Cloud Architect
+"AWS, Azure, Docker, Google Cloud, Microservices, PHP, Terraform, Vue.js",8,Cloud Architect
+"Angular, Excel, Power BI, SQL, Statistics",5,Data Analyst
+"Android, Flask, Kotlin, PostgreSQL, RESTful APIs, React Native, iOS",7,Mobile Developer
+"Android, Ansible, Cryptography, Firebase, Power BI, RESTful APIs, Swift, iOS",8,Mobile Developer
+"C#, Cybersecurity, Deep Learning, NumPy, Pandas, Python, R, SQL, Spark, Statistics",10,Data Scientist
+"CSS, Data Visualization, Docker, JavaScript, Machine Learning, Node.js, Python, RESTful APIs, SQL",9,Full Stack Developer
+"AWS, Deep Learning, NumPy, Python, TensorFlow",5,Machine Learning Engineer
+"Android, Deep Learning, Machine Learning, Monitoring, Network Security, Pandas, PyTorch, Python, Spark, Statistics",10,Data Scientist
+"HTML, JavaScript, React, Vue.js",4,Frontend Developer
+"CI/CD, Communication, Cryptography, Docker, Git, HTML, Java, Problem Solving, SQL",9,Software Engineer
+"Java, Node.js, PostgreSQL, Power BI, PyTorch, RESTful APIs, SQL, Terraform",8,Backend Developer
+"Agile, Git, JavaScript, Power BI, Problem Solving, Python, RESTful APIs",7,Software Engineer
+"CI/CD, Django, Docker, Jenkins, Kubernetes, Linux, Python, Terraform",8,DevOps Engineer
+"Azure, Cryptography, Cybersecurity, Linux, Network Security, PostgreSQL, React Native",7,Security Engineer
+"A/B Testing, CSS, Cybersecurity, JavaScript, MongoDB, Node.js, Python, SQL, TypeScript, Vue.js",10,Full Stack Developer
+"Deep Learning, Docker, Machine Learning, Project Management, Scikit-learn, TensorFlow",6,Machine Learning Engineer
+"MLOps, Machine Learning, NumPy, PyTorch, Python, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"CSS, Flutter, JavaScript, MongoDB, Node.js, Python, React",7,Full Stack Developer
+"Docker, PostgreSQL, Problem Solving, Python, RESTful APIs, SQL, TypeScript",7,Backend Developer
+"AWS, Deep Learning, Machine Learning, NumPy, TensorFlow",5,Machine Learning Engineer
+"Android, Azure, Django, Flutter, JavaScript, RESTful APIs, Swift, iOS",8,Mobile Developer
+"Angular, CSS, Cryptography, HTML, Node.js, RESTful APIs, React, iOS",8,Frontend Developer
+"AWS, Azure, CI/CD, Docker, Terraform",5,Cloud Architect
+"CI/CD, Git, Java, Problem Solving, RESTful APIs, Teamwork, TypeScript",7,Software Engineer
+"Docker, Node.js, Python, RESTful APIs, SQL, Statistics",6,Backend Developer
+"CSS, JavaScript, React, TypeScript",4,Frontend Developer
+"Data Visualization, Machine Learning, Pandas, Python, R, SQL, Statistics",7,Data Scientist
+"Data Visualization, Machine Learning, NumPy, Pandas, Spark, Statistics, TensorFlow",7,Data Scientist
+"AWS, HTML, JavaScript, MongoDB, Node.js, Python, React Native, SQL",8,Full Stack Developer
+"CSS, Data Visualization, HTML, JavaScript, Linux, Node.js, Python, React, SQL",9,Full Stack Developer
+"Excel, Git, HTML, JavaScript, Node.js, PostgreSQL, Python, React, Vue.js",9,Full Stack Developer
+"Android, Docker, Git, Java, Monitoring, Problem Solving, RESTful APIs, SQL, Vue.js",9,Software Engineer
+"Azure, Cloud Architecture, Kubernetes, Power BI, Terraform",5,Cloud Architect
+"Deep Learning, Docker, JavaScript, NumPy, Python, Scikit-learn, Teamwork, TensorFlow",8,Machine Learning Engineer
+"A/B Testing, Android, Deep Learning, Flutter, Jenkins, Kotlin, React Native, iOS",8,Mobile Developer
+"Business Intelligence, Git, Leadership, Problem Solving, Python, RESTful APIs, SQL",7,Software Engineer
+"AWS, Azure, Flask, Kubernetes, PHP, Terraform",6,Cloud Architect
+"Cryptography, Data Analysis, Excel, Pandas, Power BI, SQL",6,Data Analyst
+"AWS, Git, JavaScript, Machine Learning, MongoDB, Python, React, SQL",8,Full Stack Developer
+"AWS, CI/CD, Cloud Architecture, Microservices, Security, Terraform",6,Cloud Architect
+"Flutter, Kotlin, Python, React Native, Swift, iOS",6,Mobile Developer
+"AWS, Ansible, Azure, Cloud Architecture, Kubernetes, Microservices, NumPy, iOS",8,Cloud Architect
+"CSS, Git, Java, JavaScript, Python, React, SQL, Scala, TypeScript",9,Full Stack Developer
+"Cryptography, Docker, Java, JavaScript, Problem Solving, Python, RESTful APIs, SQL",8,Software Engineer
+"CI/CD, Git, JavaScript, Problem Solving, Python, TypeScript",6,Software Engineer
+"Cybersecurity, Incident Response, Network Security, OWASP",4,Security Engineer
+"AWS, Azure, CI/CD, Communication, Google Cloud, Kubernetes, Scala, Terraform",8,Cloud Architect
+"Ansible, Azure, Cloud Architecture, Docker, Monitoring, Terraform",6,Cloud Architect
+"AWS, Docker, Git, Kubernetes, Linux, Pandas, Terraform, TypeScript",8,DevOps Engineer
+"Communication, Excel, Leadership, Project Management, SQL, TensorFlow",6,Product Manager
+"CI/CD, Git, Java, Python, RESTful APIs, Tableau",6,Software Engineer
+"Google Cloud, Kotlin, RESTful APIs, Swift, iOS",5,Mobile Developer
+"CSS, Git, Node.js, Python, RESTful APIs, React, Ruby, SQL, Swift, TensorFlow, TypeScript",11,Full Stack Developer
+"Ansible, CI/CD, Docker, Git, Jenkins, Linux, Monitoring, RESTful APIs",8,DevOps Engineer
+"MongoDB, Node.js, PostgreSQL, Python, R, RESTful APIs, SQL, SQL Server",8,Backend Developer
+"A/B Testing, Docker, Java, Node.js, Oracle, Python, RESTful APIs, Redis",8,Backend Developer
+"Cybersecurity, Data Visualization, MySQL, OWASP, Penetration Testing",5,Security Engineer
+"CSS, Git, JavaScript, MongoDB, Node.js, Python, SQL, TypeScript",8,Full Stack Developer
+"A/B Testing, C#, Kotlin, Machine Learning, NumPy, Pandas, PyTorch, Python, R, Scikit-learn",10,Data Scientist
+"CSS, Git, HTML, JavaScript, Node.js, Python, React, TypeScript",8,Full Stack Developer
+"Docker, Flask, Kubernetes, MongoDB, Python, RESTful APIs, SQL",7,Backend Developer
+"Angular, Data Visualization, Deep Learning, Docker, Machine Learning, NumPy, Pandas, Python",8,Data Scientist
+"Compliance, Cryptography, Cybersecurity, HTML, Linux, Penetration Testing, SQL",7,Security Engineer
+"AWS, Docker, Git, Kubernetes, Linux, Monitoring, Python, Ruby, TypeScript",9,DevOps Engineer
+"Agile, Business Intelligence, Leadership, Project Management, PyTorch, SQL",6,Product Manager
+"Azure, CI/CD, Cloud Architecture, Git, Kubernetes, RESTful APIs, Terraform, iOS",8,Cloud Architect
+"Angular, Ansible, CI/CD, Deep Learning, Docker, Jenkins, Kubernetes, Linux, PostgreSQL",9,DevOps Engineer
+"Data Analysis, Excel, Python, SQL, Tableau",5,Data Analyst
+"Docker, Git, Problem Solving, Python, SQL",5,Software Engineer
+"Cryptography, Network Security, OWASP, Penetration Testing",4,Security Engineer
+"Android, Business Intelligence, Git, JavaScript, Problem Solving, Python, SQL, TypeScript",8,Software Engineer
+"AWS, Azure, CI/CD, Monitoring, Terraform",5,Cloud Architect
+"Cryptography, Cybersecurity, Penetration Testing, Python, TypeScript",5,Security Engineer
+"Git, Google Cloud, HTML, JavaScript, Node.js, PyTorch, React, SQL",8,Full Stack Developer
+"Agile, Data Analysis, Leadership, Project Management, Ruby",5,Product Manager
+"AWS, Docker, Git, Jenkins, Kubernetes, Linux, Terraform",7,DevOps Engineer
+"Android, Firebase, Git, Kotlin, RESTful APIs, React, iOS",7,Mobile Developer
+"AWS, Deep Learning, Docker, MLOps, Python, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"Flutter, Git, Kotlin, Swift, iOS",5,Mobile Developer
+"Cybersecurity, Penetration Testing, Python",3,Security Engineer
+"CSS, JavaScript, MySQL, Node.js, React, TypeScript, Vue.js",7,Frontend Developer
+"C++, Git, HTML, JavaScript, MongoDB, Node.js, Python, SQL, Statistics",9,Full Stack Developer
+"Cryptography, Cybersecurity, Django, Docker, Penetration Testing",5,Security Engineer
+"C#, HTML, JavaScript, RESTful APIs, React, TypeScript",6,Frontend Developer
+"HTML, JavaScript, RESTful APIs, React, TypeScript",5,Frontend Developer
+"AWS, Ansible, CI/CD, Git, Kubernetes, Linux",6,DevOps Engineer
+"Cryptography, Cybersecurity, OWASP, Penetration Testing",4,Security Engineer
+"Angular, CSS, Deep Learning, Docker, HTML, JavaScript, TensorFlow",7,Frontend Developer
+"AWS, Azure, Docker, Excel, Kubernetes, Monitoring, Terraform",7,Cloud Architect
+"Business Intelligence, Excel, PHP, Python, Redis, SQL, Statistics, Tableau",8,Data Analyst
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, Security, Tableau",7,Cloud Architect
+"Ansible, CI/CD, Docker, Git, Kubernetes, Terraform",6,DevOps Engineer
+"Docker, Java, JavaScript, Kubernetes, Problem Solving, Python, RESTful APIs",7,Software Engineer
+"AWS, Cybersecurity, Incident Response, Linux, Penetration Testing, Python",6,Security Engineer
+"A/B Testing, Communication, Data Analysis, Deep Learning, Leadership, Project Management, Tableau",7,Product Manager
+"AWS, Docker, Git, Kubernetes, Linux, Terraform",6,DevOps Engineer
+"Agile, Business Intelligence, Communication, Cybersecurity, Docker, Project Management, Swift",7,Product Manager
+"Ansible, CI/CD, Docker, Git, Jenkins, Kubernetes, Linux, Monitoring, Tableau, Terraform",10,DevOps Engineer
+"Agile, Communication, Project Management, SQL, SQL Server",5,Product Manager
+"Git, JavaScript, MongoDB, Node.js, NumPy, Python, RESTful APIs, SQL, Tableau",9,Full Stack Developer
+"Azure, CI/CD, Cloud Architecture, Java, Kubernetes, Terraform",6,Cloud Architect
+"Data Analysis, Python, SQL, Statistics, Tableau",5,Data Analyst
+"CI/CD, CSS, Cryptography, Data Analysis, Docker, HTML, JavaScript, Node.js, Python, RESTful APIs, SQL",11,Full Stack Developer
+"MongoDB, Node.js, Python, RESTful APIs, SQL",5,Backend Developer
+"Cybersecurity, Java, JavaScript, Kubernetes, Leadership, MongoDB, Problem Solving, Python, RESTful APIs",9,Software Engineer
+"CSS, HTML, JavaScript, Kubernetes, Node.js, Python, React, TypeScript",8,Full Stack Developer
+"CI/CD, Data Analysis, Excel, Power BI, Python, Statistics, Tableau, Vue.js",8,Data Analyst
+"AWS, Deep Learning, Machine Learning, NumPy, PyTorch, Python, R, Statistics, TensorFlow",9,Data Scientist
+"Deep Learning, Django, Machine Learning, Pandas, PyTorch, Python, Statistics",7,Data Scientist
+"AWS, Deep Learning, Docker, Python, SQL, Scikit-learn, Spark, TensorFlow",8,Machine Learning Engineer
+"Communication, Java, Kubernetes, MongoDB, PostgreSQL, RESTful APIs, SQL",7,Backend Developer
+"Data Analysis, Java, Node.js, PostgreSQL, RESTful APIs, SQL",6,Backend Developer
+"AWS, CSS, Java, MongoDB, Python, Redis, SQL",7,Backend Developer
+"Docker, Java, PostgreSQL, Python, SQL",5,Backend Developer
+"Android, Angular, Java, JavaScript, RESTful APIs, React Native, SQL, Swift, iOS",9,Mobile Developer
+"Excel, Power BI, R, SQL, Statistics, Tableau",6,Data Analyst
+"Data Analysis, Docker, Excel, Monitoring, Power BI, Statistics, Tableau",7,Data Analyst
+"CSS, HTML, JavaScript, Node.js, TensorFlow, Terraform, Vue.js",7,Frontend Developer
+"Android, Ansible, Docker, Git, Jenkins, Kubernetes, Linux",7,DevOps Engineer
+"Docker, Java, Node.js, Python, RESTful APIs",5,Backend Developer
+"Data Visualization, Flutter, Kotlin, PostgreSQL, Swift, iOS",6,Mobile Developer
+"Docker, Git, Problem Solving, Python, RESTful APIs, SQL",6,Software Engineer
+"Android, Kotlin, Penetration Testing, RESTful APIs, React Native, SQL, Swift",7,Mobile Developer
+"Ansible, CI/CD, Data Analysis, Docker, Git, Jenkins, Linux, SQL Server",8,DevOps Engineer
+"Git, JavaScript, MongoDB, Node.js, PHP, React, SQL",7,Full Stack Developer
+"Angular, Excel, HTML, React, SQL, Statistics, Tableau",7,Data Analyst
+"Angular, Ansible, CSS, HTML, JavaScript, Problem Solving, RESTful APIs, SQL",8,Frontend Developer
+"Business Intelligence, Data Analysis, Excel, Python, R, Statistics, Tableau",7,Data Analyst
+"Cybersecurity, Docker, Linux, Network Security, Node.js, Python, Scikit-learn",7,Security Engineer
+"Azure, Cloud Architecture, Microservices, Terraform",4,Cloud Architect
+"A/B Testing, CSS, JavaScript, PostgreSQL, React, Redis, TypeScript, Vue.js",8,Frontend Developer
+"CSS, Git, JavaScript, Leadership, MongoDB, Node.js, Python, React, SQL Server, Tableau",10,Full Stack Developer
+"AWS, Azure, CI/CD, Docker, Flutter, Google Cloud, R, Terraform",8,Cloud Architect
+"Data Visualization, Django, Docker, NumPy, Pandas, Penetration Testing, Python, React, SQL, Statistics, TensorFlow",11,Data Scientist
+"Cybersecurity, Network Security, OWASP, Python",4,Security Engineer
+"Agile, Excel, Leadership, Project Management, SQL",5,Product Manager
+"AWS, Deep Learning, Jenkins, Machine Learning, NumPy, Oracle, Power BI, Python, Scala, Scikit-learn",10,Machine Learning Engineer
+"Linux, MySQL, Network Security, Penetration Testing, Python, TypeScript",6,Security Engineer
+"AWS, Azure, C++, Cloud Architecture, Docker, Microservices, Python, Teamwork, Terraform",9,Cloud Architect
+"Agile, Cybersecurity, Docker, OWASP, Pandas, Penetration Testing, Problem Solving",7,Security Engineer
+"AWS, Cloud Architecture, Go, Kubernetes, Monitoring, Terraform",6,Cloud Architect
+"Agile, Business Intelligence, Communication, Git, Project Management, React Native",6,Product Manager
+"AWS, Ansible, Docker, Git, Jenkins, Kubernetes, Linux, Redis, Ruby",9,DevOps Engineer
+"Angular, CSS, HTML, JavaScript, Vue.js",5,Frontend Developer
+"Docker, Java, Network Security, Node.js, Python, RESTful APIs, SQL",7,Backend Developer
+"Android, Docker, Git, PyTorch, RESTful APIs, Swift, iOS",7,Mobile Developer
+"Agile, Business Intelligence, Leadership, Project Management, Terraform",5,Product Manager
+"CSS, JavaScript, Pandas, React, Redis, Terraform, Vue.js",7,Frontend Developer
+"Deep Learning, Machine Learning, NumPy, Python, Scikit-learn, Spark",6,Machine Learning Engineer
+"Data Visualization, Machine Learning, Network Security, NumPy, Oracle, Pandas, PyTorch, Ruby, Spark, Statistics, TensorFlow",11,Data Scientist
+"Ansible, CSS, Excel, JavaScript, Node.js, Python, RESTful APIs, SQL",8,Full Stack Developer
+"Docker, Git, Kubernetes, Linux, Python, Terraform",6,DevOps Engineer
+"CSS, Cybersecurity, JavaScript, Monitoring, React, TypeScript, Vue.js",7,Frontend Developer
+"Data Analysis, Excel, Network Security, Power BI, Python, RESTful APIs, SQL, iOS",8,Data Analyst
+"AWS, CI/CD, Docker, Google Cloud, GraphQL, Kubernetes, Linux, Problem Solving, Terraform",9,DevOps Engineer
+"MongoDB, Python, RESTful APIs, SQL",4,Backend Developer
+"Cybersecurity, Git, Java, JavaScript, Project Management, Python, SQL, Terraform",8,Software Engineer
+"Communication, Docker, Leadership, Project Management, SQL",5,Product Manager
+"AWS, GraphQL, Machine Learning, NumPy, Pandas, R, SQL, Statistics",8,Data Scientist
+"Ansible, CI/CD, Git, Jenkins, Kubernetes, Leadership, Linux, Python",8,DevOps Engineer
+"Docker, Node.js, Python, RESTful APIs, SQL",5,Backend Developer
+"AWS, CI/CD, Communication, Docker, Java, JavaScript, Oracle, PHP, Problem Solving, Python",10,Software Engineer
+"Business Intelligence, Communication, Leadership, MySQL, Project Management, Tableau",6,Product Manager
+"Agile, Communication, Data Analysis, NumPy, Project Management, Tableau",6,Product Manager
+"Android, Flutter, Kotlin, Linux, React Native, Swift",6,Mobile Developer
+"Cryptography, Network Security, OWASP, Penetration Testing, PyTorch",5,Security Engineer
+"C++, JavaScript, MongoDB, Python, R, RESTful APIs, React, SQL, Scikit-learn",9,Full Stack Developer
+"Ansible, CI/CD, Docker, Kubernetes, Linux, Python, Tableau",7,DevOps Engineer
+"AWS, Android, Deep Learning, Docker, Machine Learning, Network Security, Python, TensorFlow",8,Machine Learning Engineer
+"HTML, JavaScript, RESTful APIs, React",4,Frontend Developer
+"Azure, HTML, JavaScript, Monitoring, React, TypeScript, Vue.js",7,Frontend Developer
+"Machine Learning, NumPy, Oracle, Pandas, PyTorch, SQL, Spark, Statistics",8,Data Scientist
+"AWS, Cryptography, Cybersecurity, OWASP, Penetration Testing, React, TensorFlow",7,Security Engineer
+"Java, PostgreSQL, Python, SQL",4,Backend Developer
+"Agile, Angular, CSS, Excel, JavaScript, RESTful APIs, React",7,Frontend Developer
+"Agile, Git, Google Cloud, Kotlin, React Native, Swift, iOS",7,Mobile Developer
+"Agile, Cryptography, Machine Learning, NumPy, PyTorch, Python, SQL, Spark, Statistics, Terraform",10,Data Scientist
+"AWS, Ansible, CI/CD, Deep Learning, Git, Jenkins, Kubernetes, Linux, Vue.js",9,DevOps Engineer
+"AWS, Cloud Architecture, Docker, Terraform",4,Cloud Architect
+"AWS, Deep Learning, NumPy, Pandas, Python, SQL, Statistics, TensorFlow",8,Data Scientist
+"Excel, Leadership, Pandas, Power BI, SQL, Statistics",6,Data Analyst
+"Agile, Leadership, Project Management, Python, SQL",5,Product Manager
+"Machine Learning, NumPy, Pandas, PyTorch, SQL, Statistics",6,Data Scientist
+"AWS, Docker, Git, Go, GraphQL, Jenkins, Kubernetes, Linux, Penetration Testing",9,DevOps Engineer
+"AWS, Azure, Deep Learning, Docker, MLOps, Machine Learning, NumPy, OWASP, PyTorch, Python",10,Machine Learning Engineer
+"CI/CD, Excel, Machine Learning, NumPy, Python, Scikit-learn, TensorFlow, Vue.js",8,Machine Learning Engineer
+"Android, CSS, Flutter, Swift, iOS",5,Mobile Developer
+"AWS, CI/CD, Docker, Java, Network Security, OWASP, Problem Solving, Python, SQL",9,Software Engineer
+"AWS, CI/CD, Git, Java, JavaScript, Problem Solving, RESTful APIs, React, SQL",9,Software Engineer
+"AWS, Azure, Docker, Kubernetes, Leadership, Security, Swift, Terraform",8,Cloud Architect
+"CSS, GraphQL, JavaScript, Jenkins, RESTful APIs, React, Vue.js",7,Frontend Developer
+"Azure, CI/CD, Cloud Architecture, Docker, Terraform",5,Cloud Architect
+"Cybersecurity, Data Analysis, HTML, Incident Response, Linux, OWASP, Penetration Testing",7,Security Engineer
+"AWS, Azure, CI/CD, Cloud Architecture, Docker",5,Cloud Architect
+"Communication, Firebase, Git, Kotlin, Kubernetes, PHP, Swift, iOS",8,Mobile Developer
+"Django, Docker, Java, MongoDB, PostgreSQL, Project Management, Python, Redis, SQL",9,Backend Developer
+"CSS, JavaScript, MongoDB, Node.js, PostgreSQL, Python, SQL",7,Full Stack Developer
+"AWS, Ansible, CI/CD, Docker, Git, Go, JavaScript, Kubernetes",8,DevOps Engineer
+"Android, Git, JavaScript, Kotlin, React Native, iOS",6,Mobile Developer
+"AWS, CI/CD, Git, Java, Jenkins, Kubernetes, Linux",7,DevOps Engineer
+"HTML, JavaScript, Kubernetes, Linux, React, Vue.js",6,Frontend Developer
+"Data Analysis, Docker, Git, JavaScript, Problem Solving, Python, Scikit-learn",7,Software Engineer
+"CI/CD, Git, GraphQL, Kotlin, Power BI, R, RESTful APIs, Swift, iOS",9,Mobile Developer
+"Deep Learning, Go, HTML, Machine Learning, NumPy, Pandas, Python, R",8,Data Scientist
+"AWS, Deep Learning, Docker, MLOps, Machine Learning, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"Ansible, CI/CD, Docker, Git, Kubernetes, Node.js, Terraform",7,DevOps Engineer
+"AWS, Ansible, Azure, Docker, Kubernetes, Oracle, Redis, Terraform",8,Cloud Architect
+"Cybersecurity, Linux, Network Security, OWASP, Teamwork",5,Security Engineer
+"MongoDB, PHP, Python, RESTful APIs, SQL",5,Backend Developer
+"Business Intelligence, Deep Learning, Machine Learning, Pandas, Problem Solving, PyTorch, Python, SQL, Scikit-learn, Statistics, TensorFlow",11,Data Scientist
+"Kotlin, MongoDB, Node.js, Python, RESTful APIs, React, SQL, Scikit-learn",8,Full Stack Developer
+"Angular, CSS, HTML, JavaScript",4,Frontend Developer
+"Data Analysis, Penetration Testing, Python, SQL, Statistics, Tableau, Terraform",7,Data Analyst
+"Cassandra, Flask, Java, MongoDB, Python, RESTful APIs, Swift",7,Backend Developer
+"A/B Testing, Agile, Business Intelligence, Communication, Data Visualization, Project Management",6,Product Manager
+"AWS, Android, Kotlin, RESTful APIs, React Native, iOS",6,Mobile Developer
+"Cybersecurity, Linux, OWASP, Penetration Testing, Ruby",5,Security Engineer
+"Ansible, CI/CD, Docker, Git, Linux, Python",6,DevOps Engineer
+"Ansible, CI/CD, Git, Jenkins, Kubernetes, Linux, Terraform",7,DevOps Engineer
+"CI/CD, Git, Java, JavaScript, Kubernetes, Monitoring, PyTorch, Python, RESTful APIs, TypeScript",10,Software Engineer
+"AWS, C#, Cloud Architecture, Docker, Kubernetes, Microservices, Monitoring, Terraform, iOS",9,Cloud Architect
+"AWS, Cloud Architecture, Microservices, Terraform",4,Cloud Architect
+"Android, Git, JavaScript, Kubernetes, RESTful APIs, Swift, Terraform, iOS",8,Mobile Developer
+"A/B Testing, Agile, Communication, Leadership, Oracle, SQL",6,Product Manager
+"Cybersecurity, Linux, Network Security, OWASP, PHP",5,Security Engineer
+"Business Intelligence, Data Analysis, Pandas, Power BI, SQL, Statistics",6,Data Analyst
+"Communication, Data Analysis, Excel, GraphQL, Power BI, R, Statistics, Tableau, Teamwork",9,Data Analyst
+"AWS, Deep Learning, Docker, Kubernetes, PyTorch, Python, TensorFlow",7,Machine Learning Engineer
+"AWS, Angular, Cloud Architecture, Google Cloud, Microservices, Terraform",6,Cloud Architect
+"Angular, Data Analysis, Excel, Oracle, Pandas, R, SQL",7,Data Analyst
+"AWS, Communication, Data Analysis, Django, JavaScript, Leadership, Project Management, SQL",8,Product Manager
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, Flutter, Node.js",7,Cloud Architect
+"Docker, Kubernetes, MongoDB, Python, RESTful APIs, SQL",6,Backend Developer
+"HTML, JavaScript, Kubernetes, Node.js, PostgreSQL, Python, RESTful APIs, SQL",8,Full Stack Developer
+"AWS, CI/CD, Deep Learning, NumPy, Python, Ruby, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"Agile, Azure, Communication, Data Analysis, Leadership, SQL, Tableau",7,Product Manager
+"CI/CD, Java, Problem Solving, Python, RESTful APIs",5,Software Engineer
+"Business Intelligence, CI/CD, Java, Problem Solving, Python, RESTful APIs",6,Software Engineer
+"Deep Learning, Machine Learning, NumPy, Pandas, PyTorch, R, Statistics",7,Data Scientist
+"Agile, MLOps, Machine Learning, Oracle, PyTorch, Python, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"Deep Learning, JavaScript, Machine Learning, NumPy, PyTorch, Python",6,Machine Learning Engineer
+"CSS, HTML, JavaScript, MongoDB, Node.js, PostgreSQL, Python, React",8,Full Stack Developer
+"Git, Kotlin, React Native, Swift, iOS",5,Mobile Developer
+"AWS, Deep Learning, Django, Docker, Kotlin, Python, Scala, TensorFlow",8,Machine Learning Engineer
+"Agile, Communication, JavaScript, Leadership, SQL, Scikit-learn",6,Product Manager
+"AWS, Cryptography, Cybersecurity, Penetration Testing, Python, Redis",6,Security Engineer
+"AWS, Docker, Java, Leadership, Python, SQL",6,Backend Developer
+"Agile, Communication, Leadership, SQL",4,Product Manager
+"AWS, Ansible, Azure, CI/CD, Kubernetes, Terraform",6,Cloud Architect
+"HTML, JavaScript, Node.js, React, Vue.js",5,Frontend Developer
+"Agile, Communication, Project Management, SQL",4,Product Manager
+"Agile, Leadership, Project Management, Python, SQL",5,Product Manager
+"AWS, Cloud Architecture, Jenkins, Microservices, Monitoring, Terraform",6,Cloud Architect
+"AWS, Git, HTML, Java, JavaScript, Node.js, PostgreSQL, React, SQL",9,Full Stack Developer
+"Agile, Business Intelligence, Communication, PostgreSQL, Project Management",5,Product Manager
+"Business Intelligence, Deep Learning, Machine Learning, PyTorch, Python, Ruby, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"CSS, Git, HTML, JavaScript, RESTful APIs, Vue.js",6,Frontend Developer
+"AWS, C++, CI/CD, Cloud Architecture, Go, Terraform",6,Cloud Architect
+"Docker, Java, Problem Solving, Python, RESTful APIs",5,Software Engineer
+"Cybersecurity, Incident Response, Penetration Testing, Python",4,Security Engineer
+"Cybersecurity, Git, Linux, Penetration Testing, Vue.js",5,Security Engineer
+"Data Analysis, Docker, Excel, Python, SQL, Tableau",6,Data Analyst
+"CSS, Deep Learning, Java, Kotlin, Machine Learning, NumPy, Pandas, PyTorch, R, Statistics",10,Data Scientist
+"Angular, CSS, JavaScript, Linux, NumPy, Penetration Testing, React, TypeScript",8,Frontend Developer
+"Azure, C++, Cassandra, Cloud Architecture, Docker, Flask, Google Cloud, Terraform",8,Cloud Architect
+"HTML, JavaScript, MongoDB, Node.js, Python, SQL",6,Full Stack Developer
+"CSS, GraphQL, HTML, Leadership, RESTful APIs, React, Tableau, Vue.js",8,Frontend Developer
+"Excel, Java, MongoDB, Python, RESTful APIs",5,Backend Developer
+"AWS, C#, Cryptography, Cybersecurity, Go, MySQL, Penetration Testing, Python",8,Security Engineer
+"AWS, C#, Deep Learning, Docker, Machine Learning, Python, Scala, Scikit-learn, Teamwork, TensorFlow",10,Machine Learning Engineer
+"Git, Java, NumPy, Problem Solving, RESTful APIs, SQL",6,Software Engineer
+"Agile, Business Intelligence, Communication, Data Analysis, Project Management",5,Product Manager
+"Data Visualization, Machine Learning, NumPy, Pandas, R, Statistics, TensorFlow",7,Data Scientist
+"CSS, Docker, Git, Kubernetes, Problem Solving, Python, SQL",7,Software Engineer
+"Agile, Cryptography, MongoDB, Network Security, OWASP, Penetration Testing",6,Security Engineer
+"CI/CD, Git, Google Cloud, Java, Problem Solving, SQL, Statistics",7,Software Engineer
+"AWS, Deep Learning, NumPy, Problem Solving, PyTorch, Python, Scala, Swift, TensorFlow",9,Machine Learning Engineer
+"AWS, Angular, CSS, JavaScript, Node.js, React, iOS",7,Frontend Developer
+"Java, Kubernetes, MongoDB, Power BI, Python, RESTful APIs",6,Backend Developer
+"A/B Testing, Data Analysis, Pandas, Power BI, SQL, Statistics",6,Data Analyst
+"Business Intelligence, Communication, Jenkins, Leadership, Project Management, Python",6,Product Manager
+"Angular, CSS, Data Visualization, JavaScript, Monitoring, React, TypeScript",7,Frontend Developer
+"AWS, CSS, Flask, HTML, JavaScript, Node.js, Python, RESTful APIs, SQL",9,Full Stack Developer
+"Cryptography, Cybersecurity, Incident Response, Linux, Penetration Testing",5,Security Engineer
+"Machine Learning, NumPy, Python, SQL, Statistics, TensorFlow, Terraform",7,Data Scientist
+"Android, Flutter, React Native, Ruby, SQL Server, Scala, Swift, iOS",8,Mobile Developer
+"Azure, CSS, HTML, RESTful APIs, React, Terraform",6,Frontend Developer
+"Docker, Git, HTML, JavaScript, MongoDB, Node.js, React, SQL",8,Full Stack Developer
+"AWS, Azure, CI/CD, Docker, Microservices, Terraform",6,Cloud Architect
+"A/B Testing, Ansible, Java, Node.js, Pandas, PostgreSQL, Python, RESTful APIs, Redis",9,Backend Developer
+"Agile, Android, Cassandra, Data Visualization, Deep Learning, Machine Learning, NumPy, Pandas, PyTorch, Spark, Statistics, TensorFlow",12,Data Scientist
+"Data Analysis, Leadership, Pandas, Redis, SQL, Statistics, Tableau, Vue.js",8,Data Analyst
+"Android, Git, Jenkins, Monitoring, Swift, iOS",6,Mobile Developer
+"Android, Docker, Flutter, JavaScript, RESTful APIs, Swift, TensorFlow, iOS",8,Mobile Developer
+"AWS, Cryptography, Data Visualization, NumPy, Pandas, Python, SQL, Statistics, TensorFlow",9,Data Scientist
+"Java, MongoDB, Python, RESTful APIs, Redis",5,Backend Developer
+"Android, Flutter, RESTful APIs, Swift, iOS",5,Mobile Developer
+"CI/CD, Git, Go, Java, JavaScript, Kubernetes, Python, SQL",8,Software Engineer
+"Docker, Git, Java, NumPy, PHP, Python, RESTful APIs, Ruby",8,Software Engineer
+"HTML, Java, JavaScript, RESTful APIs, React, SQL, TypeScript",7,Frontend Developer
+"CI/CD, Docker, Go, Kubernetes, Node.js, Python, RESTful APIs, SQL",8,Backend Developer
+"Angular, CSS, Git, GraphQL, Java, JavaScript, React, TypeScript",8,Frontend Developer
+"Cybersecurity, Linux, Network Security, Python",4,Security Engineer
+"Data Visualization, Machine Learning, Pandas, Python, SQL, Spark, Statistics, TensorFlow",8,Data Scientist
+"Communication, Docker, Machine Learning, NumPy, OWASP, PyTorch, Python, Spark, TensorFlow",9,Machine Learning Engineer
+"C++, Docker, Java, Kotlin, Problem Solving, Python, SQL",7,Software Engineer
+"CI/CD, Deep Learning, Docker, Git, Jenkins, Linux, Node.js, RESTful APIs, Terraform",9,DevOps Engineer
+"AWS, Data Analysis, Deep Learning, Docker, JavaScript, Machine Learning, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"Compliance, Cybersecurity, Network Security, OWASP, Python, React",6,Security Engineer
+"AWS, Ansible, CI/CD, Docker, Git, Kubernetes, Project Management, SQL",8,DevOps Engineer
+"CSS, JavaScript, Leadership, MongoDB, Python, React, SQL, Scala",8,Full Stack Developer
+"Docker, Java, Node.js, Python, Ruby, SQL",6,Backend Developer
+"Angular, CSS, Docker, HTML, JavaScript, RESTful APIs",6,Frontend Developer
+"JavaScript, Network Security, Node.js, OWASP, Penetration Testing",5,Security Engineer
+"Flutter, Git, JavaScript, Kubernetes, MongoDB, Python, React, SQL, iOS",9,Full Stack Developer
+"Agile, Business Intelligence, Leadership, Network Security, Penetration Testing, Project Management, SQL",7,Product Manager
+"CI/CD, Cassandra, Docker, Git, Java, Machine Learning, Python, R, SQL",9,Software Engineer
+"HTML, Node.js, Python, RESTful APIs, React, SQL",6,Full Stack Developer
+"Deep Learning, Machine Learning, NumPy, Pandas, PyTorch, Python, SQL",7,Data Scientist
+"Docker, Java, PostgreSQL, Python, SQL",5,Backend Developer
+"Agile, CSS, Deep Learning, JavaScript, MongoDB, Monitoring, Node.js, React, SQL",9,Full Stack Developer
+"Data Analysis, Excel, Network Security, NumPy, Power BI, Python, RESTful APIs, SQL",8,Data Analyst
+"A/B Testing, CI/CD, Docker, Java, Kubernetes, Problem Solving, Python, RESTful APIs",8,Software Engineer
+"Agile, Business Intelligence, Excel, Leadership, Machine Learning, Project Management",6,Product Manager
+"Cybersecurity, Data Visualization, Flutter, Machine Learning, Pandas, PyTorch, Python, Scala, Statistics, TensorFlow",10,Data Scientist
+"AWS, Deep Learning, Docker, Leadership, Machine Learning, Network Security, Problem Solving, Python, Scikit-learn",9,Machine Learning Engineer
+"Business Intelligence, Communication, Deep Learning, HTML, Leadership, Project Management",6,Product Manager
+"Data Analysis, Python, SQL, Statistics, Tableau, TensorFlow",6,Data Analyst
+"AWS, Ansible, Cryptography, Cybersecurity, Machine Learning, Penetration Testing, Python, Vue.js",8,Security Engineer
+"Data Visualization, Machine Learning, Node.js, NumPy, Python, SQL, Scikit-learn, Statistics",8,Data Scientist
+"Deep Learning, Docker, Kubernetes, Python, Scikit-learn, TensorFlow",6,Machine Learning Engineer
+"Docker, HTML, JavaScript, MongoDB, Python, React, SQL, Vue.js",8,Full Stack Developer
+"AWS, Deep Learning, Machine Learning, PyTorch, Python, Scikit-learn, Tableau",7,Machine Learning Engineer
+"Business Intelligence, Data Analysis, Excel, Java, Pandas, Python, SQL",7,Data Analyst
+"Android, Angular, Flutter, Git, Kotlin, Redis, iOS",7,Mobile Developer
+"Agile, Communication, Project Management, SQL",4,Product Manager
+"GraphQL, HTML, JavaScript, React, TypeScript, Vue.js",6,Frontend Developer
+"AWS, Agile, CSS, Cryptography, HTML, RESTful APIs, React, Vue.js",8,Frontend Developer
+"CSS, Excel, Git, JavaScript, MongoDB, Node.js, PostgreSQL, Python, R, SQL",10,Full Stack Developer
+"Angular, CSS, JavaScript, React, TypeScript, Vue.js",6,Frontend Developer
+"AWS, Docker, Flutter, Git, Kubernetes, Linux, Python",7,DevOps Engineer
+"Flutter, Java, Node.js, Python, SQL, iOS",6,Backend Developer
+"Azure, Machine Learning, NumPy, Pandas, PyTorch, R, Scikit-learn, Statistics, TensorFlow",9,Data Scientist
+"Java, MongoDB, PostgreSQL, Python, RESTful APIs",5,Backend Developer
+"Android, Flutter, Git, Kotlin, iOS",5,Mobile Developer
+"Excel, Kubernetes, NumPy, Pandas, Python, SQL, Scala, Statistics",8,Data Analyst
+"Angular, Data Analysis, Excel, NumPy, Python, SQL",6,Data Analyst
+"Angular, Data Analysis, Pandas, SQL, Statistics",5,Data Analyst
+"Docker, Excel, Jenkins, Power BI, SQL, Statistics, Tableau, Vue.js",8,Data Analyst
+"Agile, HTML, JavaScript, React, TypeScript, Vue.js",6,Frontend Developer
+"Flutter, HTML, JavaScript, MongoDB, Python, React, SQL",7,Full Stack Developer
+"AWS, CI/CD, Docker, Git, Jenkins, Linux",6,DevOps Engineer
+"CSS, Django, Flutter, Git, Kotlin, Swift, iOS",7,Mobile Developer
+"AWS, Git, Java, JavaScript, Network Security, OWASP, Problem Solving, SQL",8,Software Engineer
+"Data Visualization, Machine Learning, Pandas, PyTorch, Python, R, SQL, Statistics, TypeScript",9,Data Scientist
+"Azure, CI/CD, Git, Jenkins, Kubernetes, Linux, Machine Learning, Python",8,DevOps Engineer
+"CI/CD, Docker, Git, Jenkins, Kubernetes, Machine Learning, Python",7,DevOps Engineer
+"Ansible, CI/CD, Deep Learning, Git, Kubernetes, Linux, Python",7,DevOps Engineer
+"CSS, GraphQL, JavaScript, RESTful APIs, React, Tableau, TypeScript",7,Frontend Developer
+"AWS, PostgreSQL, Python, RESTful APIs, SQL",5,Backend Developer
+"Flutter, Git, HTML, Java, JavaScript, MongoDB, Node.js, Python, React",9,Full Stack Developer
+"Deep Learning, NumPy, Pandas, Python, Statistics, TensorFlow, TypeScript",7,Data Scientist
+"Angular, Data Visualization, Machine Learning, Network Security, NumPy, Pandas, PyTorch, Python, R",9,Data Scientist
+"Docker, Java, JavaScript, Monitoring, Problem Solving, Python, Ruby, SQL, iOS",9,Software Engineer
+"Git, HTML, JavaScript, Python, RESTful APIs, React, SQL, TypeScript",8,Full Stack Developer
+"Docker, Machine Learning, Pandas, Python, SQL, Statistics, TensorFlow",7,Data Scientist
+"Java, MongoDB, Python, RESTful APIs",4,Backend Developer
+"A/B Testing, AWS, Machine Learning, NumPy, Python, TensorFlow",6,Machine Learning Engineer
+"CSS, HTML, RESTful APIs, React, Terraform, TypeScript",6,Frontend Developer
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, JavaScript, OWASP, Scala",8,Cloud Architect
+"AWS, Azure, Business Intelligence, CI/CD, Kubernetes, Terraform",6,Cloud Architect
+"C++, Cybersecurity, Git, JavaScript, PostgreSQL, Python, RESTful APIs, React, SQL",9,Full Stack Developer
+"CSS, HTML, RESTful APIs, React, TypeScript",5,Frontend Developer
+"HTML, MongoDB, Node.js, Python, RESTful APIs, React, SQL",7,Full Stack Developer
+"Azure, Cloud Architecture, Kubernetes, Microservices, SQL Server, Statistics, Terraform",7,Cloud Architect
+"AWS, Cloud Architecture, Docker, Kubernetes, React, Redis, Tableau, Terraform",8,Cloud Architect
+"CI/CD, Docker, Java, MongoDB, Power BI, Python, SQL, Swift",8,Backend Developer
+"Deep Learning, Docker, Go, Kubernetes, Machine Learning, PyTorch, R, Scikit-learn, TensorFlow",9,Machine Learning Engineer
+"Angular, C++, CSS, HTML, JavaScript, Linux, Redis",7,Frontend Developer
+"Java, Leadership, MongoDB, PostgreSQL, Power BI, Python, RESTful APIs",7,Backend Developer
+"Java, Node.js, PostgreSQL, RESTful APIs, SQL",5,Backend Developer
+"Android, CI/CD, Git, Kotlin, RESTful APIs, iOS",6,Mobile Developer
+"Android, Firebase, Git, Kotlin, Pandas, PostgreSQL, RESTful APIs, Swift, Tableau",9,Mobile Developer
+"Compliance, Linux, Network Security, OWASP, Penetration Testing",5,Security Engineer
+"Cybersecurity, Jenkins, OWASP, PHP, Penetration Testing, Teamwork",6,Security Engineer
+"Cryptography, Cybersecurity, Docker, Network Security, OWASP",5,Security Engineer
+"Data Analysis, Excel, Kubernetes, Pandas, SQL, Tableau",6,Data Analyst
+"Agile, Business Intelligence, Communication, Google Cloud, GraphQL, PostgreSQL, Project Management",7,Product Manager
+"C++, Django, Docker, Machine Learning, NumPy, PyTorch, Python, Scala, TensorFlow",9,Machine Learning Engineer
+"CSS, HTML, Java, JavaScript, MongoDB, Node.js, PostgreSQL, Python, React",9,Full Stack Developer
+"CI/CD, Docker, Git, Jenkins, Kubernetes, Python",6,DevOps Engineer
+"Agile, Business Intelligence, Communication, Docker, NumPy, Project Management, Vue.js",7,Product Manager
+"CI/CD, Docker, Git, Jenkins, Kubernetes, Monitoring, PyTorch, Python, Terraform",9,DevOps Engineer
+"Excel, Pandas, SQL, Statistics, Tableau",5,Data Analyst
+"CI/CD, Docker, Node.js, Oracle, Python, RESTful APIs, SQL",7,Backend Developer
+"JavaScript, MongoDB, Node.js, PostgreSQL, RESTful APIs, React, SQL, Scala, Vue.js",9,Full Stack Developer
+"Deep Learning, MLOps, NumPy, PyTorch, Python, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"Android, Docker, Firebase, Kotlin, RESTful APIs, React Native, iOS",7,Mobile Developer
+"Git, JavaScript, Node.js, RESTful APIs, React, SQL",6,Full Stack Developer
+"Agile, Communication, Project Management, SQL",4,Product Manager
+"AWS, Azure, CI/CD, Go, Google Cloud, Kubernetes, Linux, Monitoring, Terraform",9,Cloud Architect
+"Cybersecurity, Linux, OWASP, Penetration Testing, PostgreSQL",5,Security Engineer
+"Data Visualization, Deep Learning, Machine Learning, NumPy, Pandas, Python, RESTful APIs, SQL, Spark, Teamwork",10,Data Scientist
+"CSS, Docker, Java, JavaScript, Problem Solving, Python",6,Software Engineer
+"Docker, Java, OWASP, PostgreSQL, PyTorch, RESTful APIs, SQL",7,Backend Developer
+"CSS, Docker, HTML, JavaScript, Monitoring, RESTful APIs, TypeScript",7,Frontend Developer
+"A/B Testing, Data Analysis, Docker, Pandas, Power BI, SQL, Statistics",7,Data Analyst
+"Docker, Flask, Java, JavaScript, MongoDB, Oracle, RESTful APIs, SQL",8,Backend Developer
+"Java, Node.js, PostgreSQL, Python, RESTful APIs, React",6,Backend Developer
+"CSS, JavaScript, React, TypeScript",4,Frontend Developer
+"Compliance, Cryptography, Linux, Network Security, Penetration Testing, R",6,Security Engineer
+"C#, CSS, Data Analysis, Git, GraphQL, JavaScript, Node.js, Python, React",9,Full Stack Developer
+"Cryptography, Network Security, Penetration Testing",3,Security Engineer
+"AWS, Angular, Azure, CI/CD, Docker, Excel, Kubernetes, Linux, PostgreSQL, Terraform",10,DevOps Engineer
+"CI/CD, CSS, HTML, JavaScript, Python, TypeScript, Vue.js",7,Frontend Developer
+"A/B Testing, Excel, Java, Oracle, Pandas, Python, SQL, Statistics",8,Data Analyst
+"Java, PostgreSQL, RESTful APIs, SQL",4,Backend Developer
+"Cybersecurity, Machine Learning, Network Security, OWASP, Penetration Testing, Python, Scikit-learn",7,Security Engineer
+"CI/CD, Git, Pandas, Problem Solving, Python, RESTful APIs, TypeScript",7,Software Engineer
+"Android, CI/CD, Data Analysis, Firebase, Flutter, Kotlin, Swift",7,Mobile Developer
+"Firebase, Kotlin, RESTful APIs, Swift, iOS",5,Mobile Developer
+"Data Visualization, Machine Learning, NumPy, Pandas, Python, SQL, Scikit-learn, TensorFlow",8,Data Scientist
+"Data Analysis, Excel, PHP, Power BI, R, Statistics",6,Data Analyst
+"Android, Docker, Git, Google Cloud, Kotlin, Kubernetes, React Native, iOS",8,Mobile Developer
+"C#, CI/CD, Cybersecurity, Linux, OWASP, Penetration Testing, Python",7,Security Engineer
+"Deep Learning, Docker, Machine Learning, Pandas, Python, Scala, Statistics, TensorFlow",8,Data Scientist
+"Ansible, Flutter, Git, Kotlin, Project Management, Swift, iOS",7,Mobile Developer
+"Cybersecurity, OWASP, Penetration Testing, Python, SQL Server",5,Security Engineer
+"CI/CD, Git, HTML, Java, JavaScript, NumPy, PHP, Problem Solving, RESTful APIs",9,Software Engineer
+"Go, HTML, Java, Node.js, PostgreSQL, PyTorch, RESTful APIs, SQL",8,Backend Developer
+"AWS, Azure, CI/CD, Cloud Architecture, Kubernetes, Linux",6,Cloud Architect
+"Deep Learning, Kubernetes, Machine Learning, Node.js, NumPy, Pandas, PyTorch, TensorFlow",8,Machine Learning Engineer
+"CI/CD, Java, JavaScript, Network Security, Penetration Testing, Problem Solving, Python, RESTful APIs, SQL",9,Software Engineer
+"CSS, HTML, JavaScript, MongoDB, Node.js, Python, SQL",7,Full Stack Developer
+"AWS, CI/CD, Git, JavaScript, MongoDB, Node.js, Pandas, React, React Native, SQL",10,Full Stack Developer
+"Agile, Communication, Data Analysis, Leadership, MongoDB, PHP, Project Management",7,Product Manager
+"Data Visualization, Go, NumPy, Pandas, PyTorch, Python, SQL, Statistics, TensorFlow",9,Data Scientist
+"Deep Learning, Kubernetes, Machine Learning, NumPy, PyTorch, Python",6,Machine Learning Engineer
+"NumPy, Pandas, PyTorch, Python, R, SQL, Statistics, TensorFlow",8,Data Scientist
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, Node.js, Python",7,Cloud Architect
+"AWS, Azure, CI/CD, Cryptography, Flutter, Redis, Terraform",7,Cloud Architect
+"Cassandra, Compliance, Cybersecurity, Linux, Network Security, NumPy",6,Security Engineer
+"Android, Firebase, Flutter, Kubernetes, Oracle, RESTful APIs, Swift, iOS",8,Mobile Developer
+"Deep Learning, Java, Kubernetes, Linux, Machine Learning, NumPy, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"Ansible, Deep Learning, Machine Learning, PyTorch, Python, RESTful APIs, Scikit-learn, Tableau",8,Machine Learning Engineer
+"Deep Learning, Machine Learning, NumPy, PyTorch, Python, React, Statistics",7,Data Scientist
+"MLOps, Machine Learning, NumPy, Oracle, Python, Scikit-learn, TensorFlow, TypeScript",8,Machine Learning Engineer
+"AWS, Java, Jenkins, MongoDB, Node.js, RESTful APIs, SQL",7,Backend Developer
+"Docker, Git, Java, JavaScript, Problem Solving",5,Software Engineer
+"Ansible, Linux, Network Security, Penetration Testing, Python",5,Security Engineer
+"Ansible, CI/CD, Docker, Git, Google Cloud, Jenkins, Kubernetes, Python",8,DevOps Engineer
+"AWS, CI/CD, Docker, Git, GraphQL, Jenkins, Kubernetes, Monitoring, Python",9,DevOps Engineer
+"Data Visualization, Docker, NumPy, Pandas, Power BI, PyTorch, Python, Statistics",8,Data Scientist
+"AWS, CSS, Cybersecurity, Git, JavaScript, MongoDB, Node.js, Python, React, Scikit-learn",10,Full Stack Developer
+"C++, Excel, Pandas, Python, SQL, Statistics",6,Data Analyst
+"AWS, Azure, Docker, Kubernetes, Leadership, PHP, Security, Terraform",8,Cloud Architect
+"AWS, Azure, CI/CD, Cloud Architecture, Docker, Flask, Flutter, Python",8,Cloud Architect
+"Deep Learning, Machine Learning, Node.js, NumPy, PyTorch, TensorFlow",6,Machine Learning Engineer
+"Docker, Google Cloud, NumPy, Pandas, PyTorch, Python, R, React, SQL, Spark, Statistics",11,Data Scientist
+"CI/CD, Docker, Go, Machine Learning, PyTorch, Python, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"AWS, Deep Learning, Machine Learning, NumPy, R, TensorFlow, TypeScript",7,Machine Learning Engineer
+"Cryptography, Data Analysis, Network Security, OWASP, Penetration Testing, Python, React Native",7,Security Engineer
+"HTML, JavaScript, React, TypeScript, Vue.js",5,Frontend Developer
+"AWS, Communication, Docker, Java, MySQL, PostgreSQL, RESTful APIs, SQL, iOS",9,Backend Developer
+"Compliance, Cybersecurity, Linux, Penetration Testing, Python",5,Security Engineer
+"A/B Testing, AWS, Docker, Git, HTML, JavaScript, Node.js, Python, RESTful APIs, React, SQL Server",11,Full Stack Developer
+"CSS, HTML, RESTful APIs, React, TypeScript",5,Frontend Developer
+"Cybersecurity, Linux, Network Security, OWASP",4,Security Engineer
+"Agile, Communication, Data Analysis, Machine Learning, MongoDB, Project Management, RESTful APIs, Tableau",8,Product Manager
+"Ansible, Azure, CI/CD, Docker, Git, Linux, Python, Terraform",8,DevOps Engineer
+"AWS, CI/CD, Docker, Kubernetes, Linux, Power BI, SQL Server, Terraform",8,DevOps Engineer
+"CI/CD, Data Analysis, Excel, Jenkins, Pandas, Power BI, PyTorch, SQL",8,Data Analyst
+"Cybersecurity, Network Security, Python",3,Security Engineer
+"A/B Testing, AWS, Android, Azure, CI/CD, Kubernetes, Terraform",7,Cloud Architect
+"Cryptography, Cybersecurity, Network Security, Penetration Testing, Python, iOS",6,Security Engineer
+"CI/CD, Git, Java, Leadership, Monitoring, Problem Solving, SQL, iOS",8,Software Engineer
+"Android, Angular, CSS, Flutter, RESTful APIs, Swift, iOS",7,Mobile Developer
+"CSS, HTML, JavaScript, RESTful APIs, Statistics, Vue.js",6,Frontend Developer
+"Android, C#, JavaScript, MySQL, RESTful APIs, React Native, Scikit-learn, Swift, iOS",9,Mobile Developer
+"AWS, HTML, JavaScript, Python, RESTful APIs, React, SQL",7,Full Stack Developer
+"AWS, Cloud Architecture, Cryptography, Flask, Google Cloud, Kubernetes, MongoDB, Terraform",8,Cloud Architect
+"CI/CD, Docker, Git, Jenkins, Linux, Python",6,DevOps Engineer
+"A/B Testing, Data Analysis, Docker, Excel, Python, Statistics",6,Data Analyst
+"CSS, Cybersecurity, Kubernetes, Network Security, Python",5,Security Engineer
+"C++, Compliance, Cybersecurity, Data Analysis, Linux, Penetration Testing, Python",7,Security Engineer
+"CI/CD, Docker, Flask, Java, Jenkins, Python, SQL, SQL Server",8,Backend Developer
+"CI/CD, Git, Java, Problem Solving, RESTful APIs, SQL, SQL Server",7,Software Engineer
+"Machine Learning, Network Security, Penetration Testing, Python",4,Security Engineer
+"AWS, Agile, Deep Learning, Docker, Machine Learning, Oracle, Scikit-learn, Statistics, TensorFlow",9,Machine Learning Engineer
+"AWS, Agile, CI/CD, Git, Problem Solving, Python, RESTful APIs, React",8,Software Engineer
+"CI/CD, Docker, Java, JavaScript, Problem Solving, Python",6,Software Engineer
+"Deep Learning, Docker, Machine Learning, PyTorch, Python, Scikit-learn",6,Machine Learning Engineer
+"Agile, Data Analysis, HTML, JavaScript, RESTful APIs, React",6,Frontend Developer
+"Azure, Deep Learning, Machine Learning, NumPy, Pandas, R, React Native, Spark, Statistics, TensorFlow",10,Data Scientist
+"AWS, Agile, Azure, Docker, Google Cloud, Kubernetes, Linux, Terraform",8,Cloud Architect
+"AWS, Azure, Docker, Microservices, Monitoring, Scikit-learn, Teamwork, Terraform",8,Cloud Architect
+"AWS, Angular, Data Visualization, Machine Learning, NumPy, Pandas, Python, SQL, Vue.js",9,Data Scientist
+"CSS, Go, GraphQL, JavaScript, RESTful APIs, React, SQL, TypeScript, Vue.js",9,Frontend Developer
+"Data Analysis, Excel, Pandas, Problem Solving, R, SQL, Statistics, Tableau",8,Data Analyst
+"Cybersecurity, Linux, Network Security, OWASP, Power BI, Redis",6,Security Engineer
+"AWS, Azure, CI/CD, Google Cloud, Kubernetes, Pandas, Terraform",7,Cloud Architect
+"AWS, CI/CD, Docker, Git, JavaScript, MySQL, Problem Solving, Project Management, Python, Statistics",10,Software Engineer
+"Business Intelligence, Communication, Leadership, Project Management",4,Product Manager
+"CSS, Flutter, GraphQL, HTML, JavaScript, Monitoring, Node.js, RESTful APIs, React, SQL",10,Full Stack Developer
+"Android, Git, Kotlin, RESTful APIs, iOS",5,Mobile Developer
+"Angular, C++, CSS, Cassandra, Docker, HTML, React, Vue.js",8,Frontend Developer
+"Deep Learning, Django, Docker, Machine Learning, NumPy, Python, Spark",7,Machine Learning Engineer
+"Ansible, CI/CD, Docker, Flask, Kubernetes, Linux, R, Scikit-learn, Terraform",9,DevOps Engineer
+"Azure, CI/CD, Cloud Architecture, Data Visualization, Microservices, Terraform",6,Cloud Architect
+"Angular, C++, CSS, Cybersecurity, Docker, Git, HTML, React",8,Frontend Developer
+"AWS, Java, Node.js, PostgreSQL, RESTful APIs, SQL",6,Backend Developer
+"Cybersecurity, Machine Learning, OWASP, Penetration Testing, Python",5,Security Engineer
+"Java, JavaScript, Penetration Testing, PostgreSQL, Problem Solving, Python, SQL",7,Software Engineer
+"Docker, Flask, Machine Learning, NumPy, Python, Scikit-learn, TensorFlow",7,Machine Learning Engineer
+"Android, Git, Kotlin, RESTful APIs, iOS",5,Mobile Developer
+"AWS, Business Intelligence, Cloud Architecture, Docker, Jenkins, Node.js, Terraform",7,Cloud Architect
+"Deep Learning, Docker, NumPy, Python, Scikit-learn, TensorFlow",6,Machine Learning Engineer
+"CSS, Excel, HTML, JavaScript, TypeScript",5,Frontend Developer
+"CSS, Deep Learning, Machine Learning, NumPy, PHP, PyTorch, TensorFlow, iOS",8,Machine Learning Engineer
+"Compliance, Cybersecurity, Network Security, OWASP",4,Security Engineer
+"Cryptography, Data Analysis, Django, Excel, Google Cloud, Pandas, Statistics, Tableau",8,Data Analyst
+"AWS, Deep Learning, Docker, Machine Learning, NumPy, PostgreSQL, Scala, Scikit-learn, Spark, TensorFlow",10,Machine Learning Engineer
+"CSS, JavaScript, MySQL, Python, RESTful APIs, React, SQL",7,Full Stack Developer
+"AWS, CSS, JavaScript, MongoDB, Python, React, SQL, Scala",8,Full Stack Developer
+"Git, JavaScript, Node.js, RESTful APIs, React, SQL, TypeScript",7,Full Stack Developer
+"Git, Java, JavaScript, Problem Solving, RESTful APIs",5,Software Engineer
+"Git, JavaScript, MongoDB, Node.js, PHP, Python, SQL",7,Full Stack Developer
+"A/B Testing, Agile, Business Intelligence, Leadership, Project Management",5,Product Manager
+"Docker, Git, JavaScript, MongoDB, Node.js, React, SQL",7,Full Stack Developer
+"Data Analysis, Excel, Flask, Pandas, SQL, SQL Server",6,Data Analyst
+"Data Analysis, Pandas, R, SQL, Statistics",5,Data Analyst
+"C++, CI/CD, Docker, Git, Kubernetes, Python, React Native, Terraform, iOS",9,DevOps Engineer
+"HTML, JavaScript, React, TypeScript, Vue.js",5,Frontend Developer
+"CI/CD, CSS, Docker, Git, Java, Kubernetes, Python",7,Software Engineer
+"Django, HTML, JavaScript, Machine Learning, R, React, TypeScript, Vue.js",8,Frontend Developer
+"Cryptography, Cybersecurity, NumPy, Penetration Testing, Scikit-learn",5,Security Engineer
+"AWS, Azure, CI/CD, Cloud Architecture, Kubernetes, Monitoring, iOS",7,Cloud Architect
+"Cybersecurity, Kubernetes, Monitoring, Penetration Testing, Python",5,Security Engineer
+"Business Intelligence, Machine Learning, NumPy, Pandas, Python, R, Scikit-learn, TensorFlow",8,Data Scientist
+"AWS, Data Analysis, Linux, Power BI, React Native, SQL, Statistics",7,Data Analyst
+"Deep Learning, Docker, Git, Java, JavaScript, Kotlin, Problem Solving, SQL",8,Software Engineer
+"AWS, Cryptography, Network Security, NumPy, OWASP, Penetration Testing",6,Security Engineer
+"AWS, Docker, Excel, Machine Learning, Python, Scala, Scikit-learn, TensorFlow",8,Machine Learning Engineer
+"CSS, Django, GraphQL, JavaScript, Oracle, React, TensorFlow, Vue.js",8,Frontend Developer
+"Ansible, CI/CD, Excel, Git, Kubernetes, Linux, Python, Terraform, iOS",9,DevOps Engineer
+"Android, Flutter, Kotlin, PHP, Project Management, React Native, Statistics, iOS",8,Mobile Developer
+"C++, Docker, Machine Learning, NumPy, Python, TensorFlow",6,Machine Learning Engineer
+"Agile, Excel, Monitoring, R, SQL, Statistics, Tableau",7,Data Analyst
+"Data Analysis, Django, Pandas, Power BI, SQL, Statistics",6,Data Analyst
+"AWS, CSS, Jenkins, Node.js, Python, RESTful APIs, React, SQL, SQL Server, Tableau",10,Full Stack Developer
+"Angular, Communication, Java, MongoDB, Node.js, Python, SQL",7,Backend Developer
+"Docker, Linux, Network Security, Penetration Testing, Power BI, Python, React",7,Security Engineer
+"Angular, Cryptography, Cybersecurity, GraphQL, Penetration Testing, SQL Server",6,Security Engineer
+"AWS, CI/CD, Cloud Architecture, Google Cloud, Microservices, NumPy, Terraform",7,Cloud Architect
+"AWS, Docker, Java, PostgreSQL, Python, SQL",6,Backend Developer
+"Git, JavaScript, MongoDB, Node.js, RESTful APIs, React, SQL",7,Full Stack Developer
+"C#, Git, HTML, JavaScript, MongoDB, Node.js, PyTorch, Python, React",9,Full Stack Developer
+"Angular, HTML, JavaScript, Node.js, Oracle, React, TypeScript",7,Frontend Developer
+"Angular, CSS, Data Visualization, Git, HTML, PHP, React",7,Frontend Developer
+"Deep Learning, NumPy, PyTorch, Python, Ruby, Scala, TensorFlow, iOS",8,Machine Learning Engineer
