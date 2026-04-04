@@ -60,23 +60,14 @@ export function ResumeUploader({ onSkillsExtracted, selectedSkills, onResumeRemo
     }
   };
 
-  const analyzeResume = async (_file: File) => {
+  const analyzeResume = async (file: File) => {
     setIsAnalyzing(true);
     
-    // Backend not deployed yet - show informative message
-    setIsAnalyzing(false);
-    alert('Resume analysis requires the backend server. This feature will be available soon!\n\nFor now, please manually select your skills below.');
-    setUploadedFile(null);
-    if (fileInputRef.current) {
-      fileInputRef.current.value = '';
-    }
-    
-    /* Backend API call - will be enabled once backend is deployed
     try {
       const formData = new FormData();
       formData.append('resume', file);
       
-      const response = await fetch('http://localhost:5000/api/extract-skills', {
+      const response = await fetch('https://backend-careerpath-ai.vercel.app/api/extract-skills', {
         method: 'POST',
         body: formData,
       });
@@ -96,7 +87,6 @@ export function ResumeUploader({ onSkillsExtracted, selectedSkills, onResumeRemo
       setIsAnalyzing(false);
       alert('Failed to analyze resume. Please try again.');
     }
-    */
   };
 
   const handleAddExtractedSkills = () => {
