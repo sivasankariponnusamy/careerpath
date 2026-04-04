@@ -257,17 +257,8 @@ function App() {
                 size="lg"
                 className="bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white px-8 py-3 text-lg font-medium shadow-lg disabled:opacity-50"
               >
-                {loading ? (
-                  <>
-                    <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-white mr-2" />
-                    Analyzing...
-                  </>
-                ) : (
-                  <>
-                    <BarChart3 className="w-5 h-5 mr-2" />
-                    Generate Career Roadmap
-                  </>
-                )}
+                <BarChart3 className="w-5 h-5 mr-2" />
+                Generate Career Roadmap
               </Button>
             </div>
 
