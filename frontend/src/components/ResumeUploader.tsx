@@ -67,7 +67,14 @@ export function ResumeUploader({ onSkillsExtracted, selectedSkills, onResumeRemo
       const formData = new FormData();
       formData.append('resume', file);
       
-      const response = await fetch('https://backend-careerpath-ai.vercel.app/api/extract-skills', {
+      // TEMPORARY FIX: Hardcode local backend for testing
+      const API_URL = 'http://localhost:5000/api';
+      
+      // Debug: Log which API is being used
+      console.log('🔍 API URL:', API_URL);
+      console.log('🔍 Calling LOCAL backend');
+      
+      const response = await fetch(`${API_URL}/extract-skills`, {
         method: 'POST',
         body: formData,
       });

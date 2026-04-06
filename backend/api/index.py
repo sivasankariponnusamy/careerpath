@@ -1,10 +1,227 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+from flask_sqlalchemy import SQLAlchemy
+from datetime import datetime
 import re
 import io
+import json
+import os
+import pandas as pd
+import numpy as np
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
 
 app = Flask(__name__)
 CORS(app, origins="*")
+
+# Database Configuration
+# Use environment variable for database path in production, or local SQLite in development
+db_path = os.environ.get('DATABASE_URL', 'sqlite:///career_path.db')
+if db_path.startswith('postgres://'):
+    db_path = db_path.replace('postgres://', 'postgresql://', 1)
+    
+app.config['SQLALCHEMY_DATABASE_URI'] = db_path
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+db = SQLAlchemy(app)
+
+# Database Models
+class Resume(db.Model):
+    """Database model for storing resume information"""
+    __tablename__ = 'resumes'
+    
+    id = db.Column(db.Integer, primary_key=True)
+    filename = db.Column(db.String(255), nullable=False)
+    file_type = db.Column(db.String(50), nullable=False)
+    file_size = db.Column(db.Integer, nullable=False)
+    
+    # Extracted content
+    text_content = db.Column(db.Text, nullable=True)
+    extracted_skills = db.Column(db.Text, nullable=True)
+    categorized_skills = db.Column(db.Text, nullable=True)
+    
+    # Career analysis results
+    suggested_roles = db.Column(db.Text, nullable=True)
+    top_match_role = db.Column(db.String(200), nullable=True)
+    top_match_percentage = db.Column(db.Float, nullable=True)
+    
+    # Metadata
+    upload_date = db.Column(db.DateTime, default=datetime.utcnow, nullable=False)
+    processed = db.Column(db.Boolean, default=False, nullable=False)
+    
+    def to_dict(self):
+        """Convert resume object to dictionary"""
+        return {
+            'id': self.id,
+            'filename': self.filename,
+            'file_type': self.file_type,
+            'file_size': self.file_size,
+            'extracted_skills': json.loads(self.extracted_skills) if self.extracted_skills else [],
+            'categorized_skills': json.loads(self.categorized_skills) if self.categorized_skills else {},
+            'suggested_roles': json.loads(self.suggested_roles) if self.suggested_roles else [],
+            'top_match_role': self.top_match_role,
+            'top_match_percentage': self.top_match_percentage,
+            'upload_date': self.upload_date.isoformat() if self.upload_date else None,
+            'processed': self.processed
+        }
+
+# Initialize database tables
+with app.app_context():
+    try:
+        db.create_all()
+        print("✓ Database initialized successfully!")
+    except Exception as e:
+        print(f"⚠ Database initialization warning: {e}")
+
+# Load datasets for ML model
+DATASET_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'dataset')
+df_encoded = pd.DataFrame()
+all_skills = []
+
+try:
+    df_encoded = pd.read_csv(os.path.join(DATASET_PATH, 'job_dataset_encoded.csv'))
+    all_skills = [col for col in df_encoded.columns if col != 'role']
+    print(f"✓ Dataset loaded with {len(all_skills)} skills")
+except Exception as e:
+    print(f"⚠ Dataset not found, using built-in skill list: {e}")
+    # Comprehensive built-in skill list for serverless deployment
+    all_skills = [
+        'Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'C#', 'Go', 'Rust', 'PHP', 'Ruby',
+        'Swift', 'Kotlin', 'Scala', 'R', 'MATLAB', 'Perl', 'Bash', 'Shell',
+        'React', 'Angular', 'Vue', 'HTML', 'CSS', 'Node.js', 'Express', 'Flask', 'Django',
+        'FastAPI', 'Spring', 'Spring Boot', 'Laravel', 'Rails', 'ASP.NET', 'Next.js', 'Nuxt.js',
+        'Tailwind', 'Bootstrap', 'jQuery', 'Redux', 'GraphQL', 'REST API', 'gRPC',
+        'MongoDB', 'PostgreSQL', 'MySQL', 'SQLite', 'SQL', 'NoSQL', 'Redis', 'Cassandra',
+        'Oracle', 'DynamoDB', 'Elasticsearch', 'Firebase', 'Supabase',
+        'Docker', 'Kubernetes', 'AWS', 'Azure', 'GCP', 'CI/CD', 'Jenkins', 'GitHub Actions',
+        'Git', 'Linux', 'Nginx', 'Apache', 'Terraform', 'Ansible', 'Prometheus', 'Grafana',
+        'EC2', 'S3', 'Lambda', 'CloudFormation', 'EKS', 'ECS', 'RDS',
+        'Machine Learning', 'Deep Learning', 'TensorFlow', 'PyTorch', 'Scikit-learn',
+        'NLP', 'Computer Vision', 'OpenCV', 'LangChain', 'RAG', 'LLM',
+        'Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'Jupyter', 'Data Analysis',
+        'PowerBI', 'Tableau', 'Excel', 'Data Engineering', 'Apache Spark', 'Kafka',
+        'Android', 'iOS', 'React Native', 'Flutter', 'Dart', 'Xcode',
+        'Figma', 'Adobe XD', 'Sketch', 'UI/UX', 'Wireframing', 'Prototyping',
+        'Agile', 'Scrum', 'Jira', 'Project Management', 'Leadership',
+        'Problem Solving', 'Teamwork', 'Communication', 'Critical Thinking',
+        'Cybersecurity', 'Network Security', 'Penetration Testing', 'OWASP',
+        'Blockchain', 'Solidity', 'Web3', 'Smart Contracts',
+        'OpenAI', 'HuggingFace', 'BERT', 'GPT', 'Stable Diffusion',
+        'RabbitMQ', 'Celery', 'WebSocket', 'OAuth', 'JWT', 'Microservices',
+        'Unit Testing', 'Jest', 'Pytest', 'Selenium', 'Cypress',
+    ]
+
+class CareerRecommendationSystem:
+    """AI-Driven Career Recommendation System using Random Forest Classifier"""
+    def __init__(self):
+        self.rf_model = None
+        self.label_encoder = LabelEncoder()
+        self.train_model()
+    
+    def train_model(self):
+        """Train Random Forest Classifier on the dataset"""
+        if df_encoded.empty:
+            print("⚠ No dataset available, using rule-based predictions")
+            return
+        
+        print("Training Random Forest Classifier...")
+        
+        # Prepare features and labels
+        X = df_encoded[all_skills].values
+        y = df_encoded['role'].values
+        
+        # Encode labels
+        y_encoded = self.label_encoder.fit_transform(y)
+        
+        # Split data for training
+        X_train, X_test, y_train, y_test = train_test_split(
+            X, y_encoded, test_size=0.2, random_state=42, stratify=y_encoded
+        )
+        
+        # Train Random Forest Classifier
+        self.rf_model = RandomForestClassifier(
+            n_estimators=100,
+            max_depth=20,
+            min_samples_split=5,
+            min_samples_leaf=2,
+            random_state=42,
+            n_jobs=-1
+        )
+        
+        self.rf_model.fit(X_train, y_train)
+        
+        # Calculate accuracy
+        train_accuracy = self.rf_model.score(X_train, y_train)
+        test_accuracy = self.rf_model.score(X_test, y_test)
+        
+        print(f"✓ Model trained successfully!")
+        print(f"  Training Accuracy: {train_accuracy * 100:.2f}%")
+        print(f"  Testing Accuracy: {test_accuracy * 100:.2f}%")
+    
+    def predict_career(self, user_skills):
+        """Predict career role using Random Forest Classifier"""
+        if self.rf_model is None or not all_skills:
+            # Fallback: rule-based role detection when no ML model
+            return self._rule_based_predict(user_skills)
+
+        # Create user skill vector
+        user_vector = np.zeros(len(all_skills))
+        for skill in user_skills:
+            if skill in all_skills:
+                idx = all_skills.index(skill)
+                user_vector[idx] = 1
+        
+        # Reshape for prediction
+        user_vector = user_vector.reshape(1, -1)
+        
+        # Get prediction probabilities
+        probabilities = self.rf_model.predict_proba(user_vector)[0]
+        
+        # Get top predictions
+        top_indices = np.argsort(probabilities)[::-1][:5]
+        predictions = []
+        
+        for idx in top_indices:
+            role = self.label_encoder.inverse_transform([idx])[0]
+            confidence = probabilities[idx] * 100
+            predictions.append({
+                'role': role,
+                'match_percentage': round(confidence, 2),
+                'confidence': 'High' if confidence > 70 else 'Medium' if confidence > 50 else 'Low'
+            })
+        
+        return predictions
+
+    def _rule_based_predict(self, user_skills):
+        """Rule-based role prediction when ML model is not available"""
+        skills_lower = [s.lower() for s in user_skills]
+        role_scores = {
+            'Frontend Developer': sum(1 for s in ['react', 'angular', 'vue', 'html', 'css', 'javascript', 'typescript', 'tailwind', 'next.js'] if s in skills_lower),
+            'Backend Developer': sum(1 for s in ['python', 'java', 'node.js', 'flask', 'django', 'fastapi', 'spring', 'postgresql', 'mysql', 'rest api'] if s in skills_lower),
+            'Full Stack Developer': sum(1 for s in ['react', 'node.js', 'python', 'javascript', 'mongodb', 'postgresql', 'html', 'css'] if s in skills_lower),
+            'Data Scientist': sum(1 for s in ['python', 'machine learning', 'pandas', 'numpy', 'scikit-learn', 'tensorflow', 'pytorch', 'data analysis', 'r'] if s in skills_lower),
+            'DevOps Engineer': sum(1 for s in ['docker', 'kubernetes', 'aws', 'azure', 'ci/cd', 'linux', 'terraform', 'jenkins', 'git'] if s in skills_lower),
+            'Mobile Developer': sum(1 for s in ['android', 'ios', 'react native', 'flutter', 'swift', 'kotlin', 'dart'] if s in skills_lower),
+            'Machine Learning Engineer': sum(1 for s in ['machine learning', 'deep learning', 'tensorflow', 'pytorch', 'scikit-learn', 'nlp', 'computer vision', 'python'] if s in skills_lower),
+            'Data Engineer': sum(1 for s in ['python', 'apache spark', 'kafka', 'sql', 'aws', 'data engineering', 'pandas'] if s in skills_lower),
+            'Cloud Engineer': sum(1 for s in ['aws', 'azure', 'gcp', 'docker', 'kubernetes', 'terraform', 'ec2', 's3'] if s in skills_lower),
+            'UI/UX Designer': sum(1 for s in ['figma', 'adobe xd', 'sketch', 'ui/ux', 'wireframing', 'prototyping', 'css'] if s in skills_lower),
+        }
+        sorted_roles = sorted(role_scores.items(), key=lambda x: x[1], reverse=True)
+        predictions = []
+        for role, score in sorted_roles[:5]:
+            if score > 0:
+                confidence = min(score * 15, 95)
+                predictions.append({'role': role, 'match_percentage': confidence, 'confidence': 'High' if confidence > 70 else 'Medium' if confidence > 50 else 'Low'})
+        return predictions if predictions else [{'role': 'Software Developer', 'match_percentage': 50, 'confidence': 'Low'}]
+    
+    def recommend_roles(self, user_skills, top_n=5):
+        """Recommend top matching roles using ML model predictions"""
+        return self.predict_career(user_skills)[:top_n]
+
+# Initialize ML model
+career_system = CareerRecommendationSystem()
 
 SKILL_ALIASES = {
     'Python': [r'\bpython\b'],
@@ -124,41 +341,7 @@ SKILL_CATEGORIES = {
     'Soft Skills': ['Teamwork','Communication','Leadership'],
 }
 
-ROLE_KEYWORDS = {
-    'Frontend Developer':        {'react':4,'angular':4,'vue':4,'html':3,'css':3,'javascript':3,'typescript':2,'tailwind':2,'next.js':3,'redux':2,'jquery':1},
-    'Backend Developer':         {'python':2,'java':2,'node.js':3,'flask':4,'django':4,'fastapi':4,'spring boot':4,'postgresql':3,'mysql':3,'rest api':3,'mongodb':2,'redis':2},
-    'Full Stack Developer':      {'react':3,'node.js':3,'javascript':2,'python':2,'mongodb':2,'postgresql':2,'html':2,'css':2,'express':3,'rest api':2},
-    'Data Scientist':            {'python':3,'machine learning':4,'pandas':4,'numpy':4,'scikit-learn':4,'tensorflow':3,'pytorch':3,'data analysis':4,'jupyter':3},
-    'Machine Learning Engineer': {'machine learning':4,'deep learning':4,'tensorflow':4,'pytorch':4,'scikit-learn':3,'nlp':3,'computer vision':3,'python':3,'huggingface':3,'langchain':3},
-    'DevOps Engineer':           {'docker':4,'kubernetes':4,'aws':3,'azure':3,'ci/cd':4,'linux':3,'terraform':4,'ansible':3,'jenkins':3},
-    'Cloud Engineer':            {'aws':4,'azure':4,'gcp':4,'docker':3,'kubernetes':3,'terraform':3},
-    'Data Engineer':             {'python':2,'apache spark':4,'kafka':4,'airflow':4,'sql':3,'aws':2,'pandas':3},
-    'Mobile Developer':          {'android':4,'ios':4,'react native':4,'flutter':4,'swift':4,'kotlin':4,'dart':3},
-    'UI/UX Designer':            {'figma':4,'adobe xd':4,'ui/ux':4,'wireframing':4,'css':2},
-    'Blockchain Developer':      {'blockchain':4,'solidity':4},
-    'Cybersecurity Engineer':    {'cybersecurity':4,'network security':3,'linux':2,'python':2},
-}
-
-
-def detect_roles(skills):
-    sl = [s.lower() for s in skills]
-    scores = {}
-    for role, kw_weights in ROLE_KEYWORDS.items():
-        score = sum(w for kw, w in kw_weights.items() if kw in sl)
-        if score > 0:
-            scores[role] = score
-    if not scores:
-        return []
-    max_score = max(scores.values())
-    result = []
-    for role, score in sorted(scores.items(), key=lambda x: -x[1])[:5]:
-        pct = min(round((score / max_score) * 92, 1), 95)
-        result.append({
-            'role': role,
-            'match_percentage': pct,
-            'confidence': 'High' if pct >= 70 else 'Medium' if pct >= 40 else 'Low'
-        })
-    return result
+# Old keyword-based role detection removed - now using ML model (CareerRecommendationSystem)
 
 
 def read_file_content(file):
@@ -200,6 +383,14 @@ def extract_skills():
     if not file.filename:
         return jsonify({'error': 'No file selected'}), 400
 
+    original_filename = file.filename
+    file_type = original_filename.split('.')[-1] if '.' in original_filename else 'unknown'
+    
+    # Get file size
+    file.seek(0, os.SEEK_END)
+    file_size = file.tell()
+    file.seek(0)
+
     content, err = read_file_content(file)
     if err:
         return jsonify({'error': err}), 400
@@ -226,25 +417,86 @@ def extract_skills():
                 categorized.setdefault(cat, []).append(skill)
                 break
 
-    suggested_roles = detect_roles(found_skills)
+    # Use ML model for role recommendations (same as local backend)
+    suggested_roles = career_system.recommend_roles(found_skills, top_n=3)
     top_match = None
     if suggested_roles:
         top = suggested_roles[0]
         top_match = {
             'role': top['role'],
             'match_percentage': top['match_percentage'],
-            'message': f"Your skills best match {top['role']} ({top['match_percentage']}% match)"
+            'message': f"Based on your resume, you're best suited for {top['role']} role with {top['match_percentage']}% match!" if top else "Upload your resume to get role suggestions"
         }
 
+    # Save resume to database
+    resume_id = None
+    saved_to_db = False
+    try:
+        resume = Resume(
+            filename=original_filename,
+            file_type=file_type,
+            file_size=file_size,
+            text_content=content[:10000],  # Store first 10000 chars
+            extracted_skills=json.dumps(found_skills),
+            categorized_skills=json.dumps(categorized),
+            suggested_roles=json.dumps(suggested_roles),
+            top_match_role=top_match['role'] if top_match else None,
+            top_match_percentage=top_match['match_percentage'] if top_match else None,
+            processed=True,
+            upload_date=datetime.utcnow()
+        )
+        
+        db.session.add(resume)
+        db.session.commit()
+        
+        resume_id = resume.id
+        saved_to_db = True
+        print(f"✓ Resume saved to database with ID: {resume_id}")
+        
+    except Exception as e:
+        print(f"⚠ Error saving resume to database: {str(e)}")
+        try:
+            db.session.rollback()
+        except:
+            pass
+
     return jsonify({
+        'resume_id': resume_id,
         'skills': found_skills,
         'categorized_skills': categorized,
         'suggested_roles': suggested_roles,
         'top_match': top_match,
-        'total_skills': len(found_skills)
+        'total_skills': len(found_skills),
+        'saved_to_database': saved_to_db
     })
 
 
 @app.route('/api/skills', methods=['GET'])
 def get_skills():
     return jsonify({'skills': list(SKILL_ALIASES.keys())})
+
+
+@app.route('/api/resumes', methods=['GET'])
+def get_resumes():
+    """Get all stored resumes from database"""
+    try:
+        resumes = Resume.query.order_by(Resume.upload_date.desc()).limit(50).all()
+        return jsonify({
+            'resumes': [resume.to_dict() for resume in resumes],
+            'count': len(resumes)
+        })
+    except Exception as e:
+        return jsonify({'error': str(e), 'resumes': [], 'count': 0}), 500
+
+
+@app.route('/api/resumes/<int:resume_id>', methods=['GET'])
+def get_resume(resume_id):
+    """Get a specific resume by ID"""
+    try:
+        resume = Resume.query.get(resume_id)
+        if resume:
+            return jsonify({'resume': resume.to_dict()})
+        else:
+            return jsonify({'error': 'Resume not found'}), 404
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500

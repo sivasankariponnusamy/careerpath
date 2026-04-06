@@ -40,10 +40,16 @@ CORS(app)
 from models import db, Resume, SkillGapAnalysis
 
 BASEDIR = os.path.abspath(os.path.dirname(__file__))
-db_path = os.environ.get('DB_PATH', os.path.join(BASEDIR, 'career_path.db'))
+db_path = os.environ.get('DB_PATH', os.path.join(BASEDIR, 'careerpath_new.db'))  # New database file
 upload_folder = os.environ.get('UPLOAD_FOLDER', os.path.join(BASEDIR, 'uploads'))
+
+# Configure SQLite with better concurrency handling
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + db_path
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+app.config['SQLALCHEMY_ENGINE_OPTIONS'] = {
+    'pool_pre_ping': True,
+    'pool_recycle': 3600,
+}
 app.config['UPLOAD_FOLDER'] = upload_folder
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max file size
 
@@ -53,8 +59,20 @@ db.init_app(app)
 # Create uploads directory if it doesn't exist
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
-# Create database tables
+# Create database tables and configure SQLite for better concurrency
 with app.app_context():
+    # Configure SQLite for WAL mode (better concurrent access)
+    from sqlalchemy import event
+    from sqlalchemy.engine import Engine
+    
+    @event.listens_for(Engine, "connect")
+    def set_sqlite_pragma(dbapi_conn, connection_record):
+        cursor = dbapi_conn.cursor()
+        cursor.execute("PRAGMA journal_mode=WAL")
+        cursor.execute("PRAGMA busy_timeout=30000")  # 30 second timeout
+        cursor.execute("PRAGMA synchronous=NORMAL")
+        cursor.close()
+    
     db.create_all()
     print("✓ Database initialized successfully!")
 
