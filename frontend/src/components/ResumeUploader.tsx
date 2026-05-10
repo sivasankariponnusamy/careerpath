@@ -67,32 +67,37 @@ export function ResumeUploader({ onSkillsExtracted, selectedSkills, onResumeRemo
       const formData = new FormData();
       formData.append('resume', file);
       
-      // TEMPORARY FIX: Hardcode local backend for testing
       const API_URL = 'https://backend-careerpath-ai.vercel.app/api';
       
-      // Debug: Log which API is being used
-      console.log('🔍 API URL:', API_URL);
-      console.log('🔍 Calling LOCAL backend');
+      console.log('🔍 Calling API:', `${API_URL}/extract-skills`);
+      console.log('📄 File:', file.name, file.type, file.size);
       
       const response = await fetch(`${API_URL}/extract-skills`, {
         method: 'POST',
         body: formData,
       });
       
+      console.log('📡 Response status:', response.status, response.statusText);
+      
       if (!response.ok) {
-        throw new Error('Failed to analyze resume');
+        const errorText = await response.text();
+        console.error('❌ API Error:', errorText);
+        throw new Error(`API returned ${response.status}: ${errorText}`);
       }
       
       const data = await response.json();
+      console.log('✅ API Response:', data);
+      
       setExtractedSkills(data.skills || []);
       setCategorizedSkills(data.categorized_skills || {});
       setSuggestedRoles(data.suggested_roles || []);
       setTopMatch(data.top_match || null);
       setIsAnalyzing(false);
     } catch (error) {
-      console.error('Error analyzing resume:', error);
+      console.error('❌ Error analyzing resume:', error);
+      setExtractedSkills([]);
       setIsAnalyzing(false);
-      alert('Failed to analyze resume. Please try again.');
+      alert(`Failed to analyze resume: ${error instanceof Error ? error.message : 'Unknown error'}`);
     }
   };
 
