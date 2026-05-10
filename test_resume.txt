@@ -1,0 +1,19 @@
+John Doe
+Software Developer
+
+Skills:
+- Python
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Docker
+- AWS
+- Git
+
+Experience:
+Full Stack Developer at Tech Company
+- Built web applications using React and Node.js
+- Deployed applications to AWS
+- Worked with MongoDB databases
+- Used Docker for containerization

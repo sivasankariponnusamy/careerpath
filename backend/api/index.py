@@ -8,7 +8,7 @@ import json
 import os
 
 app = Flask(__name__)
-CORS(app, origins="*")
+CORS(app, resources={r"/*": {"origins": "*", "methods": ["GET", "POST", "OPTIONS"], "allow_headers": ["Content-Type"]}})
 
 # Database Configuration
 # Use environment variable for database path in production, or local SQLite in development
