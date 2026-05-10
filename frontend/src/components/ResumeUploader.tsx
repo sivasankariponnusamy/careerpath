@@ -67,7 +67,7 @@ export function ResumeUploader({ onSkillsExtracted, selectedSkills, onResumeRemo
       const formData = new FormData();
       formData.append('resume', file);
       
-      // Production backend URL - FIXED
+      // Production backend URL v2 - Force rebuild
       const API_URL = 'https://backend-careerpath-ai.vercel.app/api';
       
       console.log('🔍 Calling API:', `${API_URL}/extract-skills`);
