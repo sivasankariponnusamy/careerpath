@@ -233,11 +233,13 @@ def read_file_content(file):
             return None, f"Could not read file: {str(e)}"
 
 
+@app.route('/health', methods=['GET'])
 @app.route('/api/health', methods=['GET'])
 def health():
     return jsonify({'status': 'healthy', 'service': 'CareerPath AI Backend'})
 
 
+@app.route('/extract-skills', methods=['POST'])
 @app.route('/api/extract-skills', methods=['POST'])
 def extract_skills():
     if 'resume' not in request.files:
@@ -330,11 +332,13 @@ def extract_skills():
     })
 
 
+@app.route('/skills', methods=['GET'])
 @app.route('/api/skills', methods=['GET'])
 def get_skills():
     return jsonify({'skills': list(SKILL_ALIASES.keys())})
 
 
+@app.route('/resumes', methods=['GET'])
 @app.route('/api/resumes', methods=['GET'])
 def get_resumes():
     try:
@@ -343,6 +347,7 @@ def get_resumes():
     except Exception as e:
         return jsonify({'error': str(e), 'resumes': [], 'count': 0}), 500
 
+@app.route('/resumes/<int:resume_id>', methods=['GET'])
 @app.route('/api/resumes/<int:resume_id>', methods=['GET'])
 def get_resume(resume_id):
     try:
