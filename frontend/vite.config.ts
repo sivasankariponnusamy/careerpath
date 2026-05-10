@@ -17,7 +17,7 @@ export default defineConfig(({ mode }) => {
     },
     // Explicitly define environment variables
     define: {
-      'import.meta.env.VITE_API_URL': JSON.stringify(env.VITE_API_URL || 'http://localhost:5000/api'),
+      'import.meta.env.VITE_API_URL': JSON.stringify(env.VITE_API_URL || 'https://backend-careerpath-ai.vercel.app/api'),
     },
   }
 })
